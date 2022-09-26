@@ -41,7 +41,7 @@ def write_shell(output_dir,input_dir):
     print('cd /opt/alphafold/')
     print('for FILE in *.fasta; do')
     print('echo $\{FILE}\ ')
-    print('./run.sh -d /home/haryu/alphafoldDownload -o {0} -m model_1 -f {1} \{FILE}\ -t $(date +\'%Y-%m-\%d\ '):format(output_dir,input_dir)
+    print('./run.sh -d /home/haryu/alphafoldDownload -o {0} -m model_1 -f {1}/{FILE}/ -t $(date +\'%Y-%m-\%d\ '):format(output_dir,input_dir)
     print('sleep 60 # just to be kind to the scheduler')
     print('done')
     print('',file=o)
