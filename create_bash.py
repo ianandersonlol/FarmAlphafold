@@ -33,7 +33,7 @@ if not os.path.exists(newpath):
     os.makedirs(newpath)
 
 def write_shell(output_dir,input_dir):
-    o = open(input_dir+'loop.sh', 'w')
+    o = open(input_dir+'_loop.sh', 'w')
     print('',file=o)
     print('singularity exec --nv -B /home/haryu/alphafoldDownload alphafold.sif bash')
     print('source /opt/miniconda3/etc/profile.d/conda.sh')
