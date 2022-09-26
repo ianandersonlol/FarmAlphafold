@@ -32,7 +32,7 @@ if not os.path.exists(newpath):
     print("{0} does not exist, making it.".format(maindir))
     os.makedirs(newpath)
 
-def write_shell(output_dir,input_dir):
+def write_loop(output_dir,input_dir):
     o = open(input_dir+'_loop.sh', 'w')
     print('',file=o)
     print('singularity exec --nv -B /home/haryu/alphafoldDownload alphafold.sif bash')
@@ -47,5 +47,5 @@ def write_shell(output_dir,input_dir):
     print('',file=o)
     o.close()
 
-write_shell(sys.argv[1],sys.argv[2])
+write_loop(sys.argv[1],sys.argv[2])
 
