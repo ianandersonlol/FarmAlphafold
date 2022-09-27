@@ -26,6 +26,8 @@ if len(sys.argv) >5 :
     time.sleep(.5)
     exit()
 
+print(os.path.basename(sys.argv[2]))
+
 print(Fore.GREEN+'Validating paths...')
 time.sleep(.5) # I hate myself for doing this. I just like it looking cool.
 
