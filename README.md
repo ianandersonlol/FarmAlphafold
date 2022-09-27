@@ -1,5 +1,5 @@
 # FarmAlphafold
-
+(Note this only works for people in the gmonroe group. Changes can be made to work on your group, just ask me.)
 
 
 Running farm on Alphafold 
