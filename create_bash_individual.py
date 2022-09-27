@@ -35,10 +35,14 @@ if sys.argv[1][0] != '/' or sys.argv[1][-1] != '/':
     time.sleep(.5)
     exit() 
 
-if sys.argv[2][0] != '/' or sys.argv[2][-1] != '/':
-    print(Fore.RED + 'ERROR: Just a reminder. The farm needs your directories to have a slash "/" before and after the path. Make sure you included that or it won\'t work ')
+if sys.argv[2][0] != '/':
+    print(Fore.RED + 'ERROR: Just a reminder. The farm needs your directories to have a slash "/" before. Make sure you included that or it won\'t work ')
     time.sleep(.5)
     exit()
+
+if not sys.argv[2].endswith('.fasta') and not sys.argv[2].endswith('.fa'):
+    print(Fore.RED,'Your output file needs to be either .fasta or .fa')
+
 print(Fore.GREEN + 'Validation complete. You have a real path.')
 time.sleep(1) #Again, I hate myself. Why am I like this?  
 
@@ -56,7 +60,7 @@ newpath = os.path.join(current_path, maindir)
 
 
 def write_initialization():
-    o = open(file_name+'_initialize.sh', 'w')
+    o = open(file_name+'_individual_initialize.sh', 'w')
     print('#!/bin/bash -l',file=o) 
     print('#SBATCH -o /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_output.txt',file = o)
     print('#SBATCH -e /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_errors.txt',file = o)
@@ -71,20 +75,18 @@ def write_initialization():
     print('set -u',file = o)
     print('module load spack/singularity/3.8.3',file = o)
     print('singularity instance start -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
-    print('singularity exec instance://bash ~/'+file_name+'.sh',file = o)
+    print('singularity exec instance://bash ~/'+file_name+'_individual.sh',file = o)
 
 
-def write_loop(output_dir,input_dir):
+def write_loop(output_dir,input_file):
     
     print(Fore.GREEN + 'Generating Files With Name: '+file_name)
-    o = open(file_name+'.sh', 'w')
+    o = open(file_name+'_individual.sh', 'w')
     print('#! /bin/bash\n\n',file=o)
     print('source /opt/miniconda3/etc/profile.d/conda.sh', file = o)
     print('conda activate alphafold', file = o)
     print('cd /opt/alphafold/', file = o)
-    print('for FILE in *.fasta; do',file = o)
-    print('echo ${FILE} ',file= o)
-    print("./run.sh -d /home/haryu/alphafoldDownload -o {} -m model_1 -f {}${{FILE}}/ -t $(date +'%Y-%m-%d')".format(output_dir,input_dir),file = o)
+    print("./run.sh -d /home/haryu/alphafoldDownload -o {} -m model_1 -f {} -t $(date +'%Y-%m-%d')".format(output_dir,input_file),file = o)
     print('sleep 60 # just to be kind to the scheduler',file = o)
     print('done',file=o)
     print('',file=o)
