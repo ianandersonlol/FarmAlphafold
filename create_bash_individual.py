@@ -9,7 +9,6 @@ if len(sys.argv) == 1:
     print(Fore.RED + "What's going on here buddy?\nYou need to give me a name...\nplease")
     time.sleep(.5)    
     exit() 
-
 if len(sys.argv) ==2:
     print(Fore.RED + "Ok boys, girls, and NBs\n We need to do both a an output director AND an input directory")
     time.sleep(.5)
