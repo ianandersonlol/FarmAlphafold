@@ -5,6 +5,8 @@ import colorama
 from colorama import Fore
 # Look for output/input directories and email and davis ID 
 
+print(os.path.basename(os.path.normpath(sys.argv[2])))
+
 if len(sys.argv) == 1:
     print(Fore.RED + "What's going on here buddy?\nYou need to give me a name...\nplease")
     time.sleep(.5)    
@@ -56,7 +58,7 @@ newpath = os.path.join(current_path, maindir)
 
 
 def write_initialization():
-    o = open(file_name+'_initialize.sh', 'w')
+    o = open(file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'_initialize.sh', 'w')
     print('#!/bin/bash -l',file=o) 
     print('#SBATCH -o /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_output.txt',file = o)
     print('#SBATCH -e /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_errors.txt',file = o)
@@ -72,12 +74,13 @@ def write_initialization():
     print('module load spack/singularity/3.8.3',file = o)
     print('singularity instance start -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
     print('singularity exec instance://bash ~/'+file_name+'.sh',file = o)
-
+    print('',file=o)
+    o.close()
 
 def write_loop(output_dir,input_dir):
     
-    print(Fore.GREEN + 'Generating Files With Name: '+file_name)
-    o = open(file_name+'.sh', 'w')
+    print(Fore.GREEN + 'Generating Files With Name: '+file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2])))
+    o = open(file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'.sh', 'w')
     print('#! /bin/bash\n\n',file=o)
     print('source /opt/miniconda3/etc/profile.d/conda.sh', file = o)
     print('conda activate alphafold', file = o)
