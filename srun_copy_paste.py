@@ -54,7 +54,7 @@ print('cd /opt/alphafold/',file = o)
 for file in os.listdir(current_path):
     filename = os.fsdecode(file)
     if filename.endswith(".fasta") or filename.endswith(".fa"):
-        print('./run.sh -d /home/haryu/alphafoldDownload -o {0}{4}/ -m model_1 -f "{1}{2}" -t {3}'.format(sys.argv[1],sys.argv[2],filename,two_days_date,output_dir),file =o)
+        print('./run.sh -d /home/haryu/alphafoldDownload -o {0}{4}/ -m model_1 -f "{1}/{4}/{2}" -t {3}'.format(sys.argv[1],sys.argv[2],filename,two_days_date,output_dir),file =o)
 print('',file=o)
 o.close()
 
