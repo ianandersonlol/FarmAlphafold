@@ -61,12 +61,3 @@ o.close()
 time.sleep(1) #IAN STOP YOU MONSTER AESTHETICS ARE FOR THE WEAK
 print(Fore.YELLOW + 'Complete!') #WHY ARE WE LOADING A MODULE JUST FOR A COLOR! IAN STOP.
 
-#/Users/iananderson/Desktop/phycocosm_fasta_hits_msh6_tudor_seqs
-
-
-#./run.sh -d /home/haryu/alphafoldDownload  -o home/icanders/ -m model_1 -f /home/icanders/fungi_MSH6/ENI10155.1.fasta -t 2022-9-26
-
-
-
-
-#cd /home/icanders
