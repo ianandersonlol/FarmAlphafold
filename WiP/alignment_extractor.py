@@ -19,10 +19,11 @@ if sys.argv[1][0] != '/' or sys.argv[1][-1] == '/':
 
 
 data_file = sys.argv[1]
-
-with open("input.txt") as openfile:
+print(data_file)
+with open(data_file) as openfile:
     for line in openfile:
        s = line.split()
+      # print(s)
        for i,j in enumerate(s):
-          if j == "ppl=":
-              print s[i],s[i+1]
+          if j == "=":
+              print(s[i-7],s[i+1])
