@@ -28,8 +28,8 @@ if sys.argv[1][0] != '/' or sys.argv[1][-1] != '/':
     time.sleep(.5)
     exit() 
 
-if sys.argv[2][0] != '/' or sys.argv[2][-1] != '/':
-    print(Fore.RED + 'ERROR: Just a reminder. The farm needs your directories to have a slash "/" before and after the path. Make sure you included that or it won\'t work ')
+if sys.argv[2][0] != '/' or sys.argv[2][-1] == '/':
+    print(Fore.RED + 'ERROR: Just a reminder. The farm needs your directories to have a slash before, but not after the path. Make sure you do that or it won\'t work!!!')
     time.sleep(.5)
     exit()
 print(Fore.GREEN + 'Validation complete. You have a real path.')
