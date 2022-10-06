@@ -1,3 +1,5 @@
+# renames all of the pdbs based on the base name. 
+
 import sys
 import os
 import time

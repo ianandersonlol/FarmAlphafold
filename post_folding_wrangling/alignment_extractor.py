@@ -1,3 +1,5 @@
+## a script for extracting the data from the log output of chimera's matchmaker function.
+
 import sys
 import os
 import time
@@ -13,7 +15,7 @@ else:
 import pandas as pd
 
 if len(sys.argv) < 1:
-    print(Fore.RED + "What's going on here buddy?\nYou need to give me a name...\nplease")
+    print(Fore.RED + "What's going on here buddy?\nYou need to give me a name...\nplease...")
     time.sleep(.5)    
     exit() 
 
