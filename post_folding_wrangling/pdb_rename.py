@@ -6,6 +6,9 @@ import time
 import colorama
 from colorama import Fore
 from datetime import datetime, timedelta
+
+import shutil
+
 # Look for output/input 
 
 
@@ -22,20 +25,20 @@ if sys.argv[1][0] != '/' or sys.argv[1][-1] != '/':
 
 folder = sys.argv[1]
 
-current_path = os.path.abspath(sys.argv[1])
+current_path = os.path.abspath(os.getcwd())
 
-print(sys.argv[1])
-print(os.path.basename(sys.argv[1]))
+output_name = "output"
 
+new_folder = os.path.join(current_path,output_name)
+if not os.path.exists(new_folder):
+    os.mkdir(new_folder)
 
-for count, filename in enumerate(os.listdir(folder)):
-    dst = f"Hostel {str(count)}.pdb"
-    src =f"{folder}/{filename}"  # foldername/filename, if .py file is outside folder
-    dst =f"{folder}/{dst}"
-         
-        # rename() function will
-        # rename all the files
-    
-    #print("old filename is "+src+". New filename is "+dst)
-    #os.rename(src, dst)
- 
+for path, subdirs, files in os.walk(folder):
+    for name in files:
+        #print(os.path.join(path, name))
+        print(name)
+        if name == "ranked_0.pdb":
+            print(name)
+            base_name = os.path.basename(path)
+            shutil.copy2(os.path.join(os.path.join(path, name)),new_folder)
+            os.rename(os.path.join(new_folder, "ranked_0.pdb"),os.path.join(new_folder,base_name+".pdb"))
