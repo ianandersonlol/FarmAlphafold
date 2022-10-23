@@ -106,8 +106,8 @@ def write_loop(output_dir,input_file):
     print('conda activate alphafold', file = o)
     print('cd /opt/alphafold/', file = o)
     print("./run.sh -d /home/haryu/alphafoldDownload -o {} -m model_1 -f {} -t $(date +'%Y-%m-%d')".format(output_dir,input_file),file = o)
-    print('sleep 60 # just to be kind to the scheduler',file = o)
-    print('done',file=o)
+   # print('sleep 60 # just to be kind to the scheduler',file = o)
+   # print('done',file=o)
     print('',file=o)
     o.close()
 
