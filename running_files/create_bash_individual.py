@@ -12,7 +12,7 @@ if len(sys.argv) == 1:
     time.sleep(.5)        
     exit() 
 if len(sys.argv) ==2:
-    print(Fore.RED + "Ok boys, girls, and NBs\n We need to do both a an output director AND an input directory")
+    print(Fore.RED + "Ok boys, girls, and enbys\n We need to do both a an output director AND an input directory")
     time.sleep(.5)
     print(Fore.RED + "<output_dir>,<input_path>,<email>,<davis_id>")
     time.sleep(.5)        
@@ -86,6 +86,7 @@ def write_initialization():
     print('#SBATCH -t 48:00:00',file = o)
     print('#SBATCH -c 16',file = o)
     print('#SBATCH --mem 128G',file = o)
+    print('#SBATCH  --gres=gpu:1',file = o)
     print('#SBATCH --partition=gpu-a100-h',file = o)
     print('#SBATCH --mail-type=ALL',file = o)
     print('#SBATCH --mail-user='+sys.argv[3],file = o)
