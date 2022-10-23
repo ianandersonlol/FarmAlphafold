@@ -93,7 +93,7 @@ def write_initialization():
     print('set -e',file = o)
     print('set -u',file = o)
     print('module load spack/singularity/3.8.3',file = o)
-    print('singularity instance start -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
+    print('singularity instance start --nv -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
     print('singularity exec instance://bash ~/'+file_name+'_individual.sh',file = o)
 
 
