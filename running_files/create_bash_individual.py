@@ -86,7 +86,7 @@ def write_initialization():
     print('#SBATCH -t 48:00:00',file = o)
     print('#SBATCH -c 16',file = o)
     print('#SBATCH --mem 128G',file = o)
-    print('#SBATCH  --gres=gpu:1',file = o)
+    print('#SBATCH --gres=gpu:1',file = o)
     print('#SBATCH --partition=gpu-a100-h',file = o)
     print('#SBATCH --mail-type=ALL',file = o)
     print('#SBATCH --mail-user='+sys.argv[3],file = o)
