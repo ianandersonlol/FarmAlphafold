@@ -59,7 +59,7 @@ if not sys.argv[2].endswith('.fasta') and not sys.argv[2].endswith('.fa'):
     print(Fore.RED,'Your output file needs to be either .fasta or .fa')
 
 
-file_name = str(int(time.process_time()*1000000))
+file_name = os.path.basename(os.path.normpath(sys.argv[2]))+"_fold"
 
 current_path = os.path.abspath(os.getcwd())
 
@@ -77,8 +77,9 @@ print(Fore.GREEN + 'Validation complete. You have a real path.')
 time.sleep(1) #Again, I hate myself. Why am I like this?  
 
 
+
 def write_initialization():
-    o = open(file_name+'_individual_initialize.sh', 'w')
+    o = open(file_name+'_initialize.sh', 'w')
     print('#!/bin/bash -l',file=o) 
     print('#SBATCH -o /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_output.txt',file = o)
     print('#SBATCH -e /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_errors.txt',file = o)
@@ -94,7 +95,7 @@ def write_initialization():
     print('set -u',file = o)
     print('module load spack/singularity/3.8.3',file = o)
     print('singularity instance start --nv -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
-    print('singularity exec instance://bash ~/'+file_name+'_individual.sh',file = o)
+    print('singularity exec instance://bash '+current_path+'/'+file_name+'_individual.sh',file = o)
 
 
 def write_loop(output_dir,input_file):
