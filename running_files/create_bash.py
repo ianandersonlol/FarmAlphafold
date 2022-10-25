@@ -1,8 +1,9 @@
 import sys
 import os
 import time
-import colorama
+import colorama 
 from colorama import Fore
+
 
 from datetime import datetime, timedelta
 
@@ -67,7 +68,9 @@ string_date = two_days_date.strftime('%Y-%m-%d')
 if ' ' in maindir:
     print(Fore.RED + "Okay, look smart guy/gal/non-binary pal.\nThis is UNIX.\nYou REALLY shouldn't be putting spaces in your directory names!!!\nBE BETTER!")
     time.sleep(.5)
-    exit()
+    print(Fore.RED + "<output_dir>,<input_dir>,<email>,<davis_id>")
+    time.sleep(.5)    
+    exit() 
 newpath = os.path.join(current_path, maindir) 
 
 print(Fore.GREEN + 'Validation complete. You have a real path.')
@@ -78,17 +81,18 @@ def write_initialization():
     print('#!/bin/bash -l',file=o) 
     print('#SBATCH -o /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_output.txt',file = o)
     print('#SBATCH -e /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_errors.txt',file = o)
-    print('#SBATCH -J Alphafolding',file = o)
+    print('#SBATCH -J '+os.path.basename(os.path.normpath(sys.argv[2])),file = o)
     print('#SBATCH -t 48:00:00',file = o)
-    print('#SBATCH -c 32',file = o)
-    print('#SBATCH --mem 256G',file = o)
-    print('#SBATCH --partition=bmm',file = o)
+    print('#SBATCH -c 16',file = o)
+    print('#SBATCH --mem 128G',file = o)
+    print('#SBATCH --gres=gpu:1',file = o)
+    print('#SBATCH --partition=gpu-a100-h',file = o)
     print('#SBATCH --mail-type=ALL',file = o)
     print('#SBATCH --mail-user='+sys.argv[3],file = o)
     print('set -e',file = o)
     print('set -u',file = o)
     print('module load spack/singularity/3.8.3',file = o)
-    print('singularity instance start -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
+    print('singularity instance start --nv -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
     print('singularity exec instance://bash ~/'+file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'.sh',file = o)
     print('',file=o)
     o.close()
