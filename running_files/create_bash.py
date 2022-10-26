@@ -65,6 +65,8 @@ maindir = sys.argv[1]
 two_days_date = datetime.today()+timedelta(days=2)
 string_date = two_days_date.strftime('%Y-%m-%d')
 
+input_dir_name = os.path.basename(os.path.normpath(sys.argv[2]))
+
 if ' ' in maindir:
     print(Fore.RED + "Okay, look smart guy/gal/non-binary pal.\nThis is UNIX.\nYou REALLY shouldn't be putting spaces in your directory names!!!\nBE BETTER!")
     time.sleep(.5)
@@ -77,7 +79,7 @@ print(Fore.GREEN + 'Validation complete. You have a real path.')
 time.sleep(1) #Again, I hate myself. Why am I like this?  
 
 def write_initialization():
-    o = open(file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'_initialize.sh', 'w')
+    o = open(file_name+'_'+input_dir_name+'_initialize.sh', 'w')
     print('#!/bin/bash -l',file=o) 
     print('#SBATCH -o /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_output.txt',file = o)
     print('#SBATCH -e /home/'+sys.argv[4]+'/slurm-log/'+file_name+'_errors.txt',file = o)
@@ -93,21 +95,21 @@ def write_initialization():
     print('set -u',file = o)
     print('module load spack/singularity/3.8.3',file = o)
     print('singularity instance start --nv -B /home/haryu/alphafoldDownload /home/icanders/alphafold.sif bash',file = o)
-    print('singularity exec instance://bash ~/'+file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'.sh',file = o)
+    print('singularity exec instance://bash ~/'+file_name+'_'+input_dir_name+'.sh',file = o)
     print('',file=o)
     o.close()
 
 def write_loop(output_dir,input_dir):
     
-    print(Fore.GREEN + 'Generating Files With Name: '+file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2])))
-    o = open(file_name+'_'+os.path.basename(os.path.normpath(sys.argv[2]))+'.sh', 'w')
+    print(Fore.GREEN + 'Generating Files With Name: '+file_name+'_'+input_dir_name)
+    o = open(file_name+'_'+input_dir_name+'.sh', 'w')
     print('#! /bin/bash\n',file=o)
     print('source /opt/miniconda3/etc/profile.d/conda.sh', file = o)
     print('conda activate alphafold', file = o)
     print('cd /opt/alphafold/', file = o)
     print('for FILE in '+input_dir+'*.fasta; do',file = o)
     print('\techo ${FILE} ',file= o)
-    print('\t./run.sh -d /home/haryu/alphafoldDownload -o {} -m model_1 -f "${{FILE}}" -t {}'.format(output_dir,string_date),file = o)
+    print('\t./run.sh -d /home/haryu/alphafoldDownload -o {}/{} -m model_1 -f "${{FILE}}" -t {}'.format(output_dir,input_dir_name,string_date),file = o)
     print('\tsleep 60 # just to be kind to the scheduler',file = o)
     print('done',file=o)
     print('',file=o)
