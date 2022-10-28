@@ -1,7 +1,0 @@
-,reference, subject,alignment_score,npruned, pruned_distance,ntotal,total_distance
-0,ranked_0.pdb, ranked_0.pdb,234.0,57,0.368,57,0.368
-1,ranked_0.pdb, ranked_0.pdb,163.1,55,0.717,56,0.825
-2,ranked_0.pdb, ranked_0.pdb,203.5,55,0.57,57,1.022
-3,ranked_0.pdb, ranked_0.pdb,285.8,57,0.228,57,0.228
-4,ranked_0.pdb, ranked_0.pdb,186.6,47,0.567,50,1.637
-5,ranked_0.pdb, ranked_0.pdb,183.6,53,0.702,53,0.702
