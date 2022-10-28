@@ -110,7 +110,7 @@ def write_loop(output_dir,input_dir):
     print('for FILE in '+input_dir+'*.fasta; do',file = o)
     print('\techo ${FILE} ',file= o)
     print('\tout="$(basename ${FILE} .fasta)"',file=o)
-    print('\tif [ ! -f "{}$out/ranked_0.pdb" ]; then'.format(output_dir),file=o)
+    print('\tif [ ! -f "{}{}$out/ranked_0.pdb" ]; then'.format(output_dir,input_dir_name),file=o)
     print('\t\t echo ${FILE} "Doesn\'t exist... folding" then',file=o)
     print('\t\t./run.sh -d /home/haryu/alphafoldDownload -o {}{} -m model_1 -f "${{FILE}}" -t {}'.format(output_dir,input_dir_name,string_date),file = o)
     print('\t\tsleep 60 # just to be kind to the scheduler',file = o)
