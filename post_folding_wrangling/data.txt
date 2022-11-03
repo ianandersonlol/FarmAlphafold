@@ -1,0 +1,1287 @@
+
+Startup Messages
+warnings	Unable to find icon for toolbar provider 'Dump Bead Data' in bundle 'ChimeraX-GenomeTools'
+Unable to find icon for toolbar provider 'Highlight' in bundle 'ChimeraX-GenomeTools'
+Unable to find icon for toolbar provider 'Bed Models' in bundle 'ChimeraX-GenomeTools'
+Unable to find icon for toolbar provider 'Bead Overlap' in bundle 'ChimeraX-GenomeTools'
+Unable to find icon for toolbar provider 'Genome Distance' in bundle 'ChimeraX-GenomeTools'
+1 messages similar to the above omitted
+UCSF ChimeraX version: 1.4 (2022-06-03)
+© 2016-2022 Regents of the University of California. All rights reserved.
+How to cite UCSF ChimeraX
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_americanus_v1_1_45751840.pdb
+Chain information for A_americanus_v1_1_45751840.pdb #1
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_coerulea_v3_1_33060899.pdb
+Chain information for A_coerulea_v3_1_33060899.pdb #2
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_comosus_v3_33037226.pdb
+Chain information for A_comosus_v3_33037226.pdb #3
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_hypochondriacus_v2_1_38169248.pdb
+Chain information for A_hypochondriacus_v2_1_38169248.pdb #4
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_hypogaea_v1_0_42638146.pdb
+Chain information for A_hypogaea_v1_0_42638146.pdb #5
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_linifolium_v1_1_39173734.pdb
+Chain information for A_linifolium_v1_1_39173734.pdb #6
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_linifolium_v1_1_39190553.pdb
+Chain information for A_linifolium_v1_1_39190553.pdb #7
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_lyrata_v2_1_35928704.pdb
+Chain information for A_lyrata_v2_1_35928704.pdb #8
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_occidentale_v0_9_37517512.pdb
+Chain information for A_occidentale_v0_9_37517512.pdb #9
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_officinalis_V1_1_40528539.pdb
+Chain information for A_officinalis_V1_1_40528539.pdb #10
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_officinalis_V1_1_40548182.pdb
+Chain information for A_officinalis_V1_1_40548182.pdb #11
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_thaliana_Araport11_37390997.pdb
+Chain information for A_thaliana_Araport11_37390997.pdb #12
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_thaliana_TAIR10_19649066.pdb
+Chain information for A_thaliana_TAIR10_19649066.pdb #13
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/A_trichopoda_v1_0_31565359.pdb
+Chain information for A_trichopoda_v1_0_31565359.pdb #14
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Aegilops_tauschii.pdb
+Chain information for Aegilops_tauschii.pdb #15
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Amborella_trichopoda.pdb
+Chain information for Amborella_trichopoda.pdb #16
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Ananas_comosus.pdb
+Chain information for Ananas_comosus.pdb #17
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Arabidopsis_thaliana_RDM15_Tudor_domain.pdb
+Chain information for Arabidopsis_thaliana_RDM15_Tudor_domain.pdb #18
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Arabidopsis_thaliana.pdb
+Chain information for Arabidopsis_thaliana.pdb #19
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Asparagus_officinalis.pdb
+Chain information for Asparagus_officinalis.pdb #20
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Aurantiochytrium_limacinum.pdb
+Chain information for Aurantiochytrium_limacinum.pdb #21
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_braunii_v2_1_40721635.pdb
+Chain information for B_braunii_v2_1_40721635.pdb #22
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyon_v2_1_31141499.pdb
+Chain information for B_distachyon_v2_1_31141499.pdb #23
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyon_v3_1_32786960.pdb
+Chain information for B_distachyon_v3_1_32786960.pdb #24
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyon_v3_2_43965901.pdb
+Chain information for B_distachyon_v3_2_43965901.pdb #25
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR2_v1_33712050.pdb
+Chain information for B_distachyonABR2_v1_33712050.pdb #26
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR3_v1_34011814.pdb
+Chain information for B_distachyonABR3_v1_34011814.pdb #27
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR4_v1_34926387.pdb
+Chain information for B_distachyonABR4_v1_34926387.pdb #28
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR5_v1_35601630.pdb
+Chain information for B_distachyonABR5_v1_35601630.pdb #29
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR6_v1_33663009.pdb
+Chain information for B_distachyonABR6_v1_33663009.pdb #30
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR7_v1_35149091.pdb
+Chain information for B_distachyonABR7_v1_35149091.pdb #31
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR8_v1_34587791.pdb
+Chain information for B_distachyonABR8_v1_34587791.pdb #32
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonABR9_v1_33518556.pdb
+Chain information for B_distachyonABR9_v1_33518556.pdb #33
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonAdi-10_v1_35700587.pdb
+Chain information for B_distachyonAdi-10_v1_35700587.pdb #34
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonAdi-12_v1_34690794.pdb
+Chain information for B_distachyonAdi-12_v1_34690794.pdb #35
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonArn1_v1_34512127.pdb
+Chain information for B_distachyonArn1_v1_34512127.pdb #36
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd1-1_v1_1_43449050.pdb
+Chain information for B_distachyonBd1-1_v1_1_43449050.pdb #37
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd1-1_v1_34274040.pdb
+Chain information for B_distachyonBd1-1_v1_34274040.pdb #38
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd3-1_v1_33325845.pdb
+Chain information for B_distachyonBd3-1_v1_33325845.pdb #39
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd18-1_v1_34862348.pdb
+Chain information for B_distachyonBd18-1_v1_34862348.pdb #40
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd21-3_v1_1_38197247.pdb
+Chain information for B_distachyonBd21-3_v1_1_38197247.pdb #41
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd21-3_v1_2_42947288.pdb
+Chain information for B_distachyonBd21-3_v1_2_42947288.pdb #42
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd21AnntCtrl_v1_33454990.pdb
+Chain information for B_distachyonBd21AnntCtrl_v1_33454990.pdb #43
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd21AsmbCtrl_v1_34794389.pdb
+Chain information for B_distachyonBd21AsmbCtrl_v1_34794389.pdb #44
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd30-1_v1_1_41502174.pdb
+Chain information for B_distachyonBd30-1_v1_1_41502174.pdb #45
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBd30-1_v1_34053442.pdb
+Chain information for B_distachyonBd30-1_v1_34053442.pdb #46
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR1i_v1_34102403.pdb
+Chain information for B_distachyonBdTR1i_v1_34102403.pdb #47
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR2b_v1_35500100.pdb
+Chain information for B_distachyonBdTR2b_v1_35500100.pdb #48
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR2g_v1_35063687.pdb
+Chain information for B_distachyonBdTR2g_v1_35063687.pdb #49
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR8i_v1_34235622.pdb
+Chain information for B_distachyonBdTR8i_v1_34235622.pdb #50
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR9k_v1_34644759.pdb
+Chain information for B_distachyonBdTR9k_v1_34644759.pdb #51
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR11a_v1_35652112.pdb
+Chain information for B_distachyonBdTR11a_v1_35652112.pdb #52
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR11g_v1_34598829.pdb
+Chain information for B_distachyonBdTR11g_v1_34598829.pdb #53
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR11i_v1_34880925.pdb
+Chain information for B_distachyonBdTR11i_v1_34880925.pdb #54
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR12c_v1_34403926.pdb
+Chain information for B_distachyonBdTR12c_v1_34403926.pdb #55
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR13a_v1_33552772.pdb
+Chain information for B_distachyonBdTR13a_v1_33552772.pdb #56
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonBdTR13c_v1_34969775.pdb
+Chain information for B_distachyonBdTR13c_v1_34969775.pdb #57
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonJer1_v1_35464175.pdb
+Chain information for B_distachyonJer1_v1_35464175.pdb #58
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonKah-5_v1_33931493.pdb
+Chain information for B_distachyonKah-5_v1_33931493.pdb #59
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonKoz-1_v1_33380108.pdb
+Chain information for B_distachyonKoz-1_v1_33380108.pdb #60
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonKoz-3_v1_35133764.pdb
+Chain information for B_distachyonKoz-3_v1_35133764.pdb #61
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonLuc1_v1_34190849.pdb
+Chain information for B_distachyonLuc1_v1_34190849.pdb #62
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonMig3_v1_35519819.pdb
+Chain information for B_distachyonMig3_v1_35519819.pdb #63
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonMon3_v1_34287073.pdb
+Chain information for B_distachyonMon3_v1_34287073.pdb #64
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonMur1_v1_35358987.pdb
+Chain information for B_distachyonMur1_v1_35358987.pdb #65
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonPangenome_v1_33603638.pdb
+Chain information for B_distachyonPangenome_v1_33603638.pdb #66
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonPer1_v1_33238037.pdb
+Chain information for B_distachyonPer1_v1_33238037.pdb #67
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonRon2_v1_34770799.pdb
+Chain information for B_distachyonRon2_v1_34770799.pdb #68
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonS8iic_v1_33873040.pdb
+Chain information for B_distachyonS8iic_v1_33873040.pdb #69
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonSig2_v1_35241071.pdb
+Chain information for B_distachyonSig2_v1_35241071.pdb #70
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonTek-2_v1_33886576.pdb
+Chain information for B_distachyonTek-2_v1_33886576.pdb #71
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonTek-4_v1_33496474.pdb
+Chain information for B_distachyonTek-4_v1_33496474.pdb #72
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_distachyonUni2_v1_33252099.pdb
+Chain information for B_distachyonUni2_v1_33252099.pdb #73
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_hybridum_v1_1_38657362.pdb
+Chain information for B_hybridum_v1_1_38657362.pdb #74
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_hybridumBhyb26_v2_1_51464903.pdb
+Chain information for B_hybridumBhyb26_v2_1_51464903.pdb #75
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/B_mexicanum_v1_1_45257648.pdb
+Chain information for B_mexicanum_v1_1_45257648.pdb #76
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/brachy.pdb
+Chain information for brachy.pdb #77
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Ceratodon_purpureus.pdb
+Chain information for Ceratodon_purpureus.pdb #78
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Chara_braunii.pdb
+Chain information for Chara_braunii.pdb #79
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Citrus_clementina.pdb
+Chain information for Citrus_clementina.pdb #80
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/D_strictus_v2_1_45559586.pdb
+Chain information for D_strictus_v2_1_45559586.pdb #81
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Dioscorea_rotundata.pdb
+Chain information for Dioscorea_rotundata.pdb #82
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_coracana_v1_1_44209277.pdb
+Chain information for E_coracana_v1_1_44209277.pdb #83
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_coracana_v1_1_44216401.pdb
+Chain information for E_coracana_v1_1_44216401.pdb #84
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_grandis_v2_0_32066674.pdb
+Chain information for E_grandis_v2_0_32066674.pdb #85
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_salsugineum_v1_0_20197041.pdb
+Chain information for E_salsugineum_v1_0_20197041.pdb #86
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_syriacum_v1_1_39704609.pdb
+Chain information for E_syriacum_v1_1_39704609.pdb #87
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_vesicaria_v1_1_39948018.pdb
+Chain information for E_vesicaria_v1_1_39948018.pdb #88
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/E_vesicaria_v1_1_39955169.pdb
+Chain information for E_vesicaria_v1_1_39955169.pdb #89
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Ectocarpus_siliculosus_part1.pdb
+Chain information for Ectocarpus_siliculosus_part1.pdb #90
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Ectocarpus_siliculosus_part2.pdb
+Chain information for Ectocarpus_siliculosus_part2.pdb #91
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/F_vesca_v2_0_a2_40672092.pdb
+Chain information for F_vesca_v2_0_a2_40672092.pdb #92
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/F_vesca_v4_0_a2_50703324.pdb
+Chain information for F_vesca_v4_0_a2_50703324.pdb #93
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/F_x_ananassa_v1_0_a1_50462288.pdb
+Chain information for F_x_ananassa_v1_0_a1_50462288.pdb #94
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/F_x_ananassa_v1_0_a1_50561545.pdb
+Chain information for F_x_ananassa_v1_0_a1_50561545.pdb #95
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_barbadense_v1_1_42285431.pdb
+Chain information for G_barbadense_v1_1_42285431.pdb #96
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_barbadense_v1_1_42300636.pdb
+Chain information for G_barbadense_v1_1_42300636.pdb #97
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_darwinii_v1_1_42522253.pdb
+Chain information for G_darwinii_v1_1_42522253.pdb #98
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_darwinii_v1_1_42574580.pdb
+Chain information for G_darwinii_v1_1_42574580.pdb #99
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_hirsutum_v1_1_38135151.pdb
+Chain information for G_hirsutum_v1_1_38135151.pdb #100
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_hirsutum_v1_1_38136914.pdb
+Chain information for G_hirsutum_v1_1_38136914.pdb #101
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_hirsutum_v2_1_42370512.pdb
+Chain information for G_hirsutum_v2_1_42370512.pdb #102
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_hirsutum_v2_1_42393689.pdb
+Chain information for G_hirsutum_v2_1_42393689.pdb #103
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_max_Fiskeby_v1_1_50788605.pdb
+Chain information for G_max_Fiskeby_v1_1_50788605.pdb #104
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_max_Lee_v1_1_41278646.pdb
+Chain information for G_max_Lee_v1_1_41278646.pdb #105
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_max_Wm82_a2_v1_30514286.pdb
+Chain information for G_max_Wm82_a2_v1_30514286.pdb #106
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_max_Wm82_a4_v1_41164439.pdb
+Chain information for G_max_Wm82_a4_v1_41164439.pdb #107
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_mustelinum_v1_1_42037592.pdb
+Chain information for G_mustelinum_v1_1_42037592.pdb #108
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_mustelinum_v1_1_42061743.pdb
+Chain information for G_mustelinum_v1_1_42061743.pdb #109
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_raimondii_v2_1_26823919.pdb
+Chain information for G_raimondii_v2_1_26823919.pdb #110
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_soja_v1_1_41181672.pdb
+Chain information for G_soja_v1_1_41181672.pdb #111
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_tomentosum_v1_1_42166103.pdb
+Chain information for G_tomentosum_v1_1_42166103.pdb #112
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/G_tomentosum_v1_1_42231865.pdb
+Chain information for G_tomentosum_v1_1_42231865.pdb #113
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/H_annuus_r1_2_40335989.pdb
+Chain information for H_annuus_r1_2_40335989.pdb #114
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/H_quercifolia_v1_1_45885406.pdb
+Chain information for H_quercifolia_v1_1_45885406.pdb #115
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/H_vulgare_Morex_V3_52203142.pdb
+Chain information for H_vulgare_Morex_V3_52203142.pdb #116
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Helianthus_annuus.pdb
+Chain information for Helianthus_annuus.pdb #117
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Hordeum_vulgare.pdb
+Chain information for Hordeum_vulgare.pdb #118
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/I_amara_v1_1_39758091.pdb
+Chain information for I_amara_v1_1_39758091.pdb #119
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/I_tinctoria_v1_1_39264317.pdb
+Chain information for I_tinctoria_v1_1_39264317.pdb #120
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/I_tinctoria_v1_1_39327108.pdb
+Chain information for I_tinctoria_v1_1_39327108.pdb #121
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/J_ascendens_v1_1_45766098.pdb
+Chain information for J_ascendens_v1_1_45766098.pdb #122
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Juglans_nigra.pdb
+Chain information for Juglans_nigra.pdb #123
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/K_fedtschenkoi_v1_1_35776024.pdb
+Chain information for K_fedtschenkoi_v1_1_35776024.pdb #124
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/K_laxiflora_v1_1_32590985.pdb
+Chain information for K_laxiflora_v1_1_32590985.pdb #125
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/K_laxiflora_v1_1_32592924.pdb
+Chain information for K_laxiflora_v1_1_32592924.pdb #126
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Klebsormidium_flaccidum_(charophytic_algae).pdb
+Chain information for Klebsormidium_flaccidum_(charophytic_algae).pdb #127
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_albus_v1_44568474.pdb
+Chain information for L_albus_v1_44568474.pdb #128
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_annua_v1_1_39401559.pdb
+Chain information for L_annua_v1_1_39401559.pdb #129
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_japonicus_Lj1_0v1_44918279.pdb
+Chain information for L_japonicus_Lj1_0v1_44918279.pdb #130
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_philippensis_v1_1_51308173.pdb
+Chain information for L_philippensis_v1_1_51308173.pdb #131
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_sativa_V8_38944350.pdb
+Chain information for L_sativa_V8_38944350.pdb #132
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_sativa_V8_38951049.pdb
+Chain information for L_sativa_V8_38951049.pdb #133
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_sativum_v1_1_39465468.pdb
+Chain information for L_sativum_v1_1_39465468.pdb #134
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_sativum_v1_1_39476819.pdb
+Chain information for L_sativum_v1_1_39476819.pdb #135
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_usitatissimum_v1_0_23148443.pdb
+Chain information for L_usitatissimum_v1_0_23148443.pdb #136
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/L_usitatissimum_v1_0_23176683.pdb
+Chain information for L_usitatissimum_v1_0_23176683.pdb #137
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_acuminata_v1_32324680.pdb
+Chain information for M_acuminata_v1_32324680.pdb #138
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_domestica_v1_1_40107872.pdb
+Chain information for M_domestica_v1_1_40107872.pdb #139
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_esculenta_v6_1_32358868.pdb
+Chain information for M_esculenta_v6_1_32358868.pdb #140
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_esculenta_v7_1_41900264.pdb
+Chain information for M_esculenta_v7_1_41900264.pdb #141
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_esculenta_v8_1_50282946.pdb
+Chain information for M_esculenta_v8_1_50282946.pdb #142
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_guttatus_NONTOL_v3_1_41017281.pdb
+Chain information for M_guttatus_NONTOL_v3_1_41017281.pdb #143
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_guttatus_NONTOL_v4_0_43590897.pdb
+Chain information for M_guttatus_NONTOL_v4_0_43590897.pdb #144
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_guttatus_TOL_v3_1_40969910.pdb
+Chain information for M_guttatus_TOL_v3_1_40969910.pdb #145
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_guttatus_TOL_v5_0_43514285.pdb
+Chain information for M_guttatus_TOL_v5_0_43514285.pdb #146
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_guttatus_v2_0_28926671.pdb
+Chain information for M_guttatus_v2_0_28926671.pdb #147
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_maritima_v1_1_39414774.pdb
+Chain information for M_maritima_v1_1_39414774.pdb #148
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_perfoliatum_v1_1_39113249.pdb
+Chain information for M_perfoliatum_v1_1_39113249.pdb #149
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_perfoliatum_v2_1_45612371.pdb
+Chain information for M_perfoliatum_v2_1_45612371.pdb #150
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_polymorpha_v3_1_33016675.pdb
+Chain information for M_polymorpha_v3_1_33016675.pdb #151
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_pusillaCCMP1545_v3_0_27348240.pdb
+Chain information for M_pusillaCCMP1545_v3_0_27348240.pdb #152
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_sinensis_v7_1_40493325.pdb
+Chain information for M_sinensis_v7_1_40493325.pdb #153
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_sinensis_v7_1_40510873.pdb
+Chain information for M_sinensis_v7_1_40510873.pdb #154
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_spRCC299_v3_0_27397412.pdb
+Chain information for M_spRCC299_v3_0_27397412.pdb #155
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/M_truncatula_Mt4_0v1_31077754.pdb
+Chain information for M_truncatula_Mt4_0v1_31077754.pdb #156
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Manihot_esculenta.pdb
+Chain information for Manihot_esculenta.pdb #157
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Marchantia_polymorpha.pdb
+Chain information for Marchantia_polymorpha.pdb #158
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Musa_acuminata.pdb
+Chain information for Musa_acuminata.pdb #159
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/N_colorata_v1_2_44533136.pdb
+Chain information for N_colorata_v1_2_44533136.pdb #160
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Nymphaea_colorata.pdb
+Chain information for Nymphaea_colorata.pdb #161
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/O_europaea_v1_0_37710605.pdb
+Chain information for O_europaea_v1_0_37710605.pdb #162
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/O_sativa_v7_0_33144079.pdb
+Chain information for O_sativa_v7_0_33144079.pdb #163
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/O_sativaKitaake_v3_1_40568805.pdb
+Chain information for O_sativaKitaake_v3_1_40568805.pdb #164
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Oryza_sativa.pdb
+Chain information for Oryza_sativa.pdb #165
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Paraphysomonas_imperforata.pdb
+Chain information for Paraphysomonas_imperforata.pdb #166
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Pelagophyceae_sp..pdb
+Chain information for Pelagophyceae_sp..pdb #167
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Physcomitrium_patens.pdb
+Chain information for Physcomitrium_patens.pdb #168
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Pistacia_vera.pdb
+Chain information for Pistacia_vera.pdb #169
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Populus_trichocarpa.pdb
+Chain information for Populus_trichocarpa.pdb #170
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Sphagnum_magellanicum.pdb
+Chain information for Sphagnum_magellanicum.pdb #171
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Tribonema_minus.pdb
+Chain information for Tribonema_minus.pdb #172
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_aestivum.pdb
+Chain information for Triticum_aestivum.pdb #173
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_dicoccoides_1.pdb
+Chain information for Triticum_dicoccoides_1.pdb #174
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_dicoccoides_2.pdb
+Chain information for Triticum_dicoccoides_2.pdb #175
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_spelta.pdb
+Chain information for Triticum_spelta.pdb #176
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_turgidum_1.pdb
+Chain information for Triticum_turgidum_1.pdb #177
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Triticum_turgidum_2.pdb
+Chain information for Triticum_turgidum_2.pdb #178
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Vitis_vinifera.pdb
+Chain information for Vitis_vinifera.pdb #179
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Zea_Mays.pdb
+Chain information for Zea_Mays.pdb #180
+Chain	Description
+A	No description available
+open /Users/iananderson/Desktop/FarmAlphafold/post_folding_wrangling/output/Zostera_marina.pdb
+Chain information for Zostera_marina.pdb #181
+Chain	Description
+A	No description available
+ui tool show Matchmaker
+matchmaker #2-18,20-181 to #19
+Parameters
+Chain pairing	bb
+Alignment algorithm	Needleman-Wunsch
+Similarity matrix	BLOSUM-62
+SS fraction	0.3
+Gap open (HH/SS/other)	18/18/6
+Gap extend	1
+SS matrix	
+H	S	O
+H	6	-9	-6
+S		6	-6
+O			4
+Iteration cutoff	2
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_coerulea_v3_1_33060899.pdb, chain A (#2), sequence alignment score = 207.8
+RMSD between 54 pruned atom pairs is 0.523 angstroms; (across all 55 pairs: 1.012)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_comosus_v3_33037226.pdb, chain A (#3), sequence alignment score = 220.9
+RMSD between 57 pruned atom pairs is 0.656 angstroms; (across all 57 pairs: 0.656)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_hypochondriacus_v2_1_38169248.pdb, chain A (#4), sequence alignment score = 225.1
+RMSD between 54 pruned atom pairs is 0.666 angstroms; (across all 56 pairs: 0.849)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_hypogaea_v1_0_42638146.pdb, chain A (#5), sequence alignment score = 208.6
+RMSD between 53 pruned atom pairs is 0.552 angstroms; (across all 54 pairs: 0.641)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_linifolium_v1_1_39173734.pdb, chain A (#6), sequence alignment score = 295.2
+RMSD between 58 pruned atom pairs is 0.387 angstroms; (across all 58 pairs: 0.387)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_linifolium_v1_1_39190553.pdb, chain A (#7), sequence alignment score = 291.7
+RMSD between 58 pruned atom pairs is 0.335 angstroms; (across all 58 pairs: 0.335)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_lyrata_v2_1_35928704.pdb, chain A (#8), sequence alignment score = 300.6
+RMSD between 59 pruned atom pairs is 0.161 angstroms; (across all 59 pairs: 0.161)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_occidentale_v0_9_37517512.pdb, chain A (#9), sequence alignment score = 228.4
+RMSD between 57 pruned atom pairs is 0.590 angstroms; (across all 58 pairs: 0.682)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_officinalis_V1_1_40528539.pdb, chain A (#10), sequence alignment score = 108.2
+RMSD between 30 pruned atom pairs is 1.042 angstroms; (across all 37 pairs: 1.991)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_officinalis_V1_1_40548182.pdb, chain A (#11), sequence alignment score = 213.9
+RMSD between 54 pruned atom pairs is 0.710 angstroms; (across all 56 pairs: 1.027)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_thaliana_Araport11_37390997.pdb, chain A (#12), sequence alignment score = 319.5
+RMSD between 59 pruned atom pairs is 0.055 angstroms; (across all 59 pairs: 0.055)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_thaliana_TAIR10_19649066.pdb, chain A (#13), sequence alignment score = 319.5
+RMSD between 59 pruned atom pairs is 0.059 angstroms; (across all 59 pairs: 0.059)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with A_trichopoda_v1_0_31565359.pdb, chain A (#14), sequence alignment score = 228.9
+RMSD between 56 pruned atom pairs is 0.504 angstroms; (across all 56 pairs: 0.504)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Aegilops_tauschii.pdb, chain A (#15), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.561 angstroms; (across all 57 pairs: 0.648)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Amborella_trichopoda.pdb, chain A (#16), sequence alignment score = 228.9
+RMSD between 56 pruned atom pairs is 0.495 angstroms; (across all 56 pairs: 0.495)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Ananas_comosus.pdb, chain A (#17), sequence alignment score = 220.9
+RMSD between 57 pruned atom pairs is 0.639 angstroms; (across all 57 pairs: 0.639)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Arabidopsis_thaliana_RDM15_Tudor_domain.pdb, chain A (#18), sequence alignment score = 164.2
+RMSD between 56 pruned atom pairs is 0.682 angstroms; (across all 58 pairs: 0.938)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Asparagus_officinalis.pdb, chain A (#20), sequence alignment score = 217
+RMSD between 57 pruned atom pairs is 0.677 angstroms; (across all 58 pairs: 0.743)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Aurantiochytrium_limacinum.pdb, chain A (#21), sequence alignment score = 177.2
+RMSD between 53 pruned atom pairs is 0.755 angstroms; (across all 59 pairs: 1.415)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_braunii_v2_1_40721635.pdb, chain A (#22), sequence alignment score = 180.8
+RMSD between 47 pruned atom pairs is 0.485 angstroms; (across all 50 pairs: 1.512)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyon_v2_1_31141499.pdb, chain A (#23), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.534 angstroms; (across all 57 pairs: 0.772)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyon_v3_1_32786960.pdb, chain A (#24), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.508 angstroms; (across all 57 pairs: 0.774)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyon_v3_2_43965901.pdb, chain A (#25), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.519 angstroms; (across all 57 pairs: 0.750)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR2_v1_33712050.pdb, chain A (#26), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.529 angstroms; (across all 57 pairs: 0.804)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR3_v1_34011814.pdb, chain A (#27), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.501 angstroms; (across all 57 pairs: 0.743)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR4_v1_34926387.pdb, chain A (#28), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.535 angstroms; (across all 57 pairs: 0.775)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR5_v1_35601630.pdb, chain A (#29), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.533 angstroms; (across all 57 pairs: 0.786)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR6_v1_33663009.pdb, chain A (#30), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.526 angstroms; (across all 57 pairs: 0.791)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR7_v1_35149091.pdb, chain A (#31), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.508 angstroms; (across all 57 pairs: 0.753)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR8_v1_34587791.pdb, chain A (#32), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.496 angstroms; (across all 57 pairs: 0.723)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonABR9_v1_33518556.pdb, chain A (#33), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.524 angstroms; (across all 57 pairs: 0.807)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonAdi-10_v1_35700587.pdb, chain A (#34), sequence alignment score = 207.6
+RMSD between 56 pruned atom pairs is 0.599 angstroms; (across all 57 pairs: 0.673)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonAdi-12_v1_34690794.pdb, chain A (#35), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.505 angstroms; (across all 57 pairs: 0.733)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonArn1_v1_34512127.pdb, chain A (#36), sequence alignment score = 199.9
+RMSD between 53 pruned atom pairs is 0.516 angstroms; (across all 53 pairs: 0.516)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd1-1_v1_1_43449050.pdb, chain A (#37), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.509 angstroms; (across all 57 pairs: 0.760)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd1-1_v1_34274040.pdb, chain A (#38), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.511 angstroms; (across all 57 pairs: 0.752)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd3-1_v1_33325845.pdb, chain A (#39), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.515 angstroms; (across all 57 pairs: 0.771)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd18-1_v1_34862348.pdb, chain A (#40), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.516 angstroms; (across all 57 pairs: 0.817)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd21-3_v1_1_38197247.pdb, chain A (#41), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.545 angstroms; (across all 57 pairs: 0.792)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd21-3_v1_2_42947288.pdb, chain A (#42), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.527 angstroms; (across all 57 pairs: 0.764)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd21AnntCtrl_v1_33454990.pdb, chain A (#43), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.520 angstroms; (across all 57 pairs: 0.726)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd21AsmbCtrl_v1_34794389.pdb, chain A (#44), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.528 angstroms; (across all 57 pairs: 0.781)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd30-1_v1_1_41502174.pdb, chain A (#45), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.520 angstroms; (across all 57 pairs: 0.754)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBd30-1_v1_34053442.pdb, chain A (#46), sequence alignment score = 207.6
+RMSD between 56 pruned atom pairs is 0.593 angstroms; (across all 57 pairs: 0.683)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR1i_v1_34102403.pdb, chain A (#47), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.497 angstroms; (across all 57 pairs: 0.798)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR2b_v1_35500100.pdb, chain A (#48), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.506 angstroms; (across all 57 pairs: 0.732)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR2g_v1_35063687.pdb, chain A (#49), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.503 angstroms; (across all 57 pairs: 0.765)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR8i_v1_34235622.pdb, chain A (#50), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.524 angstroms; (across all 57 pairs: 0.759)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR9k_v1_34644759.pdb, chain A (#51), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.547 angstroms; (across all 57 pairs: 0.843)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR11a_v1_35652112.pdb, chain A (#52), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.518 angstroms; (across all 57 pairs: 0.773)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR11g_v1_34598829.pdb, chain A (#53), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.525 angstroms; (across all 57 pairs: 0.747)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR11i_v1_34880925.pdb, chain A (#54), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.522 angstroms; (across all 57 pairs: 0.804)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR12c_v1_34403926.pdb, chain A (#55), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.516 angstroms; (across all 57 pairs: 0.772)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR13a_v1_33552772.pdb, chain A (#56), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.515 angstroms; (across all 57 pairs: 0.790)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonBdTR13c_v1_34969775.pdb, chain A (#57), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.519 angstroms; (across all 57 pairs: 0.793)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonJer1_v1_35464175.pdb, chain A (#58), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.519 angstroms; (across all 57 pairs: 0.749)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonKah-5_v1_33931493.pdb, chain A (#59), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.541 angstroms; (across all 57 pairs: 0.753)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonKoz-1_v1_33380108.pdb, chain A (#60), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.523 angstroms; (across all 57 pairs: 0.789)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonKoz-3_v1_35133764.pdb, chain A (#61), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.530 angstroms; (across all 57 pairs: 0.812)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonLuc1_v1_34190849.pdb, chain A (#62), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.513 angstroms; (across all 57 pairs: 0.762)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonMig3_v1_35519819.pdb, chain A (#63), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.527 angstroms; (across all 57 pairs: 0.759)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonMon3_v1_34287073.pdb, chain A (#64), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.517 angstroms; (across all 57 pairs: 0.752)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonMur1_v1_35358987.pdb, chain A (#65), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.524 angstroms; (across all 57 pairs: 0.793)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonPangenome_v1_33603638.pdb, chain A (#66), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.506 angstroms; (across all 57 pairs: 0.743)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonPer1_v1_33238037.pdb, chain A (#67), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.536 angstroms; (across all 57 pairs: 0.789)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonRon2_v1_34770799.pdb, chain A (#68), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.521 angstroms; (across all 57 pairs: 0.821)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonS8iic_v1_33873040.pdb, chain A (#69), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.521 angstroms; (across all 57 pairs: 0.778)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonSig2_v1_35241071.pdb, chain A (#70), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.515 angstroms; (across all 57 pairs: 0.758)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonTek-2_v1_33886576.pdb, chain A (#71), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.521 angstroms; (across all 57 pairs: 0.775)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonTek-4_v1_33496474.pdb, chain A (#72), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.520 angstroms; (across all 57 pairs: 0.743)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_distachyonUni2_v1_33252099.pdb, chain A (#73), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.508 angstroms; (across all 57 pairs: 0.791)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_hybridum_v1_1_38657362.pdb, chain A (#74), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.546 angstroms; (across all 57 pairs: 0.779)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_hybridumBhyb26_v2_1_51464903.pdb, chain A (#75), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.507 angstroms; (across all 57 pairs: 0.746)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with B_mexicanum_v1_1_45257648.pdb, chain A (#76), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.535 angstroms; (across all 57 pairs: 0.766)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with brachy.pdb, chain A (#77), sequence alignment score = 210.4
+RMSD between 55 pruned atom pairs is 0.515 angstroms; (across all 57 pairs: 0.749)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Ceratodon_purpureus.pdb, chain A (#78), sequence alignment score = 198
+RMSD between 49 pruned atom pairs is 0.541 angstroms; (across all 52 pairs: 1.698)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Chara_braunii.pdb, chain A (#79), sequence alignment score = 190.6
+RMSD between 53 pruned atom pairs is 0.565 angstroms; (across all 53 pairs: 0.565)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Citrus_clementina.pdb, chain A (#80), sequence alignment score = 219.5
+RMSD between 53 pruned atom pairs is 0.575 angstroms; (across all 56 pairs: 1.100)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with D_strictus_v2_1_45559586.pdb, chain A (#81), sequence alignment score = 284
+RMSD between 57 pruned atom pairs is 0.366 angstroms; (across all 57 pairs: 0.366)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Dioscorea_rotundata.pdb, chain A (#82), sequence alignment score = 217.9
+RMSD between 58 pruned atom pairs is 0.517 angstroms; (across all 58 pairs: 0.517)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_coracana_v1_1_44209277.pdb, chain A (#83), sequence alignment score = 214
+RMSD between 53 pruned atom pairs is 0.628 angstroms; (across all 54 pairs: 1.007)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_coracana_v1_1_44216401.pdb, chain A (#84), sequence alignment score = 211.2
+RMSD between 53 pruned atom pairs is 0.570 angstroms; (across all 54 pairs: 0.717)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_grandis_v2_0_32066674.pdb, chain A (#85), sequence alignment score = 210.2
+RMSD between 53 pruned atom pairs is 0.433 angstroms; (across all 56 pairs: 0.830)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_salsugineum_v1_0_20197041.pdb, chain A (#86), sequence alignment score = 264.4
+RMSD between 55 pruned atom pairs is 0.360 angstroms; (across all 55 pairs: 0.360)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_syriacum_v1_1_39704609.pdb, chain A (#87), sequence alignment score = 286.4
+RMSD between 59 pruned atom pairs is 0.339 angstroms; (across all 59 pairs: 0.339)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_vesicaria_v1_1_39948018.pdb, chain A (#88), sequence alignment score = 298.3
+RMSD between 59 pruned atom pairs is 0.219 angstroms; (across all 59 pairs: 0.219)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with E_vesicaria_v1_1_39955169.pdb, chain A (#89), sequence alignment score = 305.5
+RMSD between 59 pruned atom pairs is 0.145 angstroms; (across all 59 pairs: 0.145)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Ectocarpus_siliculosus_part1.pdb, chain A (#90), sequence alignment score = 41.8
+RMSD between 7 pruned atom pairs is 0.993 angstroms; (across all 24 pairs: 16.839)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Ectocarpus_siliculosus_part2.pdb, chain A (#91), sequence alignment score = 65
+RMSD between 24 pruned atom pairs is 0.608 angstroms; (across all 26 pairs: 1.155)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with F_vesca_v2_0_a2_40672092.pdb, chain A (#92), sequence alignment score = 196
+RMSD between 56 pruned atom pairs is 0.540 angstroms; (across all 56 pairs: 0.540)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with F_vesca_v4_0_a2_50703324.pdb, chain A (#93), sequence alignment score = 199
+RMSD between 56 pruned atom pairs is 0.551 angstroms; (across all 56 pairs: 0.551)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with F_x_ananassa_v1_0_a1_50462288.pdb, chain A (#94), sequence alignment score = 196
+RMSD between 56 pruned atom pairs is 0.526 angstroms; (across all 56 pairs: 0.526)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with F_x_ananassa_v1_0_a1_50561545.pdb, chain A (#95), sequence alignment score = 212.1
+RMSD between 56 pruned atom pairs is 0.410 angstroms; (across all 56 pairs: 0.410)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_barbadense_v1_1_42285431.pdb, chain A (#96), sequence alignment score = 238
+RMSD between 56 pruned atom pairs is 0.365 angstroms; (across all 56 pairs: 0.365)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_barbadense_v1_1_42300636.pdb, chain A (#97), sequence alignment score = 237.3
+RMSD between 56 pruned atom pairs is 0.332 angstroms; (across all 56 pairs: 0.332)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_darwinii_v1_1_42522253.pdb, chain A (#98), sequence alignment score = 238
+RMSD between 56 pruned atom pairs is 0.329 angstroms; (across all 56 pairs: 0.329)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_darwinii_v1_1_42574580.pdb, chain A (#99), sequence alignment score = 237.3
+RMSD between 56 pruned atom pairs is 0.328 angstroms; (across all 56 pairs: 0.328)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_hirsutum_v1_1_38135151.pdb, chain A (#100), sequence alignment score = 226.5
+RMSD between 56 pruned atom pairs is 0.320 angstroms; (across all 56 pairs: 0.320)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_hirsutum_v1_1_38136914.pdb, chain A (#101), sequence alignment score = 238
+RMSD between 56 pruned atom pairs is 0.339 angstroms; (across all 56 pairs: 0.339)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_hirsutum_v2_1_42370512.pdb, chain A (#102), sequence alignment score = 238
+RMSD between 56 pruned atom pairs is 0.320 angstroms; (across all 56 pairs: 0.320)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_hirsutum_v2_1_42393689.pdb, chain A (#103), sequence alignment score = 237.3
+RMSD between 56 pruned atom pairs is 0.323 angstroms; (across all 56 pairs: 0.323)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_max_Fiskeby_v1_1_50788605.pdb, chain A (#104), sequence alignment score = 215.9
+RMSD between 53 pruned atom pairs is 0.493 angstroms; (across all 54 pairs: 0.615)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_max_Lee_v1_1_41278646.pdb, chain A (#105), sequence alignment score = 218.7
+RMSD between 53 pruned atom pairs is 0.490 angstroms; (across all 54 pairs: 0.613)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_max_Wm82_a2_v1_30514286.pdb, chain A (#106), sequence alignment score = 218.7
+RMSD between 53 pruned atom pairs is 0.504 angstroms; (across all 54 pairs: 0.635)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_max_Wm82_a4_v1_41164439.pdb, chain A (#107), sequence alignment score = 218.7
+RMSD between 53 pruned atom pairs is 0.452 angstroms; (across all 54 pairs: 0.556)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_mustelinum_v1_1_42037592.pdb, chain A (#108), sequence alignment score = 226.5
+RMSD between 56 pruned atom pairs is 0.316 angstroms; (across all 56 pairs: 0.316)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_mustelinum_v1_1_42061743.pdb, chain A (#109), sequence alignment score = 231
+RMSD between 56 pruned atom pairs is 0.336 angstroms; (across all 56 pairs: 0.336)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_raimondii_v2_1_26823919.pdb, chain A (#110), sequence alignment score = 240.8
+RMSD between 56 pruned atom pairs is 0.341 angstroms; (across all 56 pairs: 0.341)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_soja_v1_1_41181672.pdb, chain A (#111), sequence alignment score = 215.9
+RMSD between 53 pruned atom pairs is 0.522 angstroms; (across all 54 pairs: 0.650)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_tomentosum_v1_1_42166103.pdb, chain A (#112), sequence alignment score = 237.3
+RMSD between 56 pruned atom pairs is 0.329 angstroms; (across all 56 pairs: 0.329)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with G_tomentosum_v1_1_42231865.pdb, chain A (#113), sequence alignment score = 227.2
+RMSD between 56 pruned atom pairs is 0.359 angstroms; (across all 56 pairs: 0.359)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with H_annuus_r1_2_40335989.pdb, chain A (#114), sequence alignment score = 226.8
+RMSD between 56 pruned atom pairs is 0.514 angstroms; (across all 56 pairs: 0.514)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with H_quercifolia_v1_1_45885406.pdb, chain A (#115), sequence alignment score = 204.4
+RMSD between 56 pruned atom pairs is 0.512 angstroms; (across all 56 pairs: 0.512)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with H_vulgare_Morex_V3_52203142.pdb, chain A (#116), sequence alignment score = 208.2
+RMSD between 55 pruned atom pairs is 0.676 angstroms; (across all 55 pairs: 0.676)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Helianthus_annuus.pdb, chain A (#117), sequence alignment score = 213.7
+RMSD between 54 pruned atom pairs is 0.540 angstroms; (across all 54 pairs: 0.540)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Hordeum_vulgare.pdb, chain A (#118), sequence alignment score = 210.7
+RMSD between 57 pruned atom pairs is 0.650 angstroms; (across all 58 pairs: 0.715)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with I_amara_v1_1_39758091.pdb, chain A (#119), sequence alignment score = 288
+RMSD between 59 pruned atom pairs is 0.346 angstroms; (across all 59 pairs: 0.346)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with I_tinctoria_v1_1_39264317.pdb, chain A (#120), sequence alignment score = 77.7
+RMSD between 13 pruned atom pairs is 0.887 angstroms; (across all 34 pairs: 5.605)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with I_tinctoria_v1_1_39327108.pdb, chain A (#121), sequence alignment score = 292.4
+RMSD between 58 pruned atom pairs is 0.334 angstroms; (across all 58 pairs: 0.334)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with J_ascendens_v1_1_45766098.pdb, chain A (#122), sequence alignment score = 198.9
+RMSD between 52 pruned atom pairs is 0.487 angstroms; (across all 52 pairs: 0.487)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Juglans_nigra.pdb, chain A (#123), sequence alignment score = 236.6
+RMSD between 56 pruned atom pairs is 0.338 angstroms; (across all 56 pairs: 0.338)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with K_fedtschenkoi_v1_1_35776024.pdb, chain A (#124), sequence alignment score = 202.7
+RMSD between 53 pruned atom pairs is 0.608 angstroms; (across all 56 pairs: 0.936)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with K_laxiflora_v1_1_32590985.pdb, chain A (#125), sequence alignment score = 202.7
+RMSD between 53 pruned atom pairs is 0.562 angstroms; (across all 56 pairs: 0.876)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with K_laxiflora_v1_1_32592924.pdb, chain A (#126), sequence alignment score = 202
+RMSD between 55 pruned atom pairs is 0.573 angstroms; (across all 56 pairs: 0.640)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Klebsormidium_flaccidum_(charophytic_algae).pdb, chain A (#127), sequence alignment score = 174.6
+RMSD between 57 pruned atom pairs is 0.652 angstroms; (across all 58 pairs: 0.747)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_albus_v1_44568474.pdb, chain A (#128), sequence alignment score = 216.6
+RMSD between 54 pruned atom pairs is 0.430 angstroms; (across all 54 pairs: 0.430)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_annua_v1_1_39401559.pdb, chain A (#129), sequence alignment score = 292.4
+RMSD between 58 pruned atom pairs is 0.322 angstroms; (across all 58 pairs: 0.322)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_japonicus_Lj1_0v1_44918279.pdb, chain A (#130), sequence alignment score = 206.9
+RMSD between 53 pruned atom pairs is 0.496 angstroms; (across all 53 pairs: 0.496)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_philippensis_v1_1_51308173.pdb, chain A (#131), sequence alignment score = 233.1
+RMSD between 56 pruned atom pairs is 0.325 angstroms; (across all 56 pairs: 0.325)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_sativa_V8_38944350.pdb, chain A (#132), sequence alignment score = 92.6
+RMSD between 14 pruned atom pairs is 1.250 angstroms; (across all 28 pairs: 3.515)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_sativa_V8_38951049.pdb, chain A (#133), sequence alignment score = 230.3
+RMSD between 56 pruned atom pairs is 0.492 angstroms; (across all 56 pairs: 0.492)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_sativum_v1_1_39465468.pdb, chain A (#134), sequence alignment score = 287.5
+RMSD between 58 pruned atom pairs is 0.312 angstroms; (across all 58 pairs: 0.312)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_sativum_v1_1_39476819.pdb, chain A (#135), sequence alignment score = 277.7
+RMSD between 58 pruned atom pairs is 0.333 angstroms; (across all 58 pairs: 0.333)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_usitatissimum_v1_0_23148443.pdb, chain A (#136), sequence alignment score = 118
+RMSD between 28 pruned atom pairs is 0.870 angstroms; (across all 31 pairs: 1.556)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with L_usitatissimum_v1_0_23176683.pdb, chain A (#137), sequence alignment score = 232.8
+RMSD between 56 pruned atom pairs is 0.354 angstroms; (across all 56 pairs: 0.354)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_acuminata_v1_32324680.pdb, chain A (#138), sequence alignment score = 219.4
+RMSD between 54 pruned atom pairs is 0.435 angstroms; (across all 54 pairs: 0.435)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_domestica_v1_1_40107872.pdb, chain A (#139), sequence alignment score = 231.2
+RMSD between 56 pruned atom pairs is 0.328 angstroms; (across all 56 pairs: 0.328)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_esculenta_v6_1_32358868.pdb, chain A (#140), sequence alignment score = 235.4
+RMSD between 56 pruned atom pairs is 0.469 angstroms; (across all 56 pairs: 0.469)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_esculenta_v7_1_41900264.pdb, chain A (#141), sequence alignment score = 235.4
+RMSD between 56 pruned atom pairs is 0.449 angstroms; (across all 56 pairs: 0.449)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_esculenta_v8_1_50282946.pdb, chain A (#142), sequence alignment score = 235.4
+RMSD between 56 pruned atom pairs is 0.435 angstroms; (across all 56 pairs: 0.435)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_guttatus_NONTOL_v3_1_41017281.pdb, chain A (#143), sequence alignment score = 210
+RMSD between 56 pruned atom pairs is 0.452 angstroms; (across all 56 pairs: 0.452)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_guttatus_NONTOL_v4_0_43590897.pdb, chain A (#144), sequence alignment score = 213
+RMSD between 56 pruned atom pairs is 0.426 angstroms; (across all 56 pairs: 0.426)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_guttatus_TOL_v3_1_40969910.pdb, chain A (#145), sequence alignment score = 210
+RMSD between 56 pruned atom pairs is 0.435 angstroms; (across all 56 pairs: 0.435)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_guttatus_TOL_v5_0_43514285.pdb, chain A (#146), sequence alignment score = 210
+RMSD between 56 pruned atom pairs is 0.440 angstroms; (across all 56 pairs: 0.440)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_guttatus_v2_0_28926671.pdb, chain A (#147), sequence alignment score = 199.2
+RMSD between 56 pruned atom pairs is 0.507 angstroms; (across all 56 pairs: 0.507)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_maritima_v1_1_39414774.pdb, chain A (#148), sequence alignment score = 299.4
+RMSD between 58 pruned atom pairs is 0.381 angstroms; (across all 58 pairs: 0.381)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_perfoliatum_v1_1_39113249.pdb, chain A (#149), sequence alignment score = 297.8
+RMSD between 59 pruned atom pairs is 0.146 angstroms; (across all 59 pairs: 0.146)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_perfoliatum_v2_1_45612371.pdb, chain A (#150), sequence alignment score = 297.8
+RMSD between 59 pruned atom pairs is 0.174 angstroms; (across all 59 pairs: 0.174)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_polymorpha_v3_1_33016675.pdb, chain A (#151), sequence alignment score = 198.4
+RMSD between 56 pruned atom pairs is 0.759 angstroms; (across all 56 pairs: 0.759)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_pusillaCCMP1545_v3_0_27348240.pdb, chain A (#152), sequence alignment score = 139.2
+RMSD between 51 pruned atom pairs is 0.538 angstroms; (across all 51 pairs: 0.538)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_sinensis_v7_1_40493325.pdb, chain A (#153), sequence alignment score = 190.1
+RMSD between 53 pruned atom pairs is 0.478 angstroms; (across all 53 pairs: 0.478)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_sinensis_v7_1_40510873.pdb, chain A (#154), sequence alignment score = 195
+RMSD between 53 pruned atom pairs is 0.519 angstroms; (across all 53 pairs: 0.519)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_spRCC299_v3_0_27397412.pdb, chain A (#155), sequence alignment score = 137.8
+RMSD between 51 pruned atom pairs is 0.661 angstroms; (across all 51 pairs: 0.661)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with M_truncatula_Mt4_0v1_31077754.pdb, chain A (#156), sequence alignment score = 203.9
+RMSD between 52 pruned atom pairs is 0.592 angstroms; (across all 52 pairs: 0.592)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Manihot_esculenta.pdb, chain A (#157), sequence alignment score = 235.4
+RMSD between 56 pruned atom pairs is 0.472 angstroms; (across all 56 pairs: 0.472)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Marchantia_polymorpha.pdb, chain A (#158), sequence alignment score = 198.4
+RMSD between 56 pruned atom pairs is 0.766 angstroms; (across all 56 pairs: 0.766)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Musa_acuminata.pdb, chain A (#159), sequence alignment score = 219.4
+RMSD between 54 pruned atom pairs is 0.379 angstroms; (across all 54 pairs: 0.379)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with N_colorata_v1_2_44533136.pdb, chain A (#160), sequence alignment score = 198.2
+RMSD between 51 pruned atom pairs is 0.646 angstroms; (across all 55 pairs: 1.452)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Nymphaea_colorata.pdb, chain A (#161), sequence alignment score = 198.2
+RMSD between 51 pruned atom pairs is 0.597 angstroms; (across all 55 pairs: 1.110)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with O_europaea_v1_0_37710605.pdb, chain A (#162), sequence alignment score = 189.2
+RMSD between 52 pruned atom pairs is 0.621 angstroms; (across all 56 pairs: 1.754)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with O_sativa_v7_0_33144079.pdb, chain A (#163), sequence alignment score = 180.4
+RMSD between 45 pruned atom pairs is 0.603 angstroms; (across all 51 pairs: 1.616)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with O_sativaKitaake_v3_1_40568805.pdb, chain A (#164), sequence alignment score = 180.4
+RMSD between 46 pruned atom pairs is 0.634 angstroms; (across all 51 pairs: 1.555)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Oryza_sativa.pdb, chain A (#165), sequence alignment score = 207.3
+RMSD between 58 pruned atom pairs is 0.608 angstroms; (across all 59 pairs: 0.771)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Paraphysomonas_imperforata.pdb, chain A (#166), sequence alignment score = 193.8
+RMSD between 49 pruned atom pairs is 0.490 angstroms; (across all 52 pairs: 1.179)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Pelagophyceae_sp..pdb, chain A (#167), sequence alignment score = 142.3
+RMSD between 39 pruned atom pairs is 0.882 angstroms; (across all 54 pairs: 1.942)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Physcomitrium_patens.pdb, chain A (#168), sequence alignment score = 210.2
+RMSD between 53 pruned atom pairs is 0.455 angstroms; (across all 53 pairs: 0.455)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Pistacia_vera.pdb, chain A (#169), sequence alignment score = 227.5
+RMSD between 57 pruned atom pairs is 0.499 angstroms; (across all 58 pairs: 0.597)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Populus_trichocarpa.pdb, chain A (#170), sequence alignment score = 220.7
+RMSD between 56 pruned atom pairs is 0.333 angstroms; (across all 56 pairs: 0.333)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Sphagnum_magellanicum.pdb, chain A (#171), sequence alignment score = 217.3
+RMSD between 56 pruned atom pairs is 0.377 angstroms; (across all 56 pairs: 0.377)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Tribonema_minus.pdb, chain A (#172), sequence alignment score = 167.2
+RMSD between 42 pruned atom pairs is 0.813 angstroms; (across all 52 pairs: 2.624)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_aestivum.pdb, chain A (#173), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.588 angstroms; (across all 57 pairs: 0.678)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_dicoccoides_1.pdb, chain A (#174), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.583 angstroms; (across all 57 pairs: 0.662)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_dicoccoides_2.pdb, chain A (#175), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.587 angstroms; (across all 57 pairs: 0.672)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_spelta.pdb, chain A (#176), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.585 angstroms; (across all 57 pairs: 0.674)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_turgidum_1.pdb, chain A (#177), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.576 angstroms; (across all 57 pairs: 0.665)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Triticum_turgidum_2.pdb, chain A (#178), sequence alignment score = 211.8
+RMSD between 56 pruned atom pairs is 0.580 angstroms; (across all 57 pairs: 0.677)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Vitis_vinifera.pdb, chain A (#179), sequence alignment score = 226.8
+RMSD between 56 pruned atom pairs is 0.371 angstroms; (across all 56 pairs: 0.371)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Zea_Mays.pdb, chain A (#180), sequence alignment score = 193.6
+RMSD between 53 pruned atom pairs is 0.455 angstroms; (across all 53 pairs: 0.455)
+
+Matchmaker Arabidopsis_thaliana.pdb, chain A (#19) with Zostera_marina.pdb, chain A (#181), sequence alignment score = 211.2
+RMSD between 54 pruned atom pairs is 0.477 angstroms; (across all 54 pairs: 0.477)

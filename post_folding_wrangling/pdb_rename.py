@@ -36,9 +36,11 @@ if not os.path.exists(new_folder):
 for path, subdirs, files in os.walk(folder):
     for name in files:
         #print(os.path.join(path, name))
-        print(name)
+        #print(name)
         if name == "ranked_0.pdb":
-            print(name)
+            
             base_name = os.path.basename(path)
+            print('renaming '+name+' to '+base_name+' and moving it to output folder...')
+            time.sleep(.05)
             shutil.copy2(os.path.join(os.path.join(path, name)),new_folder)
             os.rename(os.path.join(new_folder, "ranked_0.pdb"),os.path.join(new_folder,base_name+".pdb"))
