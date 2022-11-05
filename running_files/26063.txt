@@ -1,0 +1,7 @@
+srun -p bmm -t 48:00:00 --mem=256GB -n 1 -c 32 --pty bash -l
+module load spack/singularity/3.8.3
+singularity exec --nv -B /home/haryu/alphafoldDownload alphafold.sif bash
+source /opt/miniconda3/etc/profile.d/conda.sh
+conda activate alphafold
+cd /opt/alphafold/
+
