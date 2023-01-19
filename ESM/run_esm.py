@@ -1,7 +1,7 @@
 import os
 import sys
 import subprocess
-
+from time import sleep
 # Get the input and output directory paths from the command line arguments
 input_directory = sys.argv[1]
 output_directory = sys.argv[2]
@@ -10,6 +10,8 @@ output_directory = sys.argv[2]
 for root, dirs, files in os.walk(input_directory):
     # Iterate through all files in the current directory
     for filename in files:
+        print(filename)
+        
         filepath = os.path.join(root, filename)
 
         # Check if the file is a FASTA file
@@ -23,7 +25,8 @@ for root, dirs, files in os.walk(input_directory):
 
         # Build the curl command
         command = ["curl", "-X", "POST", "--data", data, "https://api.esmatlas.com/foldSequence/v1/pdb/"]
-
+        #sleep(2)
+        print("Folding structure for..."+filename)
         # Run the curl command and save the output to a file in the output directory
-        output_file = os.path.join(output_directory, name + ".pdb")
-        os.system(command, stdout=open(output_file, "w"))
+        output_file = os.path.join(output_directory, filename + ".pdb")
+        subprocess.run(command, stdout=open(output_file, "w"))
