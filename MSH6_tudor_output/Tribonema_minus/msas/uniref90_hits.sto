@@ -1,0 +1,1665 @@
+# STOCKHOLM 1.0
+#=GF ID Tribonema_minus-i1
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS UniRef90_A0A5B8MZR6/1840-1883    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A5B8MZR6/1914-1959    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A5B8MZR6/2007-2052    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A5B8MZR6/2098-2149    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A5B8MZR6/2179-2224    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A5B8MZR6/2261-2306    DE [subseq from] Bromodomain-containing protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZR6_9CHLO
+#=GS UniRef90_A0A4Y7JRM0/55-103       DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_A0A4Y7JRM0/174-222      DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_A0A4Y7JRM0/294-338      DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_A0A4Y7JRM0/413-461      DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_A0A4Y7JRM0/549-593      DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_A0A4Y7JRM0/685-729      DE [subseq from] Uncharacterized protein n=2 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7JRM0_PAPSO
+#=GS UniRef90_UPI0003D2879F/130-181   DE [subseq from] uncharacterized protein LOC102579340 isoform X2 n=1 Tax=Solanum tuberosum TaxID=4113 RepID=UPI0003D2879F
+#=GS UniRef90_UPI0003D2879F/204-255   DE [subseq from] uncharacterized protein LOC102579340 isoform X2 n=1 Tax=Solanum tuberosum TaxID=4113 RepID=UPI0003D2879F
+#=GS UniRef90_UPI0003D2879F/278-329   DE [subseq from] uncharacterized protein LOC102579340 isoform X2 n=1 Tax=Solanum tuberosum TaxID=4113 RepID=UPI0003D2879F
+#=GS UniRef90_A0A3Q7GWQ2/641-692      DE [subseq from] Uncharacterized protein n=10 Tax=Solanum subgen. Lycopersicon TaxID=49274 RepID=A0A3Q7GWQ2_SOLLC
+#=GS UniRef90_A0A3Q7GWQ2/715-766      DE [subseq from] Uncharacterized protein n=10 Tax=Solanum subgen. Lycopersicon TaxID=49274 RepID=A0A3Q7GWQ2_SOLLC
+#=GS UniRef90_A0A3Q7GWQ2/789-840      DE [subseq from] Uncharacterized protein n=10 Tax=Solanum subgen. Lycopersicon TaxID=49274 RepID=A0A3Q7GWQ2_SOLLC
+#=GS UniRef90_A0A7S2WZ73/1323-1374    DE [subseq from] Hypothetical protein n=4 Tax=Chloropicon primus TaxID=1764295 RepID=A0A7S2WZ73_9CHLO
+#=GS UniRef90_A0A7S2WZ73/1404-1449    DE [subseq from] Hypothetical protein n=4 Tax=Chloropicon primus TaxID=1764295 RepID=A0A7S2WZ73_9CHLO
+#=GS UniRef90_A0A7S2WZ73/1486-1531    DE [subseq from] Hypothetical protein n=4 Tax=Chloropicon primus TaxID=1764295 RepID=A0A7S2WZ73_9CHLO
+#=GS UniRef90_A0A1U8H4Q0/500-549      DE [subseq from] uncharacterized protein LOC107876018 isoform X1 n=2 Tax=Capsicum annuum TaxID=4072 RepID=A0A1U8H4Q0_CAPAN
+#=GS UniRef90_A0A1U8H4Q0/766-817      DE [subseq from] uncharacterized protein LOC107876018 isoform X1 n=2 Tax=Capsicum annuum TaxID=4072 RepID=A0A1U8H4Q0_CAPAN
+#=GS UniRef90_A0A1U8H4Q0/838-885      DE [subseq from] uncharacterized protein LOC107876018 isoform X1 n=2 Tax=Capsicum annuum TaxID=4072 RepID=A0A1U8H4Q0_CAPAN
+#=GS UniRef90_A0A5B8MG98/59-109       DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MG98_9CHLO
+#=GS UniRef90_A0A5B8MG98/133-183      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MG98_9CHLO
+#=GS UniRef90_A0A5B8MG98/403-454      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MG98_9CHLO
+#=GS UniRef90_A0A2V0NL39/340-383      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0NL39_9CHLO
+#=GS UniRef90_A0A2V0NL39/599-647      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0NL39_9CHLO
+#=GS UniRef90_A0A2V0NL39/778-825      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0NL39_9CHLO
+#=GS UniRef90_A0A7S3FQH5/150-200      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3FQH5_9CHLO
+#=GS UniRef90_A0A7S3FQH5/426-476      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3FQH5_9CHLO
+#=GS UniRef90_A0A7S3FQH5/583-621      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3FQH5_9CHLO
+#=GS UniRef90_A0A2U1N486/305-340      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N486_ARTAN
+#=GS UniRef90_A0A2U1N486/484-531      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N486_ARTAN
+#=GS UniRef90_A0A2U1N486/555-597      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N486_ARTAN
+#=GS UniRef90_A0A3Q7GZZ5/288-339      DE [subseq from] Uncharacterized protein n=3 Tax=Solanum lycopersicum TaxID=4081 RepID=A0A3Q7GZZ5_SOLLC
+#=GS UniRef90_A0A3Q7GZZ5/362-413      DE [subseq from] Uncharacterized protein n=3 Tax=Solanum lycopersicum TaxID=4081 RepID=A0A3Q7GZZ5_SOLLC
+#=GS UniRef90_A0A7J7PVX3/158-202      DE [subseq from] Uncharacterized protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7PVX3_9CHLO
+#=GS UniRef90_A0A7J7PVX3/466-513      DE [subseq from] Uncharacterized protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7PVX3_9CHLO
+#=GS UniRef90_A0A7J7PVX3/647-698      DE [subseq from] Uncharacterized protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7PVX3_9CHLO
+#=GS UniRef90_UPI0009E333E3/621-670   DE [subseq from] uncharacterized protein LOC110027049 isoform X1 n=3 Tax=Phalaenopsis equestris TaxID=78828 RepID=UPI0009E333E3
+#=GS UniRef90_UPI0009E333E3/935-984   DE [subseq from] uncharacterized protein LOC110027049 isoform X1 n=3 Tax=Phalaenopsis equestris TaxID=78828 RepID=UPI0009E333E3
+#=GS UniRef90_A0A7J6W6S3/78-125       DE [subseq from] Uncharacterized protein n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6W6S3_THATH
+#=GS UniRef90_A0A7J6W6S3/294-342      DE [subseq from] Uncharacterized protein n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6W6S3_THATH
+#=GS UniRef90_A0A7J6W6S3/546-593      DE [subseq from] Uncharacterized protein n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6W6S3_THATH
+#=GS UniRef90_A0A7J6W6S3/664-711      DE [subseq from] Uncharacterized protein n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6W6S3_THATH
+#=GS UniRef90_I0Z8A8/111-159          DE [subseq from] Uncharacterized protein n=1 Tax=Coccomyxa subellipsoidea (strain C-169) TaxID=574566 RepID=I0Z8A8_COCSC
+#=GS UniRef90_I0Z8A8/404-451          DE [subseq from] Uncharacterized protein n=1 Tax=Coccomyxa subellipsoidea (strain C-169) TaxID=574566 RepID=I0Z8A8_COCSC
+#=GS UniRef90_I0Z8A8/618-665          DE [subseq from] Uncharacterized protein n=1 Tax=Coccomyxa subellipsoidea (strain C-169) TaxID=574566 RepID=I0Z8A8_COCSC
+#=GS UniRef90_A0A6J0LDS5/562-613      DE [subseq from] glutamic acid-rich protein isoform X1 n=5 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0LDS5_RAPSA
+#=GS UniRef90_A0A6J0LDS5/661-712      DE [subseq from] glutamic acid-rich protein isoform X1 n=5 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0LDS5_RAPSA
+#=GS UniRef90_UPI0003D25624/571-622   DE [subseq from] uncharacterized protein LOC102606228 isoform X1 n=8 Tax=Solanum tuberosum TaxID=4113 RepID=UPI0003D25624
+#=GS UniRef90_UPI0003D25624/645-696   DE [subseq from] uncharacterized protein LOC102606228 isoform X1 n=8 Tax=Solanum tuberosum TaxID=4113 RepID=UPI0003D25624
+#=GS UniRef90_A0A7S0IBE8/116-166      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7S0IBE8_MICPS
+#=GS UniRef90_A0A7S0IBE8/278-328      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7S0IBE8_MICPS
+#=GS UniRef90_A0A7J7G7P1/634-683      DE [subseq from] Uncharacterized protein n=1 Tax=Camellia sinensis TaxID=4442 RepID=A0A7J7G7P1_CAMSI
+#=GS UniRef90_A0A7J7G7P1/2093-2142    DE [subseq from] Uncharacterized protein n=1 Tax=Camellia sinensis TaxID=4442 RepID=A0A7J7G7P1_CAMSI
+#=GS UniRef90_A0A2K3P6L1/672-723      DE [subseq from] Sister chromatid cohesion PDS5-like protein n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3P6L1_TRIPR
+#=GS UniRef90_A0A2K3P6L1/743-789      DE [subseq from] Sister chromatid cohesion PDS5-like protein n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3P6L1_TRIPR
+#=GS UniRef90_A0A7S3BDR3/157-209      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Prasinoderma singulare TaxID=676789 RepID=A0A7S3BDR3_9VIRI
+#=GS UniRef90_A0A7S3BDR3/361-411      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Prasinoderma singulare TaxID=676789 RepID=A0A7S3BDR3_9VIRI
+#=GS UniRef90_A0A4D6NQV9/634-685      DE [subseq from] Sister chromatid cohesion protein PDS5 n=1 Tax=Vigna unguiculata TaxID=3917 RepID=A0A4D6NQV9_VIGUN
+#=GS UniRef90_A0A4D6NQV9/969-1019     DE [subseq from] Sister chromatid cohesion protein PDS5 n=1 Tax=Vigna unguiculata TaxID=3917 RepID=A0A4D6NQV9_VIGUN
+#=GS UniRef90_A0A484MRT4/101-149      DE [subseq from] Uncharacterized protein n=1 Tax=Cuscuta campestris TaxID=132261 RepID=A0A484MRT4_9ASTE
+#=GS UniRef90_A0A484MRT4/1362-1410    DE [subseq from] Uncharacterized protein n=1 Tax=Cuscuta campestris TaxID=132261 RepID=A0A484MRT4_9ASTE
+#=GS UniRef90_A0A7S3E4J5/72-123       DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon laureae TaxID=464258 RepID=A0A7S3E4J5_9CHLO
+#=GS UniRef90_A0A7S3E4J5/146-196      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon laureae TaxID=464258 RepID=A0A7S3E4J5_9CHLO
+#=GS UniRef90_A0A7S3E4J5/526-573      DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon laureae TaxID=464258 RepID=A0A7S3E4J5_9CHLO
+#=GS UniRef90_A0A2G2ZBS0/244-295      DE [subseq from] Uncharacterized protein n=1 Tax=Capsicum annuum TaxID=4072 RepID=A0A2G2ZBS0_CAPAN
+#=GS UniRef90_A0A2G2ZBS0/316-363      DE [subseq from] Uncharacterized protein n=1 Tax=Capsicum annuum TaxID=4072 RepID=A0A2G2ZBS0_CAPAN
+#=GS UniRef90_A0A0D2MT29/413-456      DE [subseq from] Uncharacterized protein n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2MT29_9CHLO
+#=GS UniRef90_A0A0D2MT29/607-655      DE [subseq from] Uncharacterized protein n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2MT29_9CHLO
+#=GS UniRef90_A0A2U1LJG9/116-163      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1LJG9_ARTAN
+#=GS UniRef90_A0A2U1LJG9/187-234      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1LJG9_ARTAN
+#=GS UniRef90_A0A1Y1HW87/465-514      DE [subseq from] SET domain containing protein n=1 Tax=Klebsormidium nitens TaxID=105231 RepID=A0A1Y1HW87_KLENI
+#=GS UniRef90_A0A1Y1HW87/639-688      DE [subseq from] SET domain containing protein n=1 Tax=Klebsormidium nitens TaxID=105231 RepID=A0A1Y1HW87_KLENI
+#=GS UniRef90_A0A2G5ECX0/85-132       DE [subseq from] Uncharacterized protein n=1 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5ECX0_AQUCA
+#=GS UniRef90_A0A2G5ECX0/244-287      DE [subseq from] Uncharacterized protein n=1 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5ECX0_AQUCA
+#=GS UniRef90_A0A2G5ECX0/476-523      DE [subseq from] Uncharacterized protein n=1 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5ECX0_AQUCA
+#=GS UniRef90_A0A2U1N498/228-275      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N498_ARTAN
+#=GS UniRef90_A0A2U1N498/301-344      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N498_ARTAN
+#=GS UniRef90_A0A2V0PLJ4/273-320      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0PLJ4_9CHLO
+#=GS UniRef90_A0A2V0PLJ4/430-479      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0PLJ4_9CHLO
+#=GS UniRef90_A0A6P6UCE5/572-623      DE [subseq from] uncharacterized protein LOC113709532 isoform X2 n=3 Tax=Coffea TaxID=13442 RepID=A0A6P6UCE5_COFAR
+#=GS UniRef90_A0A6P6UCE5/751-801      DE [subseq from] uncharacterized protein LOC113709532 isoform X2 n=3 Tax=Coffea TaxID=13442 RepID=A0A6P6UCE5_COFAR
+#=GS UniRef90_A0A2P6U196/183-230      DE [subseq from] Histone-lysine N-methyltransferase ATX2 n=1 Tax=Chlorella sorokiniana TaxID=3076 RepID=A0A2P6U196_CHLSO
+#=GS UniRef90_A0A2P6U196/733-773      DE [subseq from] Histone-lysine N-methyltransferase ATX2 n=1 Tax=Chlorella sorokiniana TaxID=3076 RepID=A0A2P6U196_CHLSO
+#=GS UniRef90_A0A2P6V6D6/162-207      DE [subseq from] Histone-lysine N-methyltransferase ATX2 n=1 Tax=Micractinium conductrix TaxID=554055 RepID=A0A2P6V6D6_9CHLO
+#=GS UniRef90_A0A484LLQ9/603-642      DE [subseq from] Uncharacterized protein n=1 Tax=Cuscuta campestris TaxID=132261 RepID=A0A484LLQ9_9ASTE
+#=GS UniRef90_A0A484LLQ9/914-962      DE [subseq from] Uncharacterized protein n=1 Tax=Cuscuta campestris TaxID=132261 RepID=A0A484LLQ9_9ASTE
+#=GS UniRef90_A0A2U1L0T7/533-584      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1L0T7_ARTAN
+#=GS UniRef90_A0A250XFY8/559-603      DE [subseq from] Uncharacterized protein n=1 Tax=Chlamydomonas eustigma TaxID=1157962 RepID=A0A250XFY8_9CHLO
+#=GS UniRef90_A0A250XFY8/814-861      DE [subseq from] Uncharacterized protein n=1 Tax=Chlamydomonas eustigma TaxID=1157962 RepID=A0A250XFY8_9CHLO
+#=GS UniRef90_A0A2J8A0L3/38-85        DE [subseq from] Histone-lysine N-methyltransferase ATX1 n=2 Tax=Tetrabaena socialis TaxID=47790 RepID=A0A2J8A0L3_9CHLO
+#=GS UniRef90_A0A2J8A0L3/382-427      DE [subseq from] Histone-lysine N-methyltransferase ATX1 n=2 Tax=Tetrabaena socialis TaxID=47790 RepID=A0A2J8A0L3_9CHLO
+#=GS UniRef90_A0A2U1PFE6/280-327      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1PFE6_ARTAN
+#=GS UniRef90_A0A2U1PFE6/344-388      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1PFE6_ARTAN
+#=GS UniRef90_A0A061R9K1/86-133       DE [subseq from] Uncharacterized protein n=2 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061R9K1_9CHLO
+#=GS UniRef90_A0A061R9K1/572-618      DE [subseq from] Uncharacterized protein n=2 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061R9K1_9CHLO
+#=GS UniRef90_A0A392NXF9/58-109       DE [subseq from] Sister chromatid cohesion PDS5-like protein (Fragment) n=1 Tax=Trifolium medium TaxID=97028 RepID=A0A392NXF9_9FABA
+#=GS UniRef90_A4S8M3/437-485          DE [subseq from] Uncharacterized protein n=2 Tax=Ostreococcus sp. 'lucimarinus' TaxID=242159 RepID=A4S8M3_OSTLU
+#=GS UniRef90_UPI000C1D4CAA/11-56     DE [subseq from] uncharacterized protein LOC111381756 isoform X1 n=6 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1D4CAA
+#=GS UniRef90_UPI000C1D4CAA/93-143    DE [subseq from] uncharacterized protein LOC111381756 isoform X1 n=6 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1D4CAA
+#=GS UniRef90_E1ZJ30/181-228          DE [subseq from] LBR_tudor domain-containing protein n=1 Tax=Chlorella variabilis TaxID=554065 RepID=E1ZJ30_CHLVA
+#=GS UniRef90_E1ZJ30/357-407          DE [subseq from] LBR_tudor domain-containing protein n=1 Tax=Chlorella variabilis TaxID=554065 RepID=E1ZJ30_CHLVA
+#=GS UniRef90_A0A1S4BMC9/522-573      DE [subseq from] uncharacterized protein LOC107809834 n=13 Tax=Nicotiana TaxID=4085 RepID=A0A1S4BMC9_TOBAC
+#=GS UniRef90_A0A1S4BMC9/596-647      DE [subseq from] uncharacterized protein LOC107809834 n=13 Tax=Nicotiana TaxID=4085 RepID=A0A1S4BMC9_TOBAC
+#=GS UniRef90_A0A2P6TEK1/703-752      DE [subseq from] PHD finger protein isoform C n=3 Tax=Chlorella sorokiniana TaxID=3076 RepID=A0A2P6TEK1_CHLSO
+#=GS UniRef90_A0A2U1N3X9/297-343      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N3X9_ARTAN
+#=GS UniRef90_A0A2U1N3X9/609-655      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1N3X9_ARTAN
+#=GS UniRef90_A0A7S1SVS7/79-129       DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Tetraselmis chuii TaxID=63592 RepID=A0A7S1SVS7_9CHLO
+#=GS UniRef90_A0A7S1SVS7/736-784      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Tetraselmis chuii TaxID=63592 RepID=A0A7S1SVS7_9CHLO
+#=GS UniRef90_A8IWW5/11-58            DE [subseq from] Histone methyltransferase (Fragment) n=2 Tax=Chlamydomonas reinhardtii TaxID=3055 RepID=A8IWW5_CHLRE
+#=GS UniRef90_A8IWW5/458-502          DE [subseq from] Histone methyltransferase (Fragment) n=2 Tax=Chlamydomonas reinhardtii TaxID=3055 RepID=A8IWW5_CHLRE
+#=GS UniRef90_A0A2P6VCE5/694-745      DE [subseq from] PHD finger n=1 Tax=Micractinium conductrix TaxID=554055 RepID=A0A2P6VCE5_9CHLO
+#=GS UniRef90_A0A1D6J9J9/395-444      DE [subseq from] Uncharacterized protein n=1 Tax=Zea mays TaxID=4577 RepID=A0A1D6J9J9_MAIZE
+#=GS UniRef90_A0A7S3FLT3/6-41         DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3FLT3_9CHLO
+#=GS UniRef90_A0A7S3FLT3/85-129       DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3FLT3_9CHLO
+#=GS UniRef90_A0A5K1GN35/123-170      DE [subseq from] Uncharacterized protein (Fragment) n=2 Tax=Nymphaea colorata TaxID=210225 RepID=A0A5K1GN35_9MAGN
+#=GS UniRef90_A0A5K1GN35/371-419      DE [subseq from] Uncharacterized protein (Fragment) n=2 Tax=Nymphaea colorata TaxID=210225 RepID=A0A5K1GN35_9MAGN
+#=GS UniRef90_E1ZNB8/733-784          DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Chlorella variabilis TaxID=554065 RepID=E1ZNB8_CHLVA
+#=GS UniRef90_A0A1D6J9L0/643-692      DE [subseq from] Uncharacterized protein n=7 Tax=Zea mays TaxID=4577 RepID=A0A1D6J9L0_MAIZE
+#=GS UniRef90_A0A0D9W6T6/581-631      DE [subseq from] Uncharacterized protein n=1 Tax=Leersia perrieri TaxID=77586 RepID=A0A0D9W6T6_9ORYZ
+#=GS UniRef90_A0A090MB60/2097-2141    DE [subseq from] Zinc finger, CW-type n=2 Tax=Ostreococcus tauri TaxID=70448 RepID=A0A090MB60_OSTTA
+#=GS UniRef90_A0A7S2BDC1/53-95        DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Dictyocha speculum TaxID=35687 RepID=A0A7S2BDC1_9STRA
+#=GS UniRef90_A0A7S2BDC1/177-219      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Dictyocha speculum TaxID=35687 RepID=A0A7S2BDC1_9STRA
+#=GS UniRef90_A0A1D6E6V2/397-446      DE [subseq from] Uncharacterized protein n=1 Tax=Zea mays TaxID=4577 RepID=A0A1D6E6V2_MAIZE
+#=GS UniRef90_A0A5J5AFU8/79-127       DE [subseq from] Uncharacterized protein n=1 Tax=Nyssa sinensis TaxID=561372 RepID=A0A5J5AFU8_9ASTE
+#=GS UniRef90_A0A5J5AFU8/291-339      DE [subseq from] Uncharacterized protein n=1 Tax=Nyssa sinensis TaxID=561372 RepID=A0A5J5AFU8_9ASTE
+#=GS UniRef90_A0A7S0REU5/191-237      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Pyramimonas obovata TaxID=1411642 RepID=A0A7S0REU5_9CHLO
+#=GS UniRef90_A0A7S3VJB3/140-182      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Dunaliella tertiolecta TaxID=3047 RepID=A0A7S3VJB3_DUNTE
+#=GS UniRef90_A0A0A9F502/46-95        DE [subseq from] Uncharacterized protein n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9F502_ARUDO
+#=GS UniRef90_A0A1D6E6U5/644-693      DE [subseq from] Uncharacterized protein n=4 Tax=Zea mays TaxID=4577 RepID=A0A1D6E6U5_MAIZE
+#=GS UniRef90_C5YBJ5/623-672          DE [subseq from] Uncharacterized protein n=2 Tax=Sorghum bicolor TaxID=4558 RepID=C5YBJ5_SORBI
+#=GS UniRef90_A0A5J4Y7Z3/1367-1401    DE [subseq from] Trithorax histone-lysine N-methyltransferase n=2 Tax=Trebouxia sp. A1-2 TaxID=2608996 RepID=A0A5J4Y7Z3_9CHLO
+#=GS UniRef90_A0A5J4Y7Z3/1484-1531    DE [subseq from] Trithorax histone-lysine N-methyltransferase n=2 Tax=Trebouxia sp. A1-2 TaxID=2608996 RepID=A0A5J4Y7Z3_9CHLO
+#=GS UniRef90_E1ZL62/484-535          DE [subseq from] Uncharacterized protein n=1 Tax=Chlorella variabilis TaxID=554065 RepID=E1ZL62_CHLVA
+#=GS UniRef90_A0A287ISI5/441-491      DE [subseq from] Uncharacterized protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287ISI5_HORVV
+#=GS UniRef90_A0A096P8W9/274-321      DE [subseq from] Pseudouridine synthase I, TruA, N-terminal n=2 Tax=Ostreococcus tauri TaxID=70448 RepID=A0A096P8W9_OSTTA
+#=GS UniRef90_A0A096P8W9/386-431      DE [subseq from] Pseudouridine synthase I, TruA, N-terminal n=2 Tax=Ostreococcus tauri TaxID=70448 RepID=A0A096P8W9_OSTTA
+#=GS UniRef90_K3Y575/585-634          DE [subseq from] Uncharacterized protein n=3 Tax=Setaria TaxID=4554 RepID=K3Y575_SETIT
+#=GS UniRef90_A0A0K9R3I5/639-690      DE [subseq from] Uncharacterized protein n=2 Tax=Spinacia oleracea TaxID=3562 RepID=A0A0K9R3I5_SPIOL
+#=GS UniRef90_K8FF04/2302-2350        DE [subseq from] Uncharacterized protein n=1 Tax=Bathycoccus prasinos TaxID=41875 RepID=K8FF04_9CHLO
+#=GS UniRef90_A0A287ISF6/547-597      DE [subseq from] Uncharacterized protein n=4 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287ISF6_HORVV
+#=GS UniRef90_UPI001ADC6AA9/590-640   DE [subseq from] uncharacterized protein LOC102699306 isoform X1 n=3 Tax=Oryza brachyantha TaxID=4533 RepID=UPI001ADC6AA9
+#=GS UniRef90_A0A6A0A0Y4/2-48         DE [subseq from] DNA mismatch repair protein (Fragment) n=1 Tax=Haematococcus lacustris TaxID=44745 RepID=A0A6A0A0Y4_HAELA
+#=GS UniRef90_C1MHR1/827-876          DE [subseq from] Bromodomain-containing protein n=1 Tax=Micromonas pusilla (strain CCMP1545) TaxID=564608 RepID=C1MHR1_MICPC
+#=GS UniRef90_C1MHR1/1582-1629        DE [subseq from] Bromodomain-containing protein n=1 Tax=Micromonas pusilla (strain CCMP1545) TaxID=564608 RepID=C1MHR1_MICPC
+#=GS UniRef90_A0A2G5DQJ4/640-691      DE [subseq from] Uncharacterized protein n=6 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5DQJ4_AQUCA
+#=GS UniRef90_UPI000B78253E/643-694   DE [subseq from] eukaryotic translation initiation factor 5B-like n=2 Tax=Chenopodium quinoa TaxID=63459 RepID=UPI000B78253E
+#=GS UniRef90_A0A0A9KG14/353-402      DE [subseq from] Uncharacterized protein n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9KG14_ARUDO
+#=GS UniRef90_A0A0A9CLA4/46-95        DE [subseq from] Uncharacterized protein n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9CLA4_ARUDO
+#=GS UniRef90_A0A383WMX1/15-57        DE [subseq from] Uncharacterized protein n=1 Tax=Tetradesmus obliquus TaxID=3088 RepID=A0A383WMX1_TETOB
+#=GS UniRef90_A0A383WMX1/299-346      DE [subseq from] Uncharacterized protein n=1 Tax=Tetradesmus obliquus TaxID=3088 RepID=A0A383WMX1_TETOB
+#=GS UniRef90_A0A7S3C7M5/1-48         DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3C7M5_9CHLO
+#=GS UniRef90_A0A7S3C7M5/63-113       DE [subseq from] Hypothetical protein n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3C7M5_9CHLO
+#=GS UniRef90_Q0JBZ3/587-636          DE [subseq from] OSJNBa0029H02.25 protein n=14 Tax=Oryza TaxID=4527 RepID=Q0JBZ3_ORYSJ
+#=GS UniRef90_A0A498HSY5/648-699      DE [subseq from] Uncharacterized protein n=3 Tax=Maleae TaxID=721813 RepID=A0A498HSY5_MALDO
+#=GS UniRef90_A0A087SI79/19-58        DE [subseq from] Histone-lysine N-methyltransferase ATX2 n=2 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A087SI79_AUXPR
+#=GS UniRef90_A0A087SI79/101-146      DE [subseq from] Histone-lysine N-methyltransferase ATX2 n=2 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A087SI79_AUXPR
+#=GS UniRef90_A0A1Z5RJ59/692-741      DE [subseq from] Uncharacterized protein n=2 Tax=Sorghum bicolor TaxID=4558 RepID=A0A1Z5RJ59_SORBI
+#=GS UniRef90_A0A2V0NZS4/426-476      DE [subseq from] SAND domain-containing protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0NZS4_9CHLO
+#=GS UniRef90_A0A1E5VTJ8/540-588      DE [subseq from] Uncharacterized protein n=1 Tax=Dichanthelium oligosanthes TaxID=888268 RepID=A0A1E5VTJ8_9POAL
+#=GS UniRef90_A0A0D2JHI5/226-269      DE [subseq from] Uncharacterized protein n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2JHI5_9CHLO
+#=GS UniRef90_A0A0D2JHI5/400-449      DE [subseq from] Uncharacterized protein n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2JHI5_9CHLO
+#=GS UniRef90_A0A446L8F2/547-597      DE [subseq from] Uncharacterized protein n=1 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446L8F2_TRITD
+#=GS UniRef90_A0A446L8F6/547-597      DE [subseq from] Uncharacterized protein n=4 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446L8F6_TRITD
+#=GS UniRef90_A0A7R9YR65/20-65        DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chlamydomonas euryale TaxID=1486919 RepID=A0A7R9YR65_9CHLO
+#=GS UniRef90_A0A7R9YR65/99-139       DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chlamydomonas euryale TaxID=1486919 RepID=A0A7R9YR65_9CHLO
+#=GS UniRef90_A0A0A9AIG4/167-216      DE [subseq from] Uncharacterized protein n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9AIG4_ARUDO
+#=GS UniRef90_A0A1D2A7L6/19-58        DE [subseq from] LBR_tudor domain-containing protein (Fragment) n=1 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A1D2A7L6_AUXPR
+#=GS UniRef90_A0A1D2A7L6/101-146      DE [subseq from] LBR_tudor domain-containing protein (Fragment) n=1 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A1D2A7L6_AUXPR
+#=GS UniRef90_K3YQ41/529-578          DE [subseq from] Uncharacterized protein n=6 Tax=Setaria TaxID=4554 RepID=K3YQ41_SETIT
+#=GS UniRef90_A0A0A9NX54/31-81        DE [subseq from] Binding n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9NX54_ARUDO
+#=GS UniRef90_A0A1D6HCZ3/50-98        DE [subseq from] Uncharacterized protein n=1 Tax=Zea mays TaxID=4577 RepID=A0A1D6HCZ3_MAIZE
+#=GS UniRef90_A0A0A9RNW1/576-624      DE [subseq from] Uncharacterized protein n=2 Tax=Arundo donax TaxID=35708 RepID=A0A0A9RNW1_ARUDO
+#=GS UniRef90_A0A2S3GRB4/526-575      DE [subseq from] Uncharacterized protein n=1 Tax=Panicum hallii TaxID=206008 RepID=A0A2S3GRB4_9POAL
+#=GS UniRef90_A0A2T7F8W7/534-583      DE [subseq from] Uncharacterized protein n=13 Tax=Panicum TaxID=4539 RepID=A0A2T7F8W7_9POAL
+#=GS UniRef90_A0A2K2DGD0/498-547      DE [subseq from] Uncharacterized protein n=1 Tax=Brachypodium distachyon TaxID=15368 RepID=A0A2K2DGD0_BRADI
+#=GS UniRef90_W5C091/546-596          DE [subseq from] Genome assembly, chromosome: II n=23 Tax=Triticinae TaxID=1648030 RepID=W5C091_WHEAT
+#=GS UniRef90_A0A5J9TVZ5/313-364      DE [subseq from] Uncharacterized protein n=1 Tax=Eragrostis curvula TaxID=38414 RepID=A0A5J9TVZ5_9POAL
+#=GS UniRef90_A0A1D6Q4R6/610-658      DE [subseq from] Uncharacterized protein n=11 Tax=Zea mays TaxID=4577 RepID=A0A1D6Q4R6_MAIZE
+#=GS UniRef90_UPI0019208E63/647-697   DE [subseq from] uncharacterized protein LOC103714235 isoform X1 n=2 Tax=Phoenix dactylifera TaxID=42345 RepID=UPI0019208E63
+#=GS UniRef90_I1IZC1/575-624          DE [subseq from] Uncharacterized protein n=2 Tax=Brachypodium distachyon TaxID=15368 RepID=I1IZC1_BRADI
+#=GS UniRef90_A0A2K3PAF3/276-325      DE [subseq from] Sister chromatid cohesion PDS5-like protein (Fragment) n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3PAF3_TRIPR
+#=GS UniRef90_A0A0A9AXQ1/385-434      DE [subseq from] Uncharacterized protein n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9AXQ1_ARUDO
+#=GS UniRef90_UPI00098E39BB/629-678   DE [subseq from] claspin n=1 Tax=Asparagus officinalis TaxID=4686 RepID=UPI00098E39BB
+#=GS UniRef90_M0SZ27/46-96            DE [subseq from] Uncharacterized protein n=1 Tax=Musa acuminata subsp. malaccensis TaxID=214687 RepID=M0SZ27_MUSAM
+#=GS UniRef90_A0A164V430/874-924      DE [subseq from] Tudor domain-containing protein n=2 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=A0A164V430_DAUCS
+#=GS UniRef90_A0A5N6NNN2/1344-1393    DE [subseq from] Uncharacterized protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6NNN2_9ASTR
+#=GS UniRef90_A0A7N0R8F7/718-769      DE [subseq from] Uncharacterized protein n=3 Tax=Kalanchoe fedtschenkoi TaxID=63787 RepID=A0A7N0R8F7_KALFE
+#=GS UniRef90_A0A438IHD3/383-434      DE [subseq from] Uncharacterized protein n=1 Tax=Vitis vinifera TaxID=29760 RepID=A0A438IHD3_VITVI
+#=GS UniRef90_A0A2V0PDY2/41-88        DE [subseq from] Histone-lysine N-methyltransferase n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0PDY2_9CHLO
+#=GS UniRef90_A0A2V0PDY2/527-567      DE [subseq from] Histone-lysine N-methyltransferase n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0PDY2_9CHLO
+#=GS UniRef90_A0A7S0XHG4/149-188      DE [subseq from] Hypothetical protein n=1 Tax=Mantoniella antarctica TaxID=81844 RepID=A0A7S0XHG4_9CHLO
+#=GS UniRef90_A0A7S0XHG4/281-319      DE [subseq from] Hypothetical protein n=1 Tax=Mantoniella antarctica TaxID=81844 RepID=A0A7S0XHG4_9CHLO
+#=GS UniRef90_A0A2Z6LHQ3/683-732      DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Trifolium subterraneum TaxID=3900 RepID=A0A2Z6LHQ3_TRISU
+#=GS UniRef90_C0PDM6/560-608          DE [subseq from] Uncharacterized protein n=7 Tax=Zea mays TaxID=4577 RepID=C0PDM6_MAIZE
+#=GS UniRef90_A0A118JX79/1299-1348    DE [subseq from] Armadillo-like helical n=3 Tax=Cynara cardunculus var. scolymus TaxID=59895 RepID=A0A118JX79_CYNCS
+#=GS UniRef90_A0A1U8GUL7/639-690      DE [subseq from] Uncharacterized protein n=4 Tax=Capsicum TaxID=4071 RepID=A0A1U8GUL7_CAPAN
+#=GS UniRef90_A0A0D2LHD2/287-337      DE [subseq from] SAND domain-containing protein n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2LHD2_9CHLO
+#=GS UniRef90_I0Z7I5/397-443          DE [subseq from] Uncharacterized protein n=1 Tax=Coccomyxa subellipsoidea (strain C-169) TaxID=574566 RepID=I0Z7I5_COCSC
+#=GS UniRef90_A0A446MHB4/372-422      DE [subseq from] Uncharacterized protein n=1 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446MHB4_TRITD
+#=GS UniRef90_UPI00146C8BAC/19-69     DE [subseq from] hypothetical protein n=1 Tax=Vibrio parahaemolyticus TaxID=670 RepID=UPI00146C8BAC
+#=GS UniRef90_UPI0019208840/623-672   DE [subseq from] uncharacterized protein LOC103710418 n=1 Tax=Phoenix dactylifera TaxID=42345 RepID=UPI0019208840
+#=GS UniRef90_A0A7S0KGS2/740-788      DE [subseq from] Hypothetical protein n=1 Tax=Ostreococcus mediterraneus TaxID=1486918 RepID=A0A7S0KGS2_9CHLO
+#=GS UniRef90_A0A7S0KGS2/1355-1396    DE [subseq from] Hypothetical protein n=1 Tax=Ostreococcus mediterraneus TaxID=1486918 RepID=A0A7S0KGS2_9CHLO
+#=GS UniRef90_A0A0A9N1Y0/31-81        DE [subseq from] Binding n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9N1Y0_ARUDO
+#=GS UniRef90_A0A7J6VB06/636-687      DE [subseq from] Tudor/PWWP/MBT superfamily protein n=1 Tax=Thalictrum thalictroides TaxID=46969 RepID=A0A7J6VB06_THATH
+#=GS UniRef90_C5XXC4/572-620          DE [subseq from] Uncharacterized protein n=1 Tax=Sorghum bicolor TaxID=4558 RepID=C5XXC4_SORBI
+#=GS UniRef90_A0A251RZJ9/1344-1393    DE [subseq from] Putative binding protein n=2 Tax=Helianthus annuus TaxID=4232 RepID=A0A251RZJ9_HELAN
+#=GS UniRef90_F6HYI4/644-695          DE [subseq from] Uncharacterized protein n=4 Tax=Vitis TaxID=3603 RepID=F6HYI4_VITVI
+#=GS UniRef90_M0TBH6/24-74            DE [subseq from] Uncharacterized protein n=1 Tax=Musa acuminata subsp. malaccensis TaxID=214687 RepID=M0TBH6_MUSAM
+#=GS UniRef90_A0A2J6JPJ7/34-78        DE [subseq from] Uncharacterized protein n=2 Tax=Lactuca sativa TaxID=4236 RepID=A0A2J6JPJ7_LACSA
+#=GS UniRef90_A0A7N2KTV6/637-688      DE [subseq from] Uncharacterized protein n=4 Tax=Quercus TaxID=3511 RepID=A0A7N2KTV6_QUELO
+#=GS UniRef90_A0A6G1EGV5/502-550      DE [subseq from] Uncharacterized protein n=1 Tax=Oryza meyeriana var. granulata TaxID=110450 RepID=A0A6G1EGV5_9ORYZ
+#=GS UniRef90_A0A1B6PB05/600-649      DE [subseq from] Uncharacterized protein n=1 Tax=Sorghum bicolor TaxID=4558 RepID=A0A1B6PB05_SORBI
+#=GS UniRef90_UPI00057A0CB0/620-669   DE [subseq from] uncharacterized protein LOC105050720 n=1 Tax=Elaeis guineensis var. tenera TaxID=51953 RepID=UPI00057A0CB0
+#=GS UniRef90_A0A1E5VPW8/572-621      DE [subseq from] Uncharacterized protein n=2 Tax=Dichanthelium oligosanthes TaxID=888268 RepID=A0A1E5VPW8_9POAL
+#=GS UniRef90_A0A5J9TVF9/494-543      DE [subseq from] Uncharacterized protein n=1 Tax=Eragrostis curvula TaxID=38414 RepID=A0A5J9TVF9_9POAL
+#=GS UniRef90_U5CZ75/611-660          DE [subseq from] Uncharacterized protein n=1 Tax=Amborella trichopoda TaxID=13333 RepID=U5CZ75_AMBTC
+#=GS UniRef90_A0A2K3P6T8/464-512      DE [subseq from] Sister chromatid cohesion PDS5-like protein n=2 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3P6T8_TRIPR
+#=GS UniRef90_S8C8C9/48-99            DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Genlisea aurea TaxID=192259 RepID=S8C8C9_9LAMI
+#=GS UniRef90_A0A0D9VI84/493-541      DE [subseq from] Uncharacterized protein n=2 Tax=Leersia perrieri TaxID=77586 RepID=A0A0D9VI84_9ORYZ
+#=GS UniRef90_UPI000F7C9CA9/633-683   DE [subseq from] MATH and LRR domain-containing protein PFE0570w n=1 Tax=Abrus precatorius TaxID=3816 RepID=UPI000F7C9CA9
+#=GS UniRef90_A0A7S3C8B3/276-319      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3C8B3_9CHLO
+#=GS UniRef90_A0A7S3C8B3/378-419      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chloropicon roscoffensis TaxID=1461544 RepID=A0A7S3C8B3_9CHLO
+#=GS UniRef90_UPI0009E34DEB/657-704   DE [subseq from] uncharacterized protein LOC110021984 n=1 Tax=Phalaenopsis equestris TaxID=78828 RepID=UPI0009E34DEB
+#=GS UniRef90_UPI0010A080F4/86-134    DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Dendrobium catenatum TaxID=906689 RepID=UPI0010A080F4
+#=GS UniRef90_A0A0P0VLP8/494-542      DE [subseq from] BRI1-KD interacting protein 135 n=16 Tax=Oryza TaxID=4527 RepID=A0A0P0VLP8_ORYSJ
+#=GS UniRef90_A0A251S4F8/92-143       DE [subseq from] DNA mismatch repair protein n=1 Tax=Helianthus annuus TaxID=4232 RepID=A0A251S4F8_HELAN
+#=GS UniRef90_A0A6P5MBU5/1360-1409    DE [subseq from] sister chromatid cohesion protein PDS5 homolog A isoform X6 n=2 Tax=Arachis TaxID=3817 RepID=A0A6P5MBU5_ARADU
+#=GS UniRef90_A0A314L798/733-782      DE [subseq from] Dna mismatch repair protein msh6 n=2 Tax=Nicotiana TaxID=4085 RepID=A0A314L798_NICAT
+#=GS UniRef90_A0A5N6MMK0/694-743      DE [subseq from] Tudor domain-containing protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6MMK0_9ASTR
+#=GS UniRef90_A0A498JC84/640-691      DE [subseq from] Uncharacterized protein n=4 Tax=Maleae TaxID=721813 RepID=A0A498JC84_MALDO
+#=GS UniRef90_A0A0A9CJM6/257-305      DE [subseq from] Androgen induced inhibitor of proliferation (As3) / pds5, putative n=1 Tax=Arundo donax TaxID=35708 RepID=A0A0A9CJM6_ARUDO
+#=GS UniRef90_A0A7C9EC59/90-139       DE [subseq from] Uncharacterized protein n=1 Tax=Opuntia streptacantha TaxID=393608 RepID=A0A7C9EC59_OPUST
+#=GS UniRef90_A0A7J7DAS9/616-667      DE [subseq from] Uncharacterized protein n=2 Tax=Tripterygium wilfordii TaxID=458696 RepID=A0A7J7DAS9_TRIWF
+#=GS UniRef90_A0A6G1BVA1/585-634      DE [subseq from] Uncharacterized protein n=1 Tax=Oryza meyeriana var. granulata TaxID=110450 RepID=A0A6G1BVA1_9ORYZ
+#=GS UniRef90_A0A6A2X832/28-77        DE [subseq from] Transcription initiation factor TFIID subunit 5-like isoform X1 n=2 Tax=Hibiscus syriacus TaxID=106335 RepID=A0A6A2X832_HIBSY
+#=GS UniRef90_A0A4D9A005/1386-1436    DE [subseq from] Sister chromatid cohesion protein PDS5 n=2 Tax=Salvia splendens TaxID=180675 RepID=A0A4D9A005_SALSN
+#=GS UniRef90_A0A445AY65/1356-1405    DE [subseq from] C2 domain-containing protein n=20 Tax=Arachis TaxID=3817 RepID=A0A445AY65_ARAHY
+#=GS UniRef90_UPI0009012E8A/57-105    DE [subseq from] uncharacterized protein LOC109191692 n=1 Tax=Ipomoea nil TaxID=35883 RepID=UPI0009012E8A
+#=GS UniRef90_A0A7R9T3W9/2082-2122    DE [subseq from] Hypothetical protein n=1 Tax=Ostreococcus sp. 'lucimarinus' TaxID=242159 RepID=A0A7R9T3W9_9CHLO
+#=GS UniRef90_A0A2U1M2V5/838-886      DE [subseq from] Armadillo-type fold n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1M2V5_ARTAN
+#=GS UniRef90_A0A2I0XID5/86-134       DE [subseq from] DNA mismatch repair protein MSH6 n=1 Tax=Dendrobium catenatum TaxID=906689 RepID=A0A2I0XID5_9ASPA
+#=GS UniRef90_A0A6G1BWV4/585-634      DE [subseq from] Uncharacterized protein n=2 Tax=Oryza meyeriana var. granulata TaxID=110450 RepID=A0A6G1BWV4_9ORYZ
+#=GS UniRef90_A0A6S7MK84/776-825      DE [subseq from] Uncharacterized protein n=1 Tax=Lactuca saligna TaxID=75948 RepID=A0A6S7MK84_LACSI
+#=GS UniRef90_A0A446VHH2/421-470      DE [subseq from] Uncharacterized protein n=1 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446VHH2_TRITD
+#=GS UniRef90_A0A2I0W095/618-667      DE [subseq from] DNA mismatch repair protein MSH6 n=3 Tax=Dendrobium catenatum TaxID=906689 RepID=A0A2I0W095_9ASPA
+#=GS UniRef90_A0A2J6L396/803-852      DE [subseq from] Uncharacterized protein n=3 Tax=Lactuca sativa TaxID=4236 RepID=A0A2J6L396_LACSA
+#=GS UniRef90_A0A061R6D4/78-114       DE [subseq from] Trithorax-like histone-lysine n-methyltransferase n=2 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061R6D4_9CHLO
+#=GS UniRef90_A0A061R6D4/420-462      DE [subseq from] Trithorax-like histone-lysine n-methyltransferase n=2 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061R6D4_9CHLO
+#=GS UniRef90_A0A2J6KE87/98-149       DE [subseq from] DNA mismatch repair protein n=5 Tax=Lactuca sativa TaxID=4236 RepID=A0A2J6KE87_LACSA
+#=GS UniRef90_A0A7R9TMR4/293-343      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7R9TMR4_MICPS
+#=GS UniRef90_A0A0V0IVM0/507-558      DE [subseq from] Putative ovule protein n=3 Tax=Solanum chacoense TaxID=4108 RepID=A0A0V0IVM0_SOLCH
+#=GS UniRef90_A0A0K9NRB1/471-522      DE [subseq from] Uncharacterized protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9NRB1_ZOSMR
+#=GS UniRef90_A0A453P2T7/344-393      DE [subseq from] Uncharacterized protein n=1 Tax=Aegilops tauschii subsp. strangulata TaxID=200361 RepID=A0A453P2T7_AEGTS
+#=GS UniRef90_A0A2K3M7B7/8-58         DE [subseq from] Sister chromatid cohesion PDS5-like protein (Fragment) n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3M7B7_TRIPR
+#=GS UniRef90_C1EAG2/966-1015         DE [subseq from] Bromodomain-containing protein n=1 Tax=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) TaxID=296587 RepID=C1EAG2_MICCC
+#=GS UniRef90_C1EAG2/1720-1763        DE [subseq from] Bromodomain-containing protein n=1 Tax=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) TaxID=296587 RepID=C1EAG2_MICCC
+#=GS UniRef90_A0A7J7DP33/621-672      DE [subseq from] Uncharacterized protein n=4 Tax=Tripterygium wilfordii TaxID=458696 RepID=A0A7J7DP33_TRIWF
+#=GS UniRef90_A0A4V4H4A4/517-567      DE [subseq from] Uncharacterized protein n=4 Tax=Musa TaxID=4640 RepID=A0A4V4H4A4_MUSBA
+#=GS UniRef90_A0A1S3ZEK7/604-653      DE [subseq from] uncharacterized protein LOC107785957 isoform X3 n=1 Tax=Nicotiana tabacum TaxID=4097 RepID=A0A1S3ZEK7_TOBAC
+#=GS UniRef90_UPI00053F39D5/447-492   DE [subseq from] uncharacterized protein LOC104904881 n=1 Tax=Beta vulgaris subsp. vulgaris TaxID=3555 RepID=UPI00053F39D5
+#=GS UniRef90_A0A1S2YNQ3/1367-1416    DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-B-like n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A1S2YNQ3_CICAR
+#=GS UniRef90_UPI001262D914/649-700   DE [subseq from] uncharacterized protein LOC116132549 isoform X1 n=3 Tax=Pistacia vera TaxID=55513 RepID=UPI001262D914
+#=GS UniRef90_UPI0010A5916D/645-694   DE [subseq from] uncharacterized protein LOC114754513 isoform X1 n=4 Tax=Prosopis alba TaxID=207710 RepID=UPI0010A5916D
+#=GS UniRef90_W9QMF4/104-155          DE [subseq from] DNA mismatch repair protein n=2 Tax=Morus notabilis TaxID=981085 RepID=W9QMF4_9ROSA
+#=GS UniRef90_A0A0E0HP57/1327-1376    DE [subseq from] Uncharacterized protein n=2 Tax=Oryza TaxID=4527 RepID=A0A0E0HP57_ORYNI
+#=GS UniRef90_A0A2Z6MPI5/191-242      DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Trifolium subterraneum TaxID=3900 RepID=A0A2Z6MPI5_TRISU
+#=GS UniRef90_A0A7S0XC87/334-377      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Mantoniella antarctica TaxID=81844 RepID=A0A7S0XC87_9CHLO
+#=GS UniRef90_A0A7S0KUE2/311-355      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7S0KUE2_MICPS
+#=GS UniRef90_J3LEP7/502-549          DE [subseq from] Uncharacterized protein n=1 Tax=Oryza brachyantha TaxID=4533 RepID=J3LEP7_ORYBR
+#=GS UniRef90_K7L819/758-808          DE [subseq from] Uncharacterized protein n=8 Tax=Glycine subgen. Soja TaxID=1462606 RepID=K7L819_SOYBN
+#=GS UniRef90_A0A061GG63/617-668      DE [subseq from] Chloroplast-like protein isoform 1 n=9 Tax=Byttnerioideae TaxID=214909 RepID=A0A061GG63_THECC
+#=GS UniRef90_A0A7S0WSN9/97-139       DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chlamydomonas leiostraca TaxID=1034604 RepID=A0A7S0WSN9_9CHLO
+#=GS UniRef90_A0A7I8LB35/379-428      DE [subseq from] Hypothetical protein n=1 Tax=Spirodela intermedia TaxID=51605 RepID=A0A7I8LB35_SPIIN
+#=GS UniRef90_A0A446WEH7/589-638      DE [subseq from] Uncharacterized protein n=7 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446WEH7_TRITD
+#=GS UniRef90_A0A7I8JJ88/283-332      DE [subseq from] Hypothetical protein n=1 Tax=Spirodela intermedia TaxID=51605 RepID=A0A7I8JJ88_SPIIN
+#=GS UniRef90_A0A4D9C6E5/658-708      DE [subseq from] LBR_tudor domain-containing protein n=2 Tax=Salvia splendens TaxID=180675 RepID=A0A4D9C6E5_SALSN
+#=GS UniRef90_A0A1D6NZ33/366-417      DE [subseq from] Binding n=1 Tax=Zea mays TaxID=4577 RepID=A0A1D6NZ33_MAIZE
+#=GS UniRef90_Q5VMT5/1352-1400        DE [subseq from] Os06g0286351 protein n=23 Tax=Oryza TaxID=4527 RepID=Q5VMT5_ORYSJ
+#=GS UniRef90_C1DZK6/2476-2520        DE [subseq from] SNF2 super family n=1 Tax=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) TaxID=296587 RepID=C1DZK6_MICCC
+#=GS UniRef90_I1IBI4/546-595          DE [subseq from] Uncharacterized protein n=1 Tax=Brachypodium distachyon TaxID=15368 RepID=I1IBI4_BRADI
+#=GS UniRef90_K7MJA4/1368-1417        DE [subseq from] Uncharacterized protein n=20 Tax=Glycine subgen. Soja TaxID=1462606 RepID=K7MJA4_SOYBN
+#=GS UniRef90_UPI0018AE67B3/316-364   DE [subseq from] uncharacterized protein LOC120264291 isoform X1 n=2 Tax=Dioscorea cayennensis subsp. rotundata TaxID=55577 RepID=UPI0018AE67B3
+#=GS UniRef90_A0A150GP65/59-106       DE [subseq from] Uncharacterized protein n=1 Tax=Gonium pectorale TaxID=33097 RepID=A0A150GP65_GONPE
+#=GS UniRef90_A0A4V4H4N0/239-288      DE [subseq from] Uncharacterized protein n=1 Tax=Musa balbisiana TaxID=52838 RepID=A0A4V4H4N0_MUSBA
+#=GS UniRef90_UPI000BBF1926/165-216   DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Brassica napus TaxID=3708 RepID=UPI000BBF1926
+#=GS UniRef90_A0A2G9I049/15-66        DE [subseq from] Histone-lysine N-methyltransferase n=1 Tax=Handroanthus impetiginosus TaxID=429701 RepID=A0A2G9I049_9LAMI
+#=GS UniRef90_M8D9A3/588-637          DE [subseq from] Uncharacterized protein n=7 Tax=Triticinae TaxID=1648030 RepID=M8D9A3_AEGTA
+#=GS UniRef90_A0A438FZA3/14-65        DE [subseq from] LBR_tudor domain-containing protein n=1 Tax=Vitis vinifera TaxID=29760 RepID=A0A438FZA3_VITVI
+#=GS UniRef90_A0A2K3NJR7/316-364      DE [subseq from] Sister chromatid cohesion PDS5-like protein (Fragment) n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3NJR7_TRIPR
+#=GS UniRef90_A0A3B6PMH4/583-632      DE [subseq from] Uncharacterized protein n=16 Tax=Triticinae TaxID=1648030 RepID=A0A3B6PMH4_WHEAT
+#=GS UniRef90_A0A371GG55/1368-1417    DE [subseq from] Sister chromatid cohesion protein PDS5-like B (Fragment) n=1 Tax=Mucuna pruriens TaxID=157652 RepID=A0A371GG55_MUCPR
+#=GS UniRef90_A0A3B6NPN7/834-883      DE [subseq from] Uncharacterized protein n=9 Tax=Triticum TaxID=4564 RepID=A0A3B6NPN7_WHEAT
+#=GS UniRef90_F2DNW4/626-675          DE [subseq from] Predicted protein (Fragment) n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=F2DNW4_HORVV
+#=GS UniRef90_A0A7J7MQ85/109-160      DE [subseq from] DNA mismatch repair protein n=1 Tax=Kingdonia uniflora TaxID=39325 RepID=A0A7J7MQ85_9MAGN
+#=GS UniRef90_UPI000C1D801F/1380-1429 DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-B isoform X1 n=3 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1D801F
+#=GS UniRef90_A0A453RC63/7-55         DE [subseq from] Uncharacterized protein n=1 Tax=Aegilops tauschii subsp. strangulata TaxID=200361 RepID=A0A453RC63_AEGTS
+#=GS UniRef90_A0A2K1KQE0/514-563      DE [subseq from] Uncharacterized protein n=5 Tax=Physcomitrium patens TaxID=3218 RepID=A0A2K1KQE0_PHYPA
+#=GS UniRef90_A0A7S0KWG5/90-140       DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7S0KWG5_MICPS
+#=GS UniRef90_A0A453P2U3/686-735      DE [subseq from] Uncharacterized protein n=2 Tax=Aegilops tauschii subsp. strangulata TaxID=200361 RepID=A0A453P2U3_AEGTS
+#=GS UniRef90_A0A287U992/626-675      DE [subseq from] Uncharacterized protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287U992_HORVV
+#=GS UniRef90_A0A6P3ZWK2/642-692      DE [subseq from] serine/arginine repetitive matrix protein 2 n=1 Tax=Ziziphus jujuba TaxID=326968 RepID=A0A6P3ZWK2_ZIZJJ
+#=GS UniRef90_A0A7N0TA63/676-727      DE [subseq from] Uncharacterized protein n=2 Tax=Kalanchoe fedtschenkoi TaxID=63787 RepID=A0A7N0TA63_KALFE
+#=GS UniRef90_A0A371HHU1/637-687      DE [subseq from] Sister chromatid cohesion protein PDS5-like B-B (Fragment) n=1 Tax=Mucuna pruriens TaxID=157652 RepID=A0A371HHU1_MUCPR
+#=GS UniRef90_UPI000C1CD17E/592-643   DE [subseq from] uncharacterized protein LOC111407446 isoform X1 n=2 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1CD17E
+#=GS UniRef90_A0A287U980/553-602      DE [subseq from] Uncharacterized protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287U980_HORVV
+#=GS UniRef90_A9SPZ8/535-584          DE [subseq from] Uncharacterized protein n=1 Tax=Physcomitrium patens TaxID=3218 RepID=A9SPZ8_PHYPA
+#=GS UniRef90_A0A7S0D2C8/895-945      DE [subseq from] Hypothetical protein n=1 Tax=Micromonas pusilla TaxID=38833 RepID=A0A7S0D2C8_MICPS
+#=GS UniRef90_UPI00053F46EE/656-706   DE [subseq from] neurofilament heavy polypeptide isoform X1 n=2 Tax=Beta vulgaris subsp. vulgaris TaxID=3555 RepID=UPI00053F46EE
+#=GS UniRef90_A0A6S7P408/652-696      DE [subseq from] Uncharacterized protein n=2 Tax=Lactuca saligna TaxID=75948 RepID=A0A6S7P408_LACSI
+#=GS UniRef90_A0A059CQD6/598-648      DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Eucalyptus grandis TaxID=71139 RepID=A0A059CQD6_EUCGR
+#=GS UniRef90_A0A7S3QJV0/27-74        DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Dunaliella tertiolecta TaxID=3047 RepID=A0A7S3QJV0_DUNTE
+#=GS UniRef90_UPI001653375D/796-845   DE [subseq from] protein starmaker n=1 Tax=Helianthus annuus TaxID=4232 RepID=UPI001653375D
+#=GS UniRef90_UPI000F7CDED1/1372-1421 DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-like isoform X1 n=4 Tax=Abrus precatorius TaxID=3816 RepID=UPI000F7CDED1
+#=GS UniRef90_A0A6A4N1K6/670-721      DE [subseq from] Uncharacterized protein n=2 Tax=Lupinus albus TaxID=3870 RepID=A0A6A4N1K6_LUPAL
+#=GS UniRef90_UPI0006AAE506/115-161   DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Brassica napus TaxID=3708 RepID=UPI0006AAE506
+#=GS UniRef90_A0A3B6QF92/828-877      DE [subseq from] Uncharacterized protein n=7 Tax=Triticinae TaxID=1648030 RepID=A0A3B6QF92_WHEAT
+#=GS UniRef90_UPI0018F7F65D/475-526   DE [subseq from] uncharacterized protein LOC120013237 n=1 Tax=Tripterygium wilfordii TaxID=458696 RepID=UPI0018F7F65D
+#=GS UniRef90_A0A7S3RZ98/4-47         DE [subseq from] Hypothetical protein n=1 Tax=Emiliania huxleyi TaxID=2903 RepID=A0A7S3RZ98_EMIHU
+#=GS UniRef90_A0A151SBE2/1378-1427    DE [subseq from] Sister chromatid cohesion protein PDS5 isogeny B n=8 Tax=Cajanus cajan TaxID=3821 RepID=A0A151SBE2_CAJCA
+#=GS UniRef90_A0A2C9W3H1/10-58        DE [subseq from] Uncharacterized protein (Fragment) n=2 Tax=Manihot esculenta TaxID=3983 RepID=A0A2C9W3H1_MANES
+#=GS UniRef90_UPI001924F4F3/91-139    DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Phoenix dactylifera TaxID=42345 RepID=UPI001924F4F3
+#=GS UniRef90_A0A4Y7KL66/324-373      DE [subseq from] Tudor domain-containing protein n=3 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7KL66_PAPSO
+#=GS UniRef90_A0A2U1NKG6/284-331      DE [subseq from] Phospholipase-like protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1NKG6_ARTAN
+#=GS UniRef90_Q6DQL6/84-134           DE [subseq from] DNA mismatch repair protein n=1 Tax=Petunia hybrida TaxID=4102 RepID=Q6DQL6_PETHY
+#=GS UniRef90_A0A2P4XRV2/130-170      DE [subseq from] Tudor domain-containing protein (Fragment) n=2 Tax=Phytophthora palmivora var. palmivora TaxID=611791 RepID=A0A2P4XRV2_9STRA
+#=GS UniRef90_A0A4Y7KDS2/324-373      DE [subseq from] Tudor domain-containing protein n=1 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7KDS2_PAPSO
+#=GS UniRef90_A0A2J6LKA0/1391-1440    DE [subseq from] Uncharacterized protein n=4 Tax=Lactuca TaxID=4235 RepID=A0A2J6LKA0_LACSA
+#=GS UniRef90_M0RKY5/514-563          DE [subseq from] Uncharacterized protein n=5 Tax=Musa acuminata subsp. malaccensis TaxID=214687 RepID=M0RKY5_MUSAM
+#=GS UniRef90_UPI000C1D4A7F/1379-1429 DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-B-like isoform X1 n=2 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1D4A7F
+#=GS UniRef90_A0A072UFL3/723-774      DE [subseq from] Sister chromatid cohesion PDS5-like protein n=3 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UFL3_MEDTR
+#=GS UniRef90_A0A7S0X6B6/174-222      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Mantoniella antarctica TaxID=81844 RepID=A0A7S0X6B6_9CHLO
+#=GS UniRef90_E1ZH19/155-200          DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Chlorella variabilis TaxID=554065 RepID=E1ZH19_CHLVA
+#=GS UniRef90_A0A1D6NYV8/946-997      DE [subseq from] Binding n=3 Tax=Zea mays TaxID=4577 RepID=A0A1D6NYV8_MAIZE
+#=GS UniRef90_A0A2Z7ALM8/484-534      DE [subseq from] Seryl-tRNA synthetase n=1 Tax=Dorcoceras hygrometricum TaxID=472368 RepID=A0A2Z7ALM8_9LAMI
+#=GS UniRef90_A0A4S8JX94/648-698      DE [subseq from] Uncharacterized protein n=2 Tax=Musa TaxID=4640 RepID=A0A4S8JX94_MUSBA
+#=GS UniRef90_A0A2U1PFR4/1364-1413    DE [subseq from] Armadillo-type fold protein n=2 Tax=Anthemideae TaxID=102810 RepID=A0A2U1PFR4_ARTAN
+#=GS UniRef90_A0A287U945/889-938      DE [subseq from] Uncharacterized protein n=2 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287U945_HORVV
+#=GS UniRef90_UPI000C1D54AE/1108-1156 DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-like n=2 Tax=Olea europaea var. sylvestris TaxID=158386 RepID=UPI000C1D54AE
+#=GS UniRef90_A0A5N5GCR9/600-649      DE [subseq from] Uncharacterized protein n=1 Tax=Pyrus ussuriensis x Pyrus communis TaxID=2448454 RepID=A0A5N5GCR9_9ROSA
+#=GS UniRef90_A0A7S0X421/70-117       DE [subseq from] Hypothetical protein n=1 Tax=Mantoniella antarctica TaxID=81844 RepID=A0A7S0X421_9CHLO
+#=GS UniRef90_A0A1S3ZKJ0/619-668      DE [subseq from] uncharacterized protein LOC107787947 isoform X1 n=13 Tax=Nicotiana TaxID=4085 RepID=A0A1S3ZKJ0_TOBAC
+#=GS UniRef90_A0A2U1PTM8/1014-1063    DE [subseq from] Binding protein n=1 Tax=Artemisia annua TaxID=35608 RepID=A0A2U1PTM8_ARTAN
+#=GS UniRef90_A0A6P9EW97/11-61        DE [subseq from] uncharacterized protein LOC108981395 n=1 Tax=Juglans regia TaxID=51240 RepID=A0A6P9EW97_JUGRE
+#=GS UniRef90_A0A1D6NZ07/898-949      DE [subseq from] Binding n=10 Tax=Zea mays TaxID=4577 RepID=A0A1D6NZ07_MAIZE
+#=GS UniRef90_M4DJG8/668-719          DE [subseq from] Tudor domain-containing protein n=9 Tax=Brassica TaxID=3705 RepID=M4DJG8_BRARP
+#=GS UniRef90_A0A1U7Z8H2/1396-1447    DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-like isoform X1 n=2 Tax=Nelumbo nucifera TaxID=4432 RepID=A0A1U7Z8H2_NELNU
+#=GS UniRef90_UPI0005108630/661-710   DE [subseq from] uncharacterized protein LOC103945354 n=1 Tax=Pyrus x bretschneideri TaxID=225117 RepID=UPI0005108630
+#=GS UniRef90_A0A218XPR7/604-655      DE [subseq from] uncharacterized protein LOC116188400 n=3 Tax=Punica granatum TaxID=22663 RepID=A0A218XPR7_PUNGR
+#=GS UniRef90_UPI0009E55F51/86-134    DE [subseq from] DNA mismatch repair protein MSH6 n=1 Tax=Phalaenopsis equestris TaxID=78828 RepID=UPI0009E55F51
+#=GS UniRef90_UPI0009F62EEC/658-706   DE [subseq from] uncharacterized protein LOC110101425 isoform X1 n=2 Tax=Dendrobium catenatum TaxID=906689 RepID=UPI0009F62EEC
+#=GS UniRef90_W1PBX0/336-384          DE [subseq from] Uncharacterized protein n=2 Tax=Amborella trichopoda TaxID=13333 RepID=W1PBX0_AMBTC
+#=GS UniRef90_A0A699YUQ4/23-71        DE [subseq from] DNA mismatch repair protein n=1 Tax=Haematococcus lacustris TaxID=44745 RepID=A0A699YUQ4_HAELA
+#=GS UniRef90_I1K8N5/629-679          DE [subseq from] Tudor domain-containing protein n=1 Tax=Glycine max TaxID=3847 RepID=I1K8N5_SOYBN
+#=GS UniRef90_UPI0007F0249E/370-420   DE [subseq from] uncharacterized protein LOC108222859 isoform X3 n=2 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=UPI0007F0249E
+#=GS UniRef90_A0A453RCS5/377-425      DE [subseq from] Uncharacterized protein n=5 Tax=Triticinae TaxID=1648030 RepID=A0A453RCS5_AEGTS
+#=GS UniRef90_UPI001652F53D/195-245   DE [subseq from] uncharacterized protein LOC110918526 isoform X5 n=1 Tax=Helianthus annuus TaxID=4232 RepID=UPI001652F53D
+#=GS UniRef90_A0A6N2MAW5/23-72        DE [subseq from] Uncharacterized protein n=1 Tax=Salix viminalis TaxID=40686 RepID=A0A6N2MAW5_SALVM
+#=GS UniRef90_A0A1D6NZ02/1348-1399    DE [subseq from] Binding n=8 Tax=Zea mays TaxID=4577 RepID=A0A1D6NZ02_MAIZE
+#=GS UniRef90_A0A2Z7D259/1376-1425    DE [subseq from] Uncharacterized protein n=1 Tax=Dorcoceras hygrometricum TaxID=472368 RepID=A0A2Z7D259_9LAMI
+#=GS UniRef90_A0A6A4NHW4/648-698      DE [subseq from] Uncharacterized protein n=2 Tax=Lupinus albus TaxID=3870 RepID=A0A6A4NHW4_LUPAL
+#=GS UniRef90_A0A2K1ZUR1/291-340      DE [subseq from] Uncharacterized protein n=1 Tax=Populus trichocarpa TaxID=3694 RepID=A0A2K1ZUR1_POPTR
+#=GS UniRef90_A0A6P5H441/101-150      DE [subseq from] DNA mismatch repair protein n=4 Tax=Ananas comosus TaxID=4615 RepID=A0A6P5H441_ANACO
+#=GS UniRef90_A0A164XE58/370-420      DE [subseq from] Uncharacterized protein n=2 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=A0A164XE58_DAUCS
+#=GS UniRef90_A0A5E4E712/640-691      DE [subseq from] PREDICTED: neurofilament heavy polypeptide n=1 Tax=Prunus dulcis TaxID=3755 RepID=A0A5E4E712_PRUDU
+#=GS UniRef90_U5D0V9/1374-1422        DE [subseq from] Uncharacterized protein n=4 Tax=Amborella trichopoda TaxID=13333 RepID=U5D0V9_AMBTC
+#=GS UniRef90_V7AUB0/674-724          DE [subseq from] Uncharacterized protein n=2 Tax=Phaseolus vulgaris TaxID=3885 RepID=V7AUB0_PHAVU
+#=GS UniRef90_UPI000F7CC65B/711-760   DE [subseq from] uncharacterized protein LOC113857095 n=1 Tax=Abrus precatorius TaxID=3816 RepID=UPI000F7CC65B
+#=GS UniRef90_A0A446X9R7/377-425      DE [subseq from] Uncharacterized protein n=1 Tax=Triticum turgidum subsp. durum TaxID=4567 RepID=A0A446X9R7_TRITD
+#=GS UniRef90_M0T1C6/76-125           DE [subseq from] DNA mismatch repair protein n=3 Tax=Musa TaxID=4640 RepID=M0T1C6_MUSAM
+#=GS UniRef90_A0A1D6NZ16/1357-1408    DE [subseq from] Binding n=22 Tax=Zea mays TaxID=4577 RepID=A0A1D6NZ16_MAIZE
+#=GS UniRef90_A0A6I9SM46/646-694      DE [subseq from] uncharacterized abhydrolase domain-containing protein DDB_G0269086 isoform X1 n=3 Tax=Elaeis guineensis var. tenera TaxID=51953 RepID=A0A6I9SM46_ELAGV
+#=GS UniRef90_K8EDV7/1898-1943        DE [subseq from] Uncharacterized protein n=1 Tax=Bathycoccus prasinos TaxID=41875 RepID=K8EDV7_9CHLO
+#=GS UniRef90_A0A7S4BKS4/131-172      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chrysotila carterae TaxID=13221 RepID=A0A7S4BKS4_CHRCT
+#=GS UniRef90_UPI00053C7DBF/613-664   DE [subseq from] uncharacterized protein LOC104812429 isoform X1 n=4 Tax=Tarenaya hassleriana TaxID=28532 RepID=UPI00053C7DBF
+#=GS UniRef90_UPI0010368588/675-724   DE [subseq from] uncharacterized protein LOC114295323 n=1 Tax=Camellia sinensis TaxID=4442 RepID=UPI0010368588
+#=GS UniRef90_A0A251VHU0/302-352      DE [subseq from] Putative phospholipase-like protein n=4 Tax=Helianthus annuus TaxID=4232 RepID=A0A251VHU0_HELAN
+#=GS UniRef90_A0A453RC58/377-425      DE [subseq from] Uncharacterized protein n=8 Tax=Triticeae TaxID=147389 RepID=A0A453RC58_AEGTS
+#=GS UniRef90_A0A068U889/1379-1429    DE [subseq from] Uncharacterized protein n=2 Tax=Coffea TaxID=13442 RepID=A0A068U889_COFCA
+#=GS UniRef90_I1K8N3/629-679          DE [subseq from] Tudor domain-containing protein n=6 Tax=Glycine subgen. Soja TaxID=1462606 RepID=I1K8N3_SOYBN
+#=GS UniRef90_A0A2G9I062/592-643      DE [subseq from] Uncharacterized protein n=1 Tax=Handroanthus impetiginosus TaxID=429701 RepID=A0A2G9I062_9LAMI
+#=GS UniRef90_A0A061R6N0/145-194      DE [subseq from] Uncharacterized protein n=1 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061R6N0_9CHLO
+#=GS UniRef90_A0A2K3PKD0/612-660      DE [subseq from] Sister chromatid cohesion PDS5-like protein (Fragment) n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3PKD0_TRIPR
+#=GS UniRef90_UPI00190228BF/633-681   DE [subseq from] titin homolog n=1 Tax=Benincasa hispida TaxID=102211 RepID=UPI00190228BF
+#=GS UniRef90_A0A1S4B6K2/100-150      DE [subseq from] DNA mismatch repair protein n=5 Tax=Nicotiana TaxID=4085 RepID=A0A1S4B6K2_TOBAC
+#=GS UniRef90_A0A6P4ARL9/98-148       DE [subseq from] DNA mismatch repair protein n=1 Tax=Ziziphus jujuba TaxID=326968 RepID=A0A6P4ARL9_ZIZJJ
+#=GS UniRef90_A0A251RA95/640-691      DE [subseq from] Tudor domain-containing protein n=10 Tax=Prunus TaxID=3754 RepID=A0A251RA95_PRUPE
+#=GS UniRef90_A0A5J4ZXB3/651-702      DE [subseq from] Tudor domain-containing protein n=1 Tax=Nyssa sinensis TaxID=561372 RepID=A0A5J4ZXB3_9ASTE
+#=GS UniRef90_A0A5N6MWG1/1366-1414    DE [subseq from] Aldedh domain-containing protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6MWG1_9ASTR
+#=GS UniRef90_A0A328E854/1365-1414    DE [subseq from] Uncharacterized protein n=3 Tax=Cuscuta sect. Cleistogrammica TaxID=1824901 RepID=A0A328E854_9ASTE
+#=GS UniRef90_A0A6J0LYN3/26-75        DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0LYN3_RAPSA
+#=GS UniRef90_A0A1B6QCH6/98-147       DE [subseq from] DNA mismatch repair protein n=1 Tax=Sorghum bicolor TaxID=4558 RepID=A0A1B6QCH6_SORBI
+#=GS UniRef90_A0A7S4EXL4/72-122       DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Chrysotila carterae TaxID=13221 RepID=A0A7S4EXL4_CHRCT
+#=GS UniRef90_A0A1U7YJE6/502-553      DE [subseq from] neurofilament heavy polypeptide isoform X4 n=1 Tax=Nicotiana sylvestris TaxID=4096 RepID=A0A1U7YJE6_NICSY
+#=GS UniRef90_K7KIF0/630-680          DE [subseq from] Tudor domain-containing protein n=8 Tax=Glycine subgen. Soja TaxID=1462606 RepID=K7KIF0_SOYBN
+#=GS UniRef90_W7TDU6/104-155          DE [subseq from] DNA mismatch repair protein n=2 Tax=Monodopsidaceae TaxID=425072 RepID=W7TDU6_9STRA
+#=GS UniRef90_UPI000F614511/449-500   DE [subseq from] uncharacterized protein LOC113783832 isoform X3 n=1 Tax=Coffea eugenioides TaxID=49369 RepID=UPI000F614511
+#=GS UniRef90_A0A565CKE0/28-79        DE [subseq from] Uncharacterized protein n=1 Tax=Arabis nemorensis TaxID=586526 RepID=A0A565CKE0_9BRAS
+#=GS UniRef90_A0A6J0MSE5/27-78        DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Raphanus sativus TaxID=3726 RepID=A0A6J0MSE5_RAPSA
+#=GS UniRef90_G7I899/646-689          DE [subseq from] Lamin-B receptor of tudor domain protein n=3 Tax=Medicago truncatula TaxID=3880 RepID=G7I899_MEDTR
+#=GS UniRef90_A0A162A2A4/96-144       DE [subseq from] DNA mismatch repair protein n=2 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=A0A162A2A4_DAUCS
+#=GS UniRef90_A0A4P1RNQ3/650-698      DE [subseq from] Uncharacterized protein n=5 Tax=Lupinus angustifolius TaxID=3871 RepID=A0A4P1RNQ3_LUPAN
+#=GS UniRef90_A0A540MA62/652-700      DE [subseq from] Uncharacterized protein n=4 Tax=Malus TaxID=3749 RepID=A0A540MA62_MALBA
+#=GS UniRef90_A0A072UUD1/1382-1431    DE [subseq from] Sister chromatid cohesion PDS5-like protein n=5 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UUD1_MEDTR
+#=GS UniRef90_A0A4D6MKS0/680-724      DE [subseq from] Sister chromatid cohesion protein PDS5 n=1 Tax=Vigna unguiculata TaxID=3917 RepID=A0A4D6MKS0_VIGUN
+#=GS UniRef90_A0A1D1YWX3/116-164      DE [subseq from] Histone-lysine N-methyltransferase ATX2 (Fragment) n=1 Tax=Anthurium amnicola TaxID=1678845 RepID=A0A1D1YWX3_9ARAE
+#=GS UniRef90_A0A1S4CT64/664-715      DE [subseq from] neurofilament heavy polypeptide-like isoform X1 n=12 Tax=Nicotiana TaxID=4085 RepID=A0A1S4CT64_TOBAC
+#=GS UniRef90_A0A0K9PTB4/963-1011     DE [subseq from] Uncharacterized protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9PTB4_ZOSMR
+#=GS UniRef90_UPI001036CB69/673-717   DE [subseq from] uncharacterized protein LOC114323750 isoform X1 n=3 Tax=Camellia sinensis TaxID=4442 RepID=UPI001036CB69
+#=GS UniRef90_S8C9G5/856-906          DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Genlisea aurea TaxID=192259 RepID=S8C9G5_9LAMI
+#=GS UniRef90_V4WB02/640-691          DE [subseq from] Uncharacterized protein n=3 Tax=Citrus TaxID=2706 RepID=V4WB02_CITCL
+#=GS UniRef90_A0A0V0HBX7/104-155      DE [subseq from] Putative ovule protein (Fragment) n=1 Tax=Solanum chacoense TaxID=4108 RepID=A0A0V0HBX7_SOLCH
+#=GS UniRef90_A0A078H670/529-580      DE [subseq from] BnaC05g12170D protein n=10 Tax=Brassica TaxID=3705 RepID=A0A078H670_BRANA
+#=GS UniRef90_UPI0011D20293/648-698   DE [subseq from] midasin-like isoform X1 n=4 Tax=Myrtoideae TaxID=1699513 RepID=UPI0011D20293
+#=GS UniRef90_A0A068VGH7/624-675      DE [subseq from] Uncharacterized protein n=7 Tax=Coffea TaxID=13442 RepID=A0A068VGH7_COFCA
+#=GS UniRef90_A0A2P6VMM9/910-949      DE [subseq from] Methylase n=1 Tax=Micractinium conductrix TaxID=554055 RepID=A0A2P6VMM9_9CHLO
+#=GS UniRef90_A0A7J7QDZ9/463-511      DE [subseq from] SAND domain-containing protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7QDZ9_9CHLO
+#=GS UniRef90_A0A022QME2/1377-1427    DE [subseq from] Uncharacterized protein n=3 Tax=Erythranthe guttata TaxID=4155 RepID=A0A022QME2_ERYGU
+#=GS UniRef90_A0A4D9BL34/1376-1426    DE [subseq from] Sister chromatid cohesion protein PDS5 n=2 Tax=Salvia splendens TaxID=180675 RepID=A0A4D9BL34_SALSN
+#=GS UniRef90_A0A2G5EX52/42-93        DE [subseq from] Uncharacterized protein n=1 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5EX52_AQUCA
+#=GS UniRef90_A0A0R0JHE1/665-715      DE [subseq from] Tudor domain-containing protein n=5 Tax=Glycine subgen. Soja TaxID=1462606 RepID=A0A0R0JHE1_SOYBN
+#=GS UniRef90_A0A1S4E370/469-520      DE [subseq from] uncharacterized protein LOC103499836 isoform X1 n=1 Tax=Cucumis melo TaxID=3656 RepID=A0A1S4E370_CUCME
+#=GS UniRef90_A0A2P5YH93/44-95        DE [subseq from] Uncharacterized protein n=1 Tax=Gossypium barbadense TaxID=3634 RepID=A0A2P5YH93_GOSBA
+#=GS UniRef90_A0A3Q7HSC9/676-725      DE [subseq from] Uncharacterized protein n=5 Tax=Solanum TaxID=4107 RepID=A0A3Q7HSC9_SOLLC
+#=GS UniRef90_A0A287ED28/627-675      DE [subseq from] Uncharacterized protein n=2 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287ED28_HORVV
+#=GS UniRef90_A0A251PXX0/698-746      DE [subseq from] Tudor domain-containing protein n=7 Tax=Prunus TaxID=3754 RepID=A0A251PXX0_PRUPE
+#=GS UniRef90_A0A287ECW8/715-763      DE [subseq from] Uncharacterized protein n=11 Tax=Triticeae TaxID=147389 RepID=A0A287ECW8_HORVV
+#=GS UniRef90_A0A1S3VCK2/687-734      DE [subseq from] uncharacterized protein LOC106773633 isoform X1 n=8 Tax=Vigna TaxID=3913 RepID=A0A1S3VCK2_VIGRR
+#=GS UniRef90_UPI0011E522A7/630-680   DE [subseq from] hepatoma-derived growth factor-related protein 2-like isoform X2 n=1 Tax=Rhodamnia argentea TaxID=178133 RepID=UPI0011E522A7
+#=GS UniRef90_A0A1S4E3X6/469-520      DE [subseq from] caldesmon-like isoform X2 n=1 Tax=Cucumis melo TaxID=3656 RepID=A0A1S4E3X6_CUCME
+#=GS UniRef90_C1E0I9/212-261          DE [subseq from] DNA glycosylase n=1 Tax=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) TaxID=296587 RepID=C1E0I9_MICCC
+#=GS UniRef90_A0A2J6K5M0/1656-1705    DE [subseq from] Uncharacterized protein n=5 Tax=Lactuca TaxID=4235 RepID=A0A2J6K5M0_LACSA
+#=GS UniRef90_A0A251VCA0/802-846      DE [subseq from] Putative armadillo-type fold protein n=4 Tax=Helianthus annuus TaxID=4232 RepID=A0A251VCA0_HELAN
+#=GS UniRef90_R1DRA0/4-47             DE [subseq from] Uncharacterized protein n=1 Tax=Emiliania huxleyi TaxID=2903 RepID=R1DRA0_EMIHU
+#=GS UniRef90_A0A287ED00/715-763      DE [subseq from] Uncharacterized protein n=11 Tax=Triticeae TaxID=147389 RepID=A0A287ED00_HORVV
+#=GS UniRef90_A0A2V0NUD4/288-325      DE [subseq from] Uncharacterized protein n=1 Tax=Raphidocelis subcapitata TaxID=307507 RepID=A0A2V0NUD4_9CHLO
+#=GS UniRef90_A0A2T7DZI8/1346-1393    DE [subseq from] Tudor domain-containing protein n=10 Tax=Panicum TaxID=4539 RepID=A0A2T7DZI8_9POAL
+#=GS UniRef90_C1MUG0/320-368          DE [subseq from] Predicted protein n=1 Tax=Micromonas pusilla (strain CCMP1545) TaxID=564608 RepID=C1MUG0_MICPC
+#=GS UniRef90_UPI00092F54AE/631-680   DE [subseq from] uncharacterized protein LOC109340431 isoform X2 n=2 Tax=Lupinus angustifolius TaxID=3871 RepID=UPI00092F54AE
+#=GS UniRef90_UPI00125CE8D3/92-142    DE [subseq from] DNA mismatch repair protein MSH6 n=2 Tax=Ipomoea TaxID=4119 RepID=UPI00125CE8D3
+#=GS UniRef90_UPI000901445E/1374-1423 DE [subseq from] sister chromatid cohesion protein PDS5 homolog A isoform X1 n=4 Tax=Ipomoea TaxID=4119 RepID=UPI000901445E
+#=GS UniRef90_A0A7R9T8A4/194-238      DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Prasinoderma coloniale TaxID=156133 RepID=A0A7R9T8A4_9VIRI
+#=GS UniRef90_A0A6I9TA68/635-686      DE [subseq from] hepatoma-derived growth factor-related protein 2 n=1 Tax=Sesamum indicum TaxID=4182 RepID=A0A6I9TA68_SESIN
+#=GS UniRef90_UPI00053C4CB5/573-624   DE [subseq from] ABC transporter F family member 4-like isoform X1 n=3 Tax=Tarenaya hassleriana TaxID=28532 RepID=UPI00053C4CB5
+#=GS UniRef90_A0A5N6MC87/1342-1391    DE [subseq from] Uncharacterized protein n=2 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6MC87_9ASTR
+#=GS UniRef90_A0A6P6U6U9/594-645      DE [subseq from] uncharacterized protein LOC113708179 n=7 Tax=Coffea TaxID=13442 RepID=A0A6P6U6U9_COFAR
+#=GS UniRef90_A0A7S0JDC4/23-65        DE [subseq from] Hypothetical protein (Fragment) n=1 Tax=Calcidiscus leptoporus TaxID=127549 RepID=A0A7S0JDC4_9EUKA
+#=GS UniRef90_UPI00098E353F/73-121    DE [subseq from] DNA mismatch repair protein MSH6 n=1 Tax=Asparagus officinalis TaxID=4686 RepID=UPI00098E353F
+#=GS UniRef90_A0A078FKD7/769-815      DE [subseq from] BnaA03g51800D protein n=15 Tax=Brassiceae TaxID=981071 RepID=A0A078FKD7_BRANA
+#=GS UniRef90_A0A1R3GTZ6/753-804      DE [subseq from] Tudor domain-containing protein (Fragment) n=2 Tax=Corchorus TaxID=93758 RepID=A0A1R3GTZ6_COCAP
+#=GS UniRef90_A0A1S3USM1/615-664      DE [subseq from] sister chromatid cohesion protein PDS5 homolog A-like n=1 Tax=Vigna radiata var. radiata TaxID=3916 RepID=A0A1S3USM1_VIGRR
+#=GS UniRef90_UPI00125E78BE/512-563   DE [subseq from] uncharacterized protein LOC115996518 n=2 Tax=Ipomoea TaxID=4119 RepID=UPI00125E78BE
+#=GS UniRef90_A0A5N6PG33/522-567      DE [subseq from] Uncharacterized protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6PG33_9ASTR
+#=GS UniRef90_A0A0K9PS88/447-495      DE [subseq from] Uncharacterized protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9PS88_ZOSMR
+#=GS UniRef90_A0A2P6RVH9/740-788      DE [subseq from] Putative AT hook, DNA-binding protein n=6 Tax=Rosa chinensis TaxID=74649 RepID=A0A2P6RVH9_ROSCH
+#=GS UniRef90_A0A2K2B905/622-673      DE [subseq from] Uncharacterized protein n=9 Tax=Populus TaxID=3689 RepID=A0A2K2B905_POPTR
+#=GS UniRef90_A0A7S2UCV6/110-154      DE [subseq from] Hypothetical protein n=2 Tax=Attheya septentrionalis TaxID=420275 RepID=A0A7S2UCV6_9STRA
+#=GS UniRef90_V4LDJ2/121-172          DE [subseq from] DNA mismatch repair protein n=8 Tax=Brassicaceae TaxID=3700 RepID=V4LDJ2_EUTSA
+#=GS UniRef90_A0A7N2N2D6/101-151      DE [subseq from] DNA mismatch repair protein n=3 Tax=Quercus TaxID=3511 RepID=A0A7N2N2D6_QUELO
+#=GS UniRef90_A0A6J1K1Y9/627-676      DE [subseq from] protein starmaker-like isoform X1 n=6 Tax=Cucurbita TaxID=3660 RepID=A0A6J1K1Y9_CUCMA
+#=GS UniRef90_A0A199V6B9/36-85        DE [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Ananas comosus TaxID=4615 RepID=A0A199V6B9_ANACO
+#=GS UniRef90_A0A1J7FNU6/631-680      DE [subseq from] Uncharacterized protein n=1 Tax=Lupinus angustifolius TaxID=3871 RepID=A0A1J7FNU6_LUPAN
+#=GS UniRef90_D7SUX3/632-682          DE [subseq from] Uncharacterized protein n=2 Tax=Vitis TaxID=3603 RepID=D7SUX3_VITVI
+#=GS UniRef90_A0A1S3XAR5/375-423      DE [subseq from] uncharacterized protein LOC107763088 isoform X1 n=2 Tax=Nicotiana tabacum TaxID=4097 RepID=A0A1S3XAR5_TOBAC
+#=GS UniRef90_UPI0018F83D3C/621-671   DE [subseq from] uncharacterized protein LOC120011235 isoform X3 n=1 Tax=Tripterygium wilfordii TaxID=458696 RepID=UPI0018F83D3C
+#=GS UniRef90_A0A0K9RUR0/470-514      DE [subseq from] Uncharacterized protein n=2 Tax=Spinacia oleracea TaxID=3562 RepID=A0A0K9RUR0_SPIOL
+#=GS UniRef90_K3XUR7/1326-1374        DE [subseq from] Tudor domain-containing protein n=7 Tax=Setaria TaxID=4554 RepID=K3XUR7_SETIT
+#=GS UniRef90_A0A371FQH5/650-700      DE [subseq from] Sister chromatid cohesion protein PDS5-like B-B (Fragment) n=1 Tax=Mucuna pruriens TaxID=157652 RepID=A0A371FQH5_MUCPR
+#=GS UniRef90_A0A1D6I439/97-146       DE [subseq from] Mismatch binding protein Mus3 n=3 Tax=Zea mays TaxID=4577 RepID=A0A1D6I439_MAIZE
+#=GS UniRef90_A0A5N5M8Z2/1396-1445    DE [subseq from] Uncharacterized protein n=8 Tax=Saliceae TaxID=238069 RepID=A0A5N5M8Z2_9ROSI
+#=GS UniRef90_A0A5A7UYS0/835-886      DE [subseq from] Caldesmon-like isoform X2 n=3 Tax=Cucumis melo var. makuwa TaxID=1194695 RepID=A0A5A7UYS0_CUCME
+#=GS UniRef90_UPI001902B237/837-888   DE [subseq from] uncharacterized protein LOC120085017 isoform X1 n=2 Tax=Benincasa hispida TaxID=102211 RepID=UPI001902B237
+#=GS UniRef90_A0A059AIN8/241-291      DE [subseq from] Uncharacterized protein n=2 Tax=Eucalyptus grandis TaxID=71139 RepID=A0A059AIN8_EUCGR
+#=GS UniRef90_V4N3P7/1376-1425        DE [subseq from] Uncharacterized protein n=1 Tax=Eutrema salsugineum TaxID=72664 RepID=V4N3P7_EUTSA
+#=GS UniRef90_A0A7N0U2S9/95-143       DE [subseq from] Uncharacterized protein n=1 Tax=Kalanchoe fedtschenkoi TaxID=63787 RepID=A0A7N0U2S9_KALFE
+#=GS UniRef90_A0A6N2BC98/98-148       DE [subseq from] DNA mismatch repair protein n=5 Tax=Solanum TaxID=4107 RepID=A0A6N2BC98_SOLCI
+#=GS UniRef90_UPI0002C358C5/733-781   DE [subseq from] uncharacterized protein LOC101302469 isoform X1 n=3 Tax=Fragaria vesca subsp. vesca TaxID=101020 RepID=UPI0002C358C5
+#=GS UniRef90_UPI000B8C7881/414-464   DE [subseq from] uncharacterized protein LOC110821133 n=1 Tax=Carica papaya TaxID=3649 RepID=UPI000B8C7881
+#=GS UniRef90_A0A6J1D273/576-627      DE [subseq from] uncharacterized protein LOC111016321 isoform X1 n=2 Tax=Momordica charantia TaxID=3673 RepID=A0A6J1D273_MOMCH
+#=GS UniRef90_A0A0D2PZ19/98-148       DE [subseq from] MUTSd domain-containing protein n=1 Tax=Gossypium raimondii TaxID=29730 RepID=A0A0D2PZ19_GOSRA
+#=GS UniRef90_A0A5N6NL08/435-485      DE [subseq from] Uncharacterized protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6NL08_9ASTR
+#=GS UniRef90_A0A6A1UWM0/634-684      DE [subseq from] Uncharacterized protein n=1 Tax=Morella rubra TaxID=262757 RepID=A0A6A1UWM0_9ROSI
+#=GS UniRef90_A0A6J1D005/576-627      DE [subseq from] uncharacterized protein LOC111016321 isoform X2 n=1 Tax=Momordica charantia TaxID=3673 RepID=A0A6J1D005_MOMCH
+#=GS UniRef90_A0A087GNA0/1373-1422    DE [subseq from] Uncharacterized protein n=2 Tax=Arabis TaxID=50451 RepID=A0A087GNA0_ARAAL
+#=GS UniRef90_M8AN02/1335-1383        DE [subseq from] Sister chromatid cohesion PDS5-B-B-like protein n=4 Tax=Triticinae TaxID=1648030 RepID=M8AN02_AEGTA
+#=GS UniRef90_Q8GUP3/605-653          DE [subseq from] Transcriptional regulator n=10 Tax=Arabidopsis TaxID=3701 RepID=Q8GUP3_ARATH
+#=GS UniRef90_UPI00090143B1/666-715   DE [subseq from] uncharacterized protein LOC109178882 isoform X1 n=5 Tax=Ipomoea TaxID=4119 RepID=UPI00090143B1
+#=GS UniRef90_A0A7S2IUB1/47-94        DE [subseq from] Hypothetical protein n=1 Tax=Haptolina brevifila TaxID=156173 RepID=A0A7S2IUB1_9EUKA
+#=GS UniRef90_A0A6J1BTE1/641-686      DE [subseq from] uncharacterized protein DDB_G0284459 n=1 Tax=Momordica charantia TaxID=3673 RepID=A0A6J1BTE1_MOMCH
+#=GS UniRef90_UPI0011E4F1F3/586-636   DE [subseq from] uncharacterized protein LOC115736128 isoform X1 n=5 Tax=Myrtoideae TaxID=1699513 RepID=UPI0011E4F1F3
+#=GS UniRef90_A0A0A0KBP5/750-801      DE [subseq from] Uncharacterized protein n=5 Tax=Cucumis sativus TaxID=3659 RepID=A0A0A0KBP5_CUCSA
+#=GS UniRef90_A0A1U7ZGB1/1400-1450    DE [subseq from] sister chromatid cohesion protein PDS5 homolog B n=1 Tax=Nelumbo nucifera TaxID=4432 RepID=A0A1U7ZGB1_NELNU
+#=GS UniRef90_A0A1D1YIV5/573-620      DE [subseq from] Sister chromatid cohesion protein PDS5 B-B (Fragment) n=1 Tax=Anthurium amnicola TaxID=1678845 RepID=A0A1D1YIV5_9ARAE
+#=GS UniRef90_UPI0018F824B3/856-906   DE [subseq from] uncharacterized protein LOC120011235 isoform X1 n=2 Tax=Tripterygium wilfordii TaxID=458696 RepID=UPI0018F824B3
+#=GS UniRef90_A0A5J4XIB9/915-959      DE [subseq from] BRCA1-associated RING domain 1 n=1 Tax=Trebouxia sp. A1-2 TaxID=2608996 RepID=A0A5J4XIB9_9CHLO
+#=GS UniRef90_A0A5J5B4V8/1399-1448    DE [subseq from] Uncharacterized protein n=1 Tax=Nyssa sinensis TaxID=561372 RepID=A0A5J5B4V8_9ASTE
+#=GS UniRef90_A0A7J7D5Z4/492-539      DE [subseq from] Tudor domain-containing protein n=3 Tax=Tripterygium wilfordii TaxID=458696 RepID=A0A7J7D5Z4_TRIWF
+#=GS UniRef90_C1MGI8/95-144           DE [subseq from] Predicted protein n=2 Tax=Micromonas pusilla TaxID=38833 RepID=C1MGI8_MICPC
+#=GS UniRef90_UPI00155A44C1/632-682   DE [subseq from] titin homolog isoform X2 n=1 Tax=Vitis riparia TaxID=96939 RepID=UPI00155A44C1
+#=GS UniRef90_A0A2Z6M3A4/339-387      DE [subseq from] Uncharacterized protein n=1 Tax=Trifolium subterraneum TaxID=3900 RepID=A0A2Z6M3A4_TRISU
+#=GS UniRef90_K7KZ74/741-791          DE [subseq from] Uncharacterized protein n=12 Tax=Glycine subgen. Soja TaxID=1462606 RepID=K7KZ74_SOYBN
+#=GS UniRef90_A0A3B6SEU8/1382-1430    DE [subseq from] Uncharacterized protein n=78 Tax=Triticinae TaxID=1648030 RepID=A0A3B6SEU8_WHEAT
+#=GS UniRef90_UPI0011E4F207/436-487   DE [subseq from] uncharacterized protein LOC115728377 n=1 Tax=Rhodamnia argentea TaxID=178133 RepID=UPI0011E4F207
+#=GS UniRef90_A0A6A5MBH3/639-688      DE [subseq from] Uncharacterized protein n=3 Tax=Lupinus albus TaxID=3870 RepID=A0A6A5MBH3_LUPAL
+#=GS UniRef90_UPI001929CC54/79-124    DE [subseq from] DNA mismatch repair protein MSH6-like n=1 Tax=Dioscorea cayennensis subsp. rotundata TaxID=55577 RepID=UPI001929CC54
+#=GS UniRef90_A0A6A1W0P7/747-795      DE [subseq from] Uncharacterized protein n=1 Tax=Morella rubra TaxID=262757 RepID=A0A6A1W0P7_9ROSI
+#=GS UniRef90_A0A2G5E8H3/86-133       DE [subseq from] Tudor domain-containing protein n=2 Tax=Aquilegia coerulea TaxID=218851 RepID=A0A2G5E8H3_AQUCA
+#=GS UniRef90_A5BII6/1022-1072        DE [subseq from] Uncharacterized protein n=1 Tax=Vitis vinifera TaxID=29760 RepID=A5BII6_VITVI
+#=GS UniRef90_A0A1J7IGM0/651-702      DE [subseq from] Uncharacterized protein n=2 Tax=Lupinus angustifolius TaxID=3871 RepID=A0A1J7IGM0_LUPAN
+#=GS UniRef90_A0A059CTM6/586-636      DE [subseq from] Uncharacterized protein n=2 Tax=Eucalyptus grandis TaxID=71139 RepID=A0A059CTM6_EUCGR
+#=GS UniRef90_A0A1D1YV29/666-712      DE [subseq from] Sister chromatid cohesion protein PDS5 B-B n=2 Tax=Anthurium amnicola TaxID=1678845 RepID=A0A1D1YV29_9ARAE
+#=GS UniRef90_A0A1D6I437/97-146       DE [subseq from] DNA mismatch repair protein n=7 Tax=Zea mays TaxID=4577 RepID=A0A1D6I437_MAIZE
+#=GS UniRef90_A0A2G3AL40/91-141       DE [subseq from] DNA mismatch repair protein n=3 Tax=Capsicum TaxID=4071 RepID=A0A2G3AL40_CAPAN
+#=GS UniRef90_A0A2I0BBH7/243-291      DE [subseq from] DNA mismatch repair protein n=1 Tax=Apostasia shenzhenica TaxID=1088818 RepID=A0A2I0BBH7_9ASPA
+#=GS UniRef90_UPI0010A51CFE/410-457   DE [subseq from] uncharacterized protein LOC114750964 n=1 Tax=Prosopis alba TaxID=207710 RepID=UPI0010A51CFE
+#=GS UniRef90_A0A161Y7T5/585-636      DE [subseq from] Uncharacterized protein n=1 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=A0A161Y7T5_DAUCS
+#=GS UniRef90_A0A1J7HKR2/71-121       DE [subseq from] DNA mismatch repair protein n=2 Tax=Lupinus TaxID=3869 RepID=A0A1J7HKR2_LUPAN
+#=GS UniRef90_A0A388LVH8/57-105       DE [subseq from] DNA mismatch repair protein n=1 Tax=Chara braunii TaxID=69332 RepID=A0A388LVH8_CHABU
+#=GS UniRef90_A0A1Z5JSD7/45-89        DE [subseq from] Uncharacterized protein n=2 Tax=Fistulifera solaris TaxID=1519565 RepID=A0A1Z5JSD7_FISSO
+#=GS UniRef90_O04716/121-172          DE [subseq from] DNA mismatch repair protein MSH6 n=13 Tax=Camelineae TaxID=980083 RepID=MSH6_ARATH
+#=GS UniRef90_UPI000E21B59D/193-243   DE [subseq from] uncharacterized protein LOC102661422 n=1 Tax=Glycine max TaxID=3847 RepID=UPI000E21B59D
+#=GS UniRef90_UPI00192E8845/467-517   DE [subseq from] uncharacterized protein LOC104423214 isoform X1 n=9 Tax=Eucalyptus grandis TaxID=71139 RepID=UPI00192E8845
+#=GS UniRef90_A0A1U8IYL7/677-727      DE [subseq from] nucleolar and coiled-body phosphoprotein 1-like n=19 Tax=Gossypium TaxID=3633 RepID=A0A1U8IYL7_GOSHI
+#=GS UniRef90_A0A0D2RDB1/884-934      DE [subseq from] Uncharacterized protein n=7 Tax=Gossypium TaxID=3633 RepID=A0A0D2RDB1_GOSRA
+#=GS UniRef90_A0A7I8LDI4/348-396      DE [subseq from] Hypothetical protein n=2 Tax=Spirodela intermedia TaxID=51605 RepID=A0A7I8LDI4_SPIIN
+#=GS UniRef90_UPI00053C8910/534-585   DE [subseq from] protein starmaker isoform X1 n=4 Tax=Tarenaya hassleriana TaxID=28532 RepID=UPI00053C8910
+#=GS UniRef90_A0A4Y7L442/848-898      DE [subseq from] Tudor domain-containing protein n=4 Tax=Papaver somniferum TaxID=3469 RepID=A0A4Y7L442_PAPSO
+#=GS UniRef90_A0A5B7AN91/1396-1445    DE [subseq from] Uncharacterized protein n=4 Tax=Davidia involucrata TaxID=16924 RepID=A0A5B7AN91_DAVIN
+#=GS UniRef90_A0A5B7B6F3/634-685      DE [subseq from] Uncharacterized protein n=1 Tax=Davidia involucrata TaxID=16924 RepID=A0A5B7B6F3_DAVIN
+#=GS UniRef90_A0A4D9A2P5/739-789      DE [subseq from] Uncharacterized protein n=2 Tax=Salvia splendens TaxID=180675 RepID=A0A4D9A2P5_SALSN
+#=GS UniRef90_A0A1S3USC2/1370-1419    DE [subseq from] sister chromatid cohesion protein PDS5 homolog A isoform X1 n=13 Tax=Phaseoleae TaxID=163735 RepID=A0A1S3USC2_VIGRR
+#=GS UniRef90_A0A0K9PDV1/60-106       DE [subseq from] DNA mismatch repair protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9PDV1_ZOSMR
+#=GS UniRef90_A0A1S3U6C5/650-701      DE [subseq from] uncharacterized protein LOC106762282 isoform X1 n=6 Tax=Vigna TaxID=3913 RepID=A0A1S3U6C5_VIGRR
+#=GS UniRef90_UPI0010A2ECCB/730-777   DE [subseq from] uncharacterized protein LOC114724297 isoform X1 n=4 Tax=Prosopis alba TaxID=207710 RepID=UPI0010A2ECCB
+#=GS UniRef90_A0A7S0R072/183-225      DE [subseq from] Hypothetical protein (Fragment) n=2 Tax=Pyramimonas obovata TaxID=1411642 RepID=A0A7S0R072_9CHLO
+#=GS UniRef90_A0A7S0R072/477-518      DE [subseq from] Hypothetical protein (Fragment) n=2 Tax=Pyramimonas obovata TaxID=1411642 RepID=A0A7S0R072_9CHLO
+#=GS UniRef90_A0A087GLM4/110-160      DE [subseq from] DNA mismatch repair protein n=3 Tax=Arabis TaxID=50451 RepID=A0A087GLM4_ARAAL
+#=GS UniRef90_A0A371F7L5/592-642      DE [subseq from] DNA mismatch repair protein MSH6 (Fragment) n=1 Tax=Mucuna pruriens TaxID=157652 RepID=A0A371F7L5_MUCPR
+#=GS UniRef90_A0A1Q3BWS0/650-701      DE [subseq from] Uncharacterized protein n=1 Tax=Cephalotus follicularis TaxID=3775 RepID=A0A1Q3BWS0_CEPFO
+#=GS UniRef90_A0A251U012/363-411      DE [subseq from] Putative armadillo-type fold protein n=1 Tax=Helianthus annuus TaxID=4232 RepID=A0A251U012_HELAN
+#=GS UniRef90_A0A6I9UDE3/1376-1426    DE [subseq from] sister chromatid cohesion protein PDS5 homolog A isoform X1 n=3 Tax=Sesamum indicum TaxID=4182 RepID=A0A6I9UDE3_SESIN
+#=GS UniRef90_V4KV58/573-624          DE [subseq from] Uncharacterized protein n=2 Tax=Eutrema salsugineum TaxID=72664 RepID=V4KV58_EUTSA
+#=GS UniRef90_UPI00098D8759/685-736   DE [subseq from] uncharacterized protein LOC109812986 n=1 Tax=Cajanus cajan TaxID=3821 RepID=UPI00098D8759
+#=GS UniRef90_A0A7J0GBY1/656-703      DE [subseq from] Uncharacterized protein n=1 Tax=Actinidia rufa TaxID=165716 RepID=A0A7J0GBY1_9ERIC
+#=GS UniRef90_A0A7J7PTF0/71-117       DE [subseq from] Uncharacterized protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7PTF0_9CHLO
+#=GS UniRef90_A0A7J7PTF0/134-179      DE [subseq from] Uncharacterized protein n=1 Tax=Scenedesmus sp. NREL 46B-D3 TaxID=2650976 RepID=A0A7J7PTF0_9CHLO
+#=GS UniRef90_A0A5J5A6P8/629-680      DE [subseq from] Uncharacterized protein n=1 Tax=Nyssa sinensis TaxID=561372 RepID=A0A5J5A6P8_9ASTE
+
+Tribonema_minus                          GGDLVGKAIEVWWP-DEKC-WNGGVVAAFDA-A-SG--KHTVDY-A-G-G-DTERVLLDKER
+UniRef90_A0A5B8MZR6/1840-1883            GADAVGWRVGVWWE-DDKT-YYYGVLKDYDK-K-EK--KHKILY-D-D-D-QVE--------
+#=GR UniRef90_A0A5B8MZR6/1840-1883    PP 7899**********.****.***********.*.**..***999.8.7.6.665........
+UniRef90_A0A5B8MZR6/1914-1959            ----IGWRVGVLWE-DDKT-YYYGVVHAYDA-S-AG--THNVIY-E-D-G-TMESLNLSK--
+#=GR UniRef90_A0A5B8MZR6/1914-1959    PP ....6778899***.****.***********.*.**..******.*.*.*.999887776..
+UniRef90_A0A5B8MZR6/2007-2052            ----IGWRVGVLWE-DDKT-YYYGVVHAYDA-S-AG--THNVIY-E-D-G-TMESLNLSK--
+#=GR UniRef90_A0A5B8MZR6/2007-2052    PP ....6778899***.****.***********.*.**..******.*.*.*.999887776..
+UniRef90_A0A5B8MZR6/2098-2149            GADAVGWRVGVWWE-DDKT-YYYGVLKDYDK-K-EK--KHKILY-D-D-G-QQEMITIEKEK
+#=GR UniRef90_A0A5B8MZR6/2098-2149    PP 7899**********.****.***********.*.**..******.*.*.*.********996
+UniRef90_A0A5B8MZR6/2179-2224            ----IGWRVGVLWE-DDKT-YYYGVVHAYDA-S-AG--THNVIY-E-D-G-TMESLNLSK--
+#=GR UniRef90_A0A5B8MZR6/2179-2224    PP ....6778899***.****.***********.*.**..******.*.*.*.999887776..
+UniRef90_A0A5B8MZR6/2261-2306            ----VGQRIGIWWP-DDKC-FYYGEIAAFRE-A-DK--MHQIKY-D-D-G-MEEFLDLQK--
+#=GR UniRef90_A0A5B8MZR6/2261-2306    PP ....899*******.****.***********.*.**..******.9.9.9.888766665..
+UniRef90_A0A4Y7JRM0/55-103               ---IVGKRIKVYWD-GSRR-WFTGCVESFDS-K-KK--LHRILY-N-D-G-DVDGLYLPDER
+#=GR UniRef90_A0A4Y7JRM0/55-103       PP ...79*********.****.***********.*.**..******.*.*.*.**999887776
+UniRef90_A0A4Y7JRM0/174-222              ---IVGKRIKVYWD-GSRR-WFTGHIESFDS-K-KK--LHRISY-Y-D-G-DMEELYLPDER
+#=GR UniRef90_A0A4Y7JRM0/174-222      PP ...79*********.****.***********.*.**..******.*.*.*.****9998776
+UniRef90_A0A4Y7JRM0/294-338              ---IIGKRIKVYWD-GSRK-WFTGHIESFDS-K-KK--LHRILY-N-D-G-DVEKLNL----
+#=GR UniRef90_A0A4Y7JRM0/294-338      PP ...79*********.****.***********.*.**..******.*.*.*.***9743....
+UniRef90_A0A4Y7JRM0/413-461              ---IIGKRIKVYWD-GLRK-WFTGRIESFDN-K-KK--LHRILY-S-D-G-DVEELYLPDER
+#=GR UniRef90_A0A4Y7JRM0/413-461      PP ...79*********.****.***********.*.**..******.*.*.*.****9998776
+UniRef90_A0A4Y7JRM0/549-593              ---IVGKRIKVYWG-GSRR-WFTGRIDSFDN-E-KK--LHMIRY-D-D-G-DVDELNL----
+#=GR UniRef90_A0A4Y7JRM0/549-593      PP ...79*********.****.***********.*.**..******.*.*.*.*987654....
+UniRef90_A0A4Y7JRM0/685-729              ---IVGKRIKVYWG-GSRR-WFTGRIDSFDN-E-KK--LHWIFY-D-D-G-DVDELNL----
+#=GR UniRef90_A0A4Y7JRM0/685-729      PP ...79*********.****.***********.*.**..******.*.*.*.*987654....
+UniRef90_UPI0003D2879F/130-181           GAELISARIKVWWP-LEQV-FYEGVISSFDS-E-TN--KHKVIY-D-D-G-EVEKLRLHKER
+#=GR UniRef90_UPI0003D2879F/130-181   PP 78999*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI0003D2879F/204-255           GKELVGARIKVWWP-LDEK-FYEGVISSFDS-D-TN--KHEVMY-D-D-G-EVEKLRLHKER
+#=GR UniRef90_UPI0003D2879F/204-255   PP 679***********.6555.6678*******.*.**..******.*.*.*.*********98
+UniRef90_UPI0003D2879F/278-329           GKELVGARIKVWWP-LDEK-FYEGVVSSFDP-V-ER--KHKVLY-D-D-G-EAEKLRLHKER
+#=GR UniRef90_UPI0003D2879F/278-329   PP 679***********.6555.6678*******.*.**..******.*.*.*.*********98
+UniRef90_A0A3Q7GWQ2/641-692              GAELIGTKIKVWWP-LEQA-FYKGVIYSFDS-E-TN--KHKVVY-D-D-G-EVEKLRLHKER
+#=GR UniRef90_A0A3Q7GWQ2/641-692      PP 789***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A3Q7GWQ2/715-766              GTELVGDRIKVWWP-LDEK-FYEGVISSFDF-E-TN--KHKVVY-D-D-G-EVEILRLYKQR
+#=GR UniRef90_A0A3Q7GWQ2/715-766      PP 678***********.6555.6678*******.*.**..******.*.*.*.**998888876
+UniRef90_A0A3Q7GWQ2/789-840              GKELVGARIKVWWP-LDEK-FYEGVVSSFDP-V-ER--KHKVVY-N-D-G-ETEKLRLHKER
+#=GR UniRef90_A0A3Q7GWQ2/789-840      PP 678***********.6555.6678*******.*.**..******.*.*.*.*********98
+UniRef90_A0A7S2WZ73/1323-1374            GADAVGWRVGVWWE-DDKT-YYYGVLKDYDK-K-EK--KHKILY-D-D-G-QQEMITIEKEK
+#=GR UniRef90_A0A7S2WZ73/1323-1374    PP 7899**********.****.***********.*.**..******.*.*.*.********996
+UniRef90_A0A7S2WZ73/1404-1449            ----IGWRVGVLWE-DDKT-YYYGVVHAYDA-S-AG--THNVIY-E-D-G-TMESLNLSK--
+#=GR UniRef90_A0A7S2WZ73/1404-1449    PP ....6778899***.****.***********.*.**..******.*.*.*.999888776..
+UniRef90_A0A7S2WZ73/1486-1531            ----VGQRIGIWWP-DDKC-FYYGEIAAFRE-A-DK--MHQIKY-D-D-G-MEEFLDLQK--
+#=GR UniRef90_A0A7S2WZ73/1486-1531    PP ....899*******.****.***********.*.**..******.9.9.9.888766665..
+UniRef90_A0A1U8H4Q0/500-549              --ELVGAKIKVWWP-YDEA-FHEASVSSFDP-V-KN--RLKVKY-V-D-G-QIEKLNLLKER
+#=GR UniRef90_A0A1U8H4Q0/500-549      PP ..79**********.****.***********.*.**..******.*.*.*.****9999987
+UniRef90_A0A1U8H4Q0/766-817              GEELVGSRIKVWWPLDEKF-Y-KAAVASFDP-V-TK--KHEVIY-D-D-R-DVELLRLREER
+#=GR UniRef90_A0A1U8H4Q0/766-817      PP 678***********56666.6.56789****.*.**..******.*.*.*.**999888776
+UniRef90_A0A1U8H4Q0/838-885              -EKLVGARIKMWWP-LDQK-FYEGVVSSFEP-E-KR--KHTVTY-D-D-G-DIEKLILH---
+#=GR UniRef90_A0A1U8H4Q0/838-885      PP .579**********.8777.8889*******.*.**..******.*.*.*.****9985...
+UniRef90_A0A5B8MG98/59-109               GPEVVGRKVAVYWR-KPGQ-WFKGKIYSYTD-K-TK--KHFVKY-E-D-G-DQQEVDLARE-
+#=GR UniRef90_A0A5B8MG98/59-109       PP 5689**********.****.***********.*.**..******.*.*.*.***9988777.
+UniRef90_A0A5B8MG98/133-183              GKDAVGRKVKVYWP-AMGR-WYVGKVKEYDK-P-SG--KHLIAY-Q-D-G-EQQLVLLRNE-
+#=GR UniRef90_A0A5B8MG98/133-183      PP 6799**********.****.***********.*.**..******.*.*.*.*****99765.
+UniRef90_A0A5B8MG98/403-454              GKDAVGWRLRVWSP-EEHK-YFKGVVIGFNQ-G-SG--EHKLKF-D-N-G-QVDSVVLDQQR
+#=GR UniRef90_A0A5B8MG98/403-454      PP 6799**********.****.***********.*.**..******.*.*.*.********987
+UniRef90_A0A2V0NL39/340-383              ----VGRRLRLYWP-AMQR-WYIGQVKEYDS-R-AD--RHTIWY-R-D-G-DAQTLCL----
+#=GR UniRef90_A0A2V0NL39/340-383      PP ....899*******.****.***********.*.**..******.*.*.*.*998776....
+UniRef90_A0A2V0NL39/599-647              ---LVGCRVGVFWQ-HDNT-FFRGTLTSYSP-A-GG--RFTIKY-D-D-G-QTEQLLLEAER
+#=GR UniRef90_A0A2V0NL39/599-647      PP ...89999******.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A2V0NL39/778-825              ----LGWRVAVYWR-DDRA-FYEGVVVQYDP-S-SG--RHRVLY-A-D-G-DEEALLLARER
+#=GR UniRef90_A0A2V0NL39/778-825      PP ....677899****.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A7S3FQH5/150-200              GKDAVGRKVKVYWP-AMGR-WYVGKVKGYDT-A-SG--KHLIAY-Q-D-G-EQHEVLLRNE-
+#=GR UniRef90_A0A7S3FQH5/150-200      PP 6799**********.****.***********.*.**..******.*.*.*.*****99765.
+UniRef90_A0A7S3FQH5/426-476              -KEAVGWRLRVWSP-EEHK-YFKGTVIGYNQ-G-SG--EHKLQF-D-D-G-RVDSVVLDRQR
+#=GR UniRef90_A0A7S3FQH5/426-476      PP .5789999******.**99.999999*****.*.**..******.*.*.*.********987
+UniRef90_A0A7S3FQH5/583-621              GQDCVGWRLSVFWP-DRER-FYQGQCVAYDG-A-LD--RHLVRY-D----------------
+#=GR UniRef90_A0A7S3FQH5/583-621      PP 6799**********.*999.99999999***.*.**..***998.4................
+UniRef90_A0A2U1N486/305-340              GENLVGSRIKVWWP-EDNA-YYEGIVKSFQS-R-NK--KHKI--------------------
+#=GR UniRef90_A0A2U1N486/305-340      PP 5689**********.****.***********.*.**..*976....................
+UniRef90_A0A2U1N486/484-531              GENLVGSRIKVWWP-EDNA-YYEGIVKSFQS-R-KK--KHKVWY-D-D-G-DKELLDL----
+#=GR UniRef90_A0A2U1N486/484-531      PP 5689**********.****.***********.*.**..******.*.*.*.*986554....
+UniRef90_A0A2U1N486/555-597              GESLVGRRIKVWWP-ANEG-YSVGVMQSFDS-S-KM--KHKVLY-D-D-G-IE---------
+#=GR UniRef90_A0A2U1N486/555-597      PP 5679**********.****.***********.*.**..****99.8.8.8.54.........
+UniRef90_A0A3Q7GZZ5/288-339              GAELIGTKIKVWWP-LEQA-FYEGVISSFDS-E-TN--KHKVVY-D-D-G-EVEKLRLHKER
+#=GR UniRef90_A0A3Q7GZZ5/288-339      PP 789***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A3Q7GZZ5/362-413              GKELVGTRIKVWWP-LDEK-FYEGVVSSFDP-V-ER--KHKVLY-D-D-G-ESEKLRLHKER
+#=GR UniRef90_A0A3Q7GZZ5/362-413      PP 679***********.6555.6678*******.*.**..******.*.*.*.*********98
+UniRef90_A0A7J7PVX3/158-202              ----VGRRLRVYWP-AMQR-WYQGTVRCYDP-K-TD--RHAVLY-K-D-G-DTQSLQLK---
+#=GR UniRef90_A0A7J7PVX3/158-202      PP ....8999******.****.***********.*.**..******.*.*.*.**988775...
+UniRef90_A0A7J7PVX3/466-513              ----VGCRVAVYWQ-LDKV-YYKGKLTSLSP-Q-TG--KFTIRY-D-D-G-QSEAVLLERER
+#=GR UniRef90_A0A7J7PVX3/466-513      PP ....788899****.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7J7PVX3/647-698              GRDAVGWRVAVYWK-DDRT-FYEGELADYEP-S-TG--RHKVQY-V-D-G-EQEWLALTNER
+#=GR UniRef90_A0A7J7PVX3/647-698      PP 6799**********.****.***********.*.**..******.*.*.*.***99998876
+UniRef90_UPI0009E333E3/621-670           --DNIGRKIEVWWP-DDER-FYTGVIDAFDP-V-TK--KHRVVY-D-D-G-DAEILFLRNER
+#=GR UniRef90_UPI0009E333E3/621-670   PP ..679*********.****.***********.*.**..******.*.*.*.***99988776
+UniRef90_UPI0009E333E3/935-984           --DNIGRKIEVWWP-DDER-FYTGVIDAFDP-V-TK--KHRVVY-D-D-G-DAEILFLRNER
+#=GR UniRef90_UPI0009E333E3/935-984   PP ..679*********.****.***********.*.**..******.*.*.*.***99988776
+UniRef90_A0A7J6W6S3/78-125               ---IVGKRVKVYWS-GSRK-WFTGCIKSFDN-G-SK--LHKILY-D-D-G-DKEDLDLKVE-
+#=GR UniRef90_A0A7J6W6S3/78-125       PP ...79*********.****.***********.*.**..******.*.*.*.*998776655.
+UniRef90_A0A7J6W6S3/294-342              ---IIGKRVKVYWS-GSRK-WFVGCIKSFDN-D-SK--LHRILY-D-D-G-DKEDLDLKSER
+#=GR UniRef90_A0A7J6W6S3/294-342      PP ...79*********.****.***********.*.**..******.*.*.*.**998877765
+UniRef90_A0A7J6W6S3/546-593              ---IVGRRVKVYWS-GSRR-WFIGCIKSFDS-K-KK--LHKILY-D-D-G-GSEDLNLKGE-
+#=GR UniRef90_A0A7J6W6S3/546-593      PP ...79*********.****.***********.*.**..******.9.9.9.9998777665.
+UniRef90_A0A7J6W6S3/664-711              ---IVGRRVKVYWS-GSRR-WFSGCIKSFDS-K-KK--LHKILY-D-D-G-ESEDLNLKGE-
+#=GR UniRef90_A0A7J6W6S3/664-711      PP ...79*********.****.***********.*.**..******.*.*.*.**99877666.
+UniRef90_I0Z8A8/111-159                  GHDAVDHKVKVFWP-GMGK-WYAGKVAAYDG-R-SA--KHTILY-K-D-G-DVQKLTLR---
+#=GR UniRef90_I0Z8A8/111-159          PP 56889999******.****.***********.*.**..******.*.*.*.***99875...
+UniRef90_I0Z8A8/404-451                  ---VVGSRVGVWWS-EDEA-FYKGEILAFDS-Y-HK--RNKILY-D-D-G-EEEWVALQRE-
+#=GR UniRef90_I0Z8A8/404-451          PP ...68999******.****.999********.*.**..******.*.*.*.***9999887.
+UniRef90_I0Z8A8/618-665                  ---AIGWRIGVYWR-DDAV-FYPAEILGFDT-G-TG--RHQVLY-D-D-G-EEEMVSLTTE-
+#=GR UniRef90_I0Z8A8/618-665          PP ...5788999****.****.***********.*.**..******.*.*.*.***9988766.
+UniRef90_A0A6J0LDS5/562-613              GEDLVGKRVKVWWP-LDKT-FYEGVIDSYCS-R-KK--THGVAY-T-N-G-DSEELYLVKER
+#=GR UniRef90_A0A6J0LDS5/562-613      PP 67************.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A6J0LDS5/661-712              GEDLVGKRVNIWWP-LDKT-FYEGVVESYSS-H-KN--KHTVVY-T-D-G-ESEQLNLVKER
+#=GR UniRef90_A0A6J0LDS5/661-712      PP 67************.****.***********.*.**..******.*.*.*.*****999997
+UniRef90_UPI0003D25624/571-622           GAELIGAKIKVWWP-LEQA-FYEGVISSFDS-E-TN--KHKVVY-D-D-G-EVEKLRLHKER
+#=GR UniRef90_UPI0003D25624/571-622   PP 789***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI0003D25624/645-696           GKELVGDRIKVWWP-LDEK-FYEGVISSFDS-E-TN--KYEVVY-D-D-G-EVEILRLHKER
+#=GR UniRef90_UPI0003D25624/645-696   PP 678***********.6555.6678*******.*.**..******.*.*.*.****9999997
+UniRef90_A0A7S0IBE8/116-166              -AQAVDRRVKVFWP-EENE-WFTGIVSNHDP-S-TD--KHTVTY-D-D-G-DVEEITLAKEK
+#=GR UniRef90_A0A7S0IBE8/116-166      PP .5678899******.****.***********.*.**..******.*.*.*.*******9985
+UniRef90_A0A7S0IBE8/278-328              -AQAVDRRVKVFWP-EENE-WFTGIVSNHDP-S-TD--KHTVTY-D-D-G-DVEEITLAKEK
+#=GR UniRef90_A0A7S0IBE8/278-328      PP .5678899******.****.***********.*.**..******.*.*.*.*******9985
+UniRef90_A0A7J7G7P1/634-683              -GNLIGKKVKVWWP-EDEM-FYEGVIDDFDP-V-KK--KHKVSY-T-D-G-DEEILNLRNE-
+#=GR UniRef90_A0A7J7G7P1/634-683      PP .89***********.****.***********.*.**..******.*.*.*.*998777666.
+UniRef90_A0A7J7G7P1/2093-2142            -GILIGKKVKVWWP-DDDM-FYEGVIDGFDP-V-KR--KHKVSY-T-D-G-DEDILNLRNE-
+#=GR UniRef90_A0A7J7G7P1/2093-2142    PP .779**********.****.***********.*.**..******.*.*.*.*887766655.
+UniRef90_A0A2K3P6L1/672-723              GNSLVGKRIKVWWP-LDQT-YYDGVVNAYDH-V-KG--KHKVLY-D-D-G-MEEQLNLKKHR
+#=GR UniRef90_A0A2K3P6L1/672-723      PP 678***********.****.***********.*.**..******.*.*.*.99999888865
+UniRef90_A0A2K3P6L1/743-789              GDSLVGKRIKVWWP-LDQT-YYDGVVNAYDH-V-KG--KHKVLY-D-D-G-MEEQML-----
+#=GR UniRef90_A0A2K3P6L1/743-789      PP 5679**********.****.***********.*.**..******.*.9.9.999877.....
+UniRef90_A0A7S3BDR3/157-209              GAALVGHRLEVFWD-GGVCGWYEGVICGYNA-L-TR--MHFVQF-I-D-G-DEEHMMLTKEK
+#=GR UniRef90_A0A7S3BDR3/157-209      PP 5679**********.*9999***********.*.**..******.*.*.*.********996
+UniRef90_A0A7S3BDR3/361-411              GNRLVSHRLEVYWP-GEGQ-NFEGTITAYDA-K-SG--KHRIAY-E-D-G-DEEEVLLKEE-
+#=GR UniRef90_A0A7S3BDR3/361-411      PP 56789999******.**99.8899*******.*.**..******.*.*.*.*******887.
+UniRef90_A0A4D6NQV9/634-685              GENLVGLRVKVWWP-KDRE-FYKGIIESFDS-A-KK--KHKVSY-D-D-G-DEEILNLGKER
+#=GR UniRef90_A0A4D6NQV9/634-685      PP 5689**********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A4D6NQV9/969-1019             GENVVGLRVKVWWP-KDRE-FYKGVIHSFDS-A-KK--KHKVFY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_A0A4D6NQV9/969-1019     PP 56789*********.****.***********.*.**..******.*.*.*.***9998887.
+UniRef90_A0A484MRT4/101-149              ---VLNRRIRVYWP-LDKC-WYEGCVKSFDE-I-SG--KHLVQY-D-D-D-DEETLDLSQER
+#=GR UniRef90_A0A484MRT4/101-149      PP ...567899*****.****.***********.*.**..******.*.*.9.99998888876
+UniRef90_A0A484MRT4/1362-1410            ---VLNRRIRVYWP-LDKC-WYEGCVKSFDE-I-SG--KHLVQY-D-D-D-EEETLDLSQER
+#=GR UniRef90_A0A484MRT4/1362-1410    PP ...567899*****.****.***********.*.**..******.9.8.8.88877777765
+UniRef90_A0A7S3E4J5/72-123               GPEVVGRKVAIFWR-KHSQ-WFKGKIHRYMD-K-TQ--KHFVKY-E-D-G-DQAEVNLTRER
+#=GR UniRef90_A0A7S3E4J5/72-123       PP 5689**********.****.******99999.9.**..******.*.*.*.****9999987
+UniRef90_A0A7S3E4J5/146-196              GKDAVGHKVKVYWP-AMGR-WYVGRVKEYDK-P-TG--KHLIAY-Q-D-G-EQHLVLLRNE-
+#=GR UniRef90_A0A7S3E4J5/146-196      PP 6799**********.****.***********.*.**..******.*.*.*.**99999765.
+UniRef90_A0A7S3E4J5/526-573              ---AVGWRLGVWSA-EGHK-YFKGRVVRFDK-A-TG--AHEIQY-D-G-G-RVATVTLARE-
+#=GR UniRef90_A0A7S3E4J5/526-573      PP ...57888899998.8766.66777789***.*.**..******.*.*.*.9999998877.
+UniRef90_A0A2G2ZBS0/244-295              GEELVGSRIKVWWPLDEKF-Y-KAAVASFDP-V-TK--KHEVIY-D-D-R-DVELLRLREER
+#=GR UniRef90_A0A2G2ZBS0/244-295      PP 678***********56666.6.56789****.*.**..******.*.*.*.**999888776
+UniRef90_A0A2G2ZBS0/316-363              -EKLVGARIKMWWP-LDQK-FYEGVVSSFEP-E-KR--KHTVTY-D-D-G-DIEKLILH---
+#=GR UniRef90_A0A2G2ZBS0/316-363      PP .579**********.8777.8889*******.*.**..******.*.*.*.****9985...
+UniRef90_A0A0D2MT29/413-456              ----VGRRLRLYWP-AMQR-WYIGQIKEYDP-A-TD--RHTIWY-R-D-G-DAQLLRL----
+#=GR UniRef90_A0A0D2MT29/413-456      PP ....899*******.****.***********.*.**..******.*.*.*.*987655....
+UniRef90_A0A0D2MT29/607-655              ---LVGCRVGVHWR-MDGA-WYRGKLTSFSP-S-SG--KFTIKY-D-D-G-QTEQLHLERER
+#=GR UniRef90_A0A0D2MT29/607-655      PP ...7899999****.****.***********.*.**..******.*.*.*.********997
+UniRef90_A0A2U1LJG9/116-163              GENLVGSRIKVWWP-EDNA-YYEGIVKSFQS-R-KK--KHKVWY-D-D-G-DKELLDL----
+#=GR UniRef90_A0A2U1LJG9/116-163      PP 5689**********.****.***********.*.**..******.*.*.*.*986554....
+UniRef90_A0A2U1LJG9/187-234              GESLVGRRIKVWWP-ANEG-YSVGVMQSFDS-S-KM--KHKVLY-D-D-G-DEDVLDL----
+#=GR UniRef90_A0A2U1LJG9/187-234      PP 5679**********.****.***********.*.**..******.*.*.*.9876555....
+UniRef90_A0A1Y1HW87/465-514              --DLVGKRVEVWWP-LDQM-YYGGEVVAYDA-E-RR--LHRVHY-D-D-S-EVEWVDLVKER
+#=GR UniRef90_A0A1Y1HW87/465-514      PP ..9***********.****.***********.*.**..******.*.*.*.***99999987
+UniRef90_A0A1Y1HW87/639-688              --ALVGRRIALWWTVGKQQ-WHEGVVECYYP-G-EK--MHLIRY-D-S-G-ITEDISLEEQ-
+#=GR UniRef90_A0A1Y1HW87/639-688      PP ..69*********834668.***********.*.**..******.*.*.*.***9999865.
+UniRef90_A0A2G5ECX0/85-132               ---IVGKRVKVYWS-GSRK-WFAGCIKSFDN-G-SK--LHKILY-D-D-G-DKEDLDLKAE-
+#=GR UniRef90_A0A2G5ECX0/85-132       PP ...79*********.****.***********.*.**..******.*.*.*.**98877666.
+UniRef90_A0A2G5ECX0/244-287              ---IIGKRVKVYWS-GSRR-WFVGCIKSFDN-D-TM--LHRILY-D-D-G-DKEDLN-----
+#=GR UniRef90_A0A2G5ECX0/244-287      PP ...79*********.****.***********.*.**..******.*.*.*.*99765.....
+UniRef90_A0A2G5ECX0/476-523              ---IVGKRVKVYWS-GSRR-WFTGCIKSFDG-K-KK--LHKILY-D-D-G-ESEDLNLKGE-
+#=GR UniRef90_A0A2G5ECX0/476-523      PP ...79*********.****.***********.*.**..******.*.*.*.**99877666.
+UniRef90_A0A2U1N498/228-275              GENLVGSRIKVWWP-EDNT-YYEGTVKSFAS-R-SK--KHKVWY-D-D-G-DKELIDL----
+#=GR UniRef90_A0A2U1N498/228-275      PP 5689**********.****.***********.*.**..******.*.*.*.*997755....
+UniRef90_A0A2U1N498/301-344              --NLVGSRIKVWWP-ADKS-YYEGVMESFDR-R-KM--KHKVLY-D-D-G-DEDVL------
+#=GR UniRef90_A0A2U1N498/301-344      PP ..69**********.****.***********.*.**..******.*.*.*.97754......
+UniRef90_A0A2V0PLJ4/273-320              -AAAVGRALRVYWP-GMQR-WYTGRVERYDA-A-GD--VHLVAY-R-D-G-DTQAVRLR---
+#=GR UniRef90_A0A2V0PLJ4/273-320      PP .5679*********.****.***********.*.**..******.*.*.*.***99775...
+UniRef90_A0A2V0PLJ4/430-479              --SLVGCRVGVLWR-SNNA-SYRAVLSGFCA-S-TA--RFTVTY-D-N-G-QTEQLLLQEER
+#=GR UniRef90_A0A2V0PLJ4/430-479      PP ..68999999****.9999.999********.*.**..******.*.*.*.*******9997
+UniRef90_A0A6P6UCE5/572-623              GEELIGSRIRVWWP-IDRQ-FYEGAIDSFDP-L-RK--KHKVFY-V-D-G-DEENLNLKRER
+#=GR UniRef90_A0A6P6UCE5/572-623      PP 6789**********.*999.9999*******.*.**..******.*.*.*.****9999987
+UniRef90_A0A6P6UCE5/751-801              GEELVGSRIKVWWS-MDSE-FYEGVIDAFDP-L-TK--KHKVLY-V-D-G-NEENLNLEKE-
+#=GR UniRef90_A0A6P6UCE5/751-801      PP 678***********.9999.999********.*.**..******.*.*.*.*******998.
+UniRef90_A0A2P6U196/183-230              GDDAVGYKVKVFWP-GMSK-WYVGKIMSFDP-K-TK--LHSVKY-R-D-G-DTAELEL----
+#=GR UniRef90_A0A2P6U196/183-230      PP 6799**********.****.***********.*.**..******.*.*.*.**87655....
+UniRef90_A0A2P6U196/733-773              --SAVGWRVCVYWP-ADQA-FYAGEVVGYDA-A-SG--RHEVAY-D-D-G-EE---------
+#=GR UniRef90_A0A2P6U196/733-773      PP ..56899999****.****.***********.*.**..******.9.8.8.75.........
+UniRef90_A0A2P6V6D6/162-207              --EAVHTKVRVFWP-AMAR-WYVGKIMAFDP-K-TK--KHMVRY-R-D-G-DTQELNL----
+#=GR UniRef90_A0A2P6V6D6/162-207      PP ..56777899****.****.***********.*.**..******.*.*.*.**98755....
+UniRef90_A0A484LLQ9/603-642              ---LVGSNVQVYMP-GDDI-YYNGVIISFDR-V-KK--KHTVWY-T-H-G-EE---------
+#=GR UniRef90_A0A484LLQ9/603-642      PP ...89*********.****.***********.*.**..******.9.9.9.64.........
+UniRef90_A0A484LLQ9/914-962              --SLVGSKIQVYWP-LDDK-YYDGVIEDFNH-L-NK--RHKVVY-I-D-G-DTEFLRLKEE-
+#=GR UniRef90_A0A484LLQ9/914-962      PP ..59**********.7777.7789*******.*.**..******.*.*.*.***9887665.
+UniRef90_A0A2U1L0T7/533-584              GENLVGKRIKVWWP-DDNR-YYEGVVESFDS-S-IK--KHKVSY-D-G-G-DEELLKLNGER
+#=GR UniRef90_A0A2U1L0T7/533-584      PP 5689**********.****.***********.*.**..******.*.*.*.***99988776
+UniRef90_A0A250XFY8/559-603              ---LMGLPIQVYWP-LDRT-FYPGRIVAFDP-A-SY--KHRVLY-D-D-G-EVEERVL----
+#=GR UniRef90_A0A250XFY8/559-603      PP ...68999******.****.***********.*.**..******.*.*.*.9875433....
+UniRef90_A0A250XFY8/814-861              ---LVGRLVRILWP-EDNA-WFLGKVTKHDS-M-SG--LHKVEY-V-D-G-DHEMLLLAAE-
+#=GR UniRef90_A0A250XFY8/814-861      PP ...79*********.****.***********.*.**..******.*.*.*.****999765.
+UniRef90_A0A2J8A0L3/38-85                ---LVGRQLRVLWP-KDDR-YFPGTVASYLP-A-TL--QHTVRY-E-D-G-DEETLCLPTE-
+#=GR UniRef90_A0A2J8A0L3/38-85        PP ...89*********.9999.999********.*.**..******.*.*.*.***9988766.
+UniRef90_A0A2J8A0L3/382-427              ---LVGRELRVLWP-DEEA-WFCGKVTRFDT-D-TG--THTVQY-D-D-G-DVEQLHLA---
+#=GR UniRef90_A0A2J8A0L3/382-427      PP ...8**********.****.***********.*.**..******.*.*.*.***98765...
+UniRef90_A0A2U1PFE6/280-327              GENLVGSRIKVWWP-EDNT-YYEGTVKSYQS-R-KK--KHKVWY-D-D-G-DKELIDL----
+#=GR UniRef90_A0A2U1PFE6/280-327      PP 5689**********.****.***********.*.**..******.*.*.*.*997755....
+UniRef90_A0A2U1PFE6/344-388              GENLVGSRIKVWWP-ADEE-YYLGVVASFDS-K-CK--MHKVLY-S-D-G-FEEI-------
+#=GR UniRef90_A0A2U1PFE6/344-388      PP 5689**********.9999.999********.*.**..******.9.9.9.7765.......
+UniRef90_A0A061R9K1/86-133               GFDAVGRRLKVYWP-ARKQ-WLEGIVTDFNE-K-EG--THYVKY-D-S-G-DEQWLTL----
+#=GR UniRef90_A0A061R9K1/86-133       PP 6699**********.****.***********.*.**..******.*.*.*.*876655....
+UniRef90_A0A061R9K1/572-618              ----IGWRIGVYWK-EDHS-FYNGEIRGYDS-A-TG--KHHIHY-D-D-N-EDEYISLSTE-
+#=GR UniRef90_A0A061R9K1/572-618      PP ....788999***9.9999.999999*****.*.**..******.*.9.9.9999988766.
+UniRef90_A0A392NXF9/58-109               GNSLVGKRIKVWWP-LDQT-YYDGVVNAYDH-V-KG--KHKVLY-D-D-G-IEEQLNLKKHR
+#=GR UniRef90_A0A392NXF9/58-109       PP 678***********.****.***********.*.**..******.*.*.*.99999988865
+UniRef90_A4S8M3/437-485                  ---LVGRRMKVWWP-DDKA-WYAGEIRRFSA-D-TG--KYTVFY-FED-G-EEEDLDFDKE-
+#=GR UniRef90_A4S8M3/437-485          PP ...89*********.****.***********.*.**..****98.526.7.7787778887.
+UniRef90_UPI000C1D4CAA/11-56             GEELVGSRVKVWWP-KDNK-FCDGVAASYGL-S-GK--KNLVVY-T-N---SVEKIL-----
+#=GR UniRef90_UPI000C1D4CAA/11-56     PP 678***********.9999.999****9998.8.88..888888.7.5...466665.....
+UniRef90_UPI000C1D4CAA/93-143            GEELIGCKVKVWWP-KDKR-CREGVVASYDH-S-GK--KHLVVY-T-N-G-VGEMLDLRKE-
+#=GR UniRef90_UPI000C1D4CAA/93-143    PP 6689**********.9998.8999*******.*.**..******.*.*.*.9998877776.
+UniRef90_E1ZJ30/181-228                  GDDAVHWRVKVFWP-GMAK-WYVGKVTSFDP-K-SK--KHSVRY-R-D-G-DTQELHL----
+#=GR UniRef90_E1ZJ30/181-228          PP 567888899*****.****.***********.*.**..******.*.*.*.**98766....
+UniRef90_E1ZJ30/357-407                  GAGIVGARVAVFWH-EDES-YYKGKLVQFDG-Y-HK--RHKVAY-D-D-G-EEEWVSLPRE-
+#=GR UniRef90_E1ZJ30/357-407          PP 56799********9.9999.9999999****.*.**..******.*.*.*.***9998876.
+UniRef90_A0A1S4BMC9/522-573              GEELVGARIKVWWPLDEKF-YE-AAISSFDP-V-KW--KHKVLY-D-D-G-DVENLLLHEER
+#=GR UniRef90_A0A1S4BMC9/522-573      PP 678***********66666.65.6789****.*.**..******.*.*.*.*******9997
+UniRef90_A0A1S4BMC9/596-647              GEELVGARIKVWCP-LDEE-FYEAIISSFDP-V-KK--RHKVVH-V-D-G-EVKILKLHKER
+#=GR UniRef90_A0A1S4BMC9/596-647      PP 678***********.7777.8889*******.*.**..******.*.*.*.**999999997
+UniRef90_A0A2P6TEK1/703-752              GPELVGRSLMVYWK-EEKT-YYTGTITAYK----DG--KHTVHY-R-D-G-DVETLVLANER
+#=GR UniRef90_A0A2P6TEK1/703-752      PP 679***********.****.********95....7*..******.*.*.*.****9998886
+UniRef90_A0A2U1N3X9/297-343              --NLVGRSVKVWWP-EDED-YYQGVVKSFDR-R-KK--QHQVLY-D-D-G-EEEFLDLK---
+#=GR UniRef90_A0A2U1N3X9/297-343      PP ..69**********.****.***********.*.**..******.*.9.9.98876555...
+UniRef90_A0A2U1N3X9/609-655              --NLVGRSVKVWWP-EDED-YYQGVVKSFDC-R-KK--QHQVLY-D-D-G-EEEFLDLK---
+#=GR UniRef90_A0A2U1N3X9/609-655      PP ..69**********.****.***********.*.**..******.*.9.9.98876555...
+UniRef90_A0A7S1SVS7/79-129               GAEVVGRLLEVYWA-TKKE-WLEGKVDEYNK-R-SG--KHHVTY-K-S-G-DQHWIVLGEK-
+#=GR UniRef90_A0A7S1SVS7/79-129       PP 7899**********.****.***********.*.**..******.*.*.*.*999988765.
+UniRef90_A0A7S1SVS7/736-784              --SAIGWRIGVYWK-EDTV-FYEGEIKGYDS-A-TG--KHHILY-D-D-T-EDEYISLSTE-
+#=GR UniRef90_A0A7S1SVS7/736-784      PP ..5689999*****.****.***********.*.**..******.9.8.8.8887777655.
+UniRef90_A8IWW5/11-58                    ---LIGKQVRVLWP-GENR-YFAGTIVQYFP-D-SC--EHEVHY-E-D-G-DEELLVLAAE-
+#=GR UniRef90_A8IWW5/11-58            PP ...89*********.****.*9999999999.9.**..******.*.*.*.**99888665.
+UniRef90_A8IWW5/458-502                  ---LVGRELRVLWP-DEEA-WFCGRVTKYMP-E-QG--THTVEY-D-D-G-DVEHLHL----
+#=GR UniRef90_A8IWW5/458-502          PP ...8**********.****.***********.*.**..******.*.*.*.***9876....
+UniRef90_A0A2P6VCE5/694-745              GPELLGRSIMIYWK-EQKT-YYTGTVTSYDA-A-TG--KHSVEY-R-D-G-DQEVLALHEER
+#=GR UniRef90_A0A2P6VCE5/694-745      PP 6789**********.****.***********.*.**..******.*.*.*.***99998886
+UniRef90_A0A1D6J9J9/395-444              --NLIGSRIKVWWP-DDKM-FYAGVVESFDA-S-SK--KHKVSY-D-D-G-DVEVLMLKKER
+#=GR UniRef90_A0A1D6J9J9/395-444      PP ..699*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7S3FLT3/6-41                 ----------YWGP-DKK--YYYGVVHSYDK-A-AG--THLVVY-E-D-S-TMESLN-----
+#=GR UniRef90_A0A7S3FLT3/6-41         PP ..........3556.666..55689******.*.**..******.9.8.8.777665.....
+UniRef90_A0A7S3FLT3/85-129               ---HVGKRVGIWWE-DDAC-FYYGVLESYDE-S-KG--THHIKY-D-D-G-TDEHLHL----
+#=GR UniRef90_A0A7S3FLT3/85-129       PP ...59*********.****.***********.*.**..******.*.9.9.9988766....
+UniRef90_A0A5K1GN35/123-170              ---IVGRRVKVYWP-LDRK-WYAGHVVSFEH-D-KK--IHQIRY-D-D-G-EEEWLVLENE-
+#=GR UniRef90_A0A5K1GN35/123-170      PP ...79*********.****.***********.*.**..******.*.*.*.***9999987.
+UniRef90_A0A5K1GN35/371-419              ---ILGRRIKVYWP-LDRK-WYIARVVSFDG-T-SK--RHHILY-E-D-G-DTENLHLCNER
+#=GR UniRef90_A0A5K1GN35/371-419      PP ...689********.****.***********.*.**..******.*.*.*.***99887765
+UniRef90_E1ZNB8/733-784                  GAEVVGLPIMVYWK-EQKT-YYTGTVTEYNK-R-DG--KHTVRY-R-D-G-DVEHLDLREER
+#=GR UniRef90_E1ZNB8/733-784          PP 6799**********.****.***********.*.**..******.*.*.*.***99887776
+UniRef90_A0A1D6J9L0/643-692              --NLIGSRIKVWWP-DDKM-FYAGVVESFDA-S-SK--KHKVSY-D-D-G-DVEVLMLKKER
+#=GR UniRef90_A0A1D6J9L0/643-692      PP ..699*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A0D9W6T6/581-631              -GSLIGSRIKVWWP-DDKK-FYTGVVHSFDS-S-SK--KHKVVY-D-D-G-DIERLLLKKEK
+#=GR UniRef90_A0A0D9W6T6/581-631      PP .89***********.****.***********.*.**..******.*.*.*.********996
+UniRef90_A0A090MB60/2097-2141            GANVVGREVEVFWP-GDEC-FYYGTVDGFRP-E-SG--EHEVVY-D-D-G-NKEI-------
+#=GR UniRef90_A0A090MB60/2097-2141    PP 6789**********.****.***********.*.**..******.9.9.9.8874.......
+UniRef90_A0A7S2BDC1/53-95                GGFEIGDRIEVWWA-DEES-WFPGVVRSKDG-S-KG---YGVDY-E-D-G-DED--------
+#=GR UniRef90_A0A7S2BDC1/53-95        PP 67789*********.****.**********9.9.88...78***.*.*.*.976........
+UniRef90_A0A7S2BDC1/177-219              GGFEIGDRIEVWWA-DEES-WFPGVVRSKDG-S-KG---YGVDY-E-D-G-DED--------
+#=GR UniRef90_A0A7S2BDC1/177-219      PP 67789*********.****.**********9.9.88...78***.*.*.*.976........
+UniRef90_A0A1D6E6V2/397-446              --NLIGSRIKVWWP-DDKM-FYAGVVESFDA-S-SK--KHKVSY-D-D-G-DVEVLALKKER
+#=GR UniRef90_A0A1D6E6V2/397-446      PP ..699*********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A5J5AFU8/79-127               ---IVGMRVKVYWS-GSRR-WFVGSIKSFDV-E-KG--LHKIHY-D-D-G-DKEELDLRQER
+#=GR UniRef90_A0A5J5AFU8/79-127       PP ...7999*******.****.***********.*.**..******.*.*.*.***99887776
+UniRef90_A0A5J5AFU8/291-339              ---IVGMRVKVYWS-GSRR-WFIGSIKSFDV-E-TG--LHKIHY-D-D-G-DREELDLRQER
+#=GR UniRef90_A0A5J5AFU8/291-339      PP ...7999*******.****.***********.*.**..******.*.*.*.***99887776
+UniRef90_A0A7S0REU5/191-237              ---LIGRNVRIFWP-NDQC-WYTGKINGYNL-E-TG--QHTVRY-L-D-G-EKEHLDLSS--
+#=GR UniRef90_A0A7S0REU5/191-237      PP ...89*********.****.***********.*.**..******.*.*.*.*99987765..
+UniRef90_A0A7S3VJB3/140-182              ---AVGKELKVYWP-GERK-WFAGVVASYDA-A-RD--RHRVAY-Q-D-G-DSQAH------
+#=GR UniRef90_A0A7S3VJB3/140-182      PP ...69*********.****.***********.*.**..******.*.*.*.*9865......
+UniRef90_A0A0A9F502/46-95                -GSLVGARIKVWWP-DDKM-FYNGVVDSFDS-V-SK--RHKVAY-D-D-G-DVEVLLLREE-
+#=GR UniRef90_A0A0A9F502/46-95        PP .89***********.****.***********.*.**..******.*.*.*.***9999877.
+UniRef90_A0A1D6E6U5/644-693              --NLIGSRIKVWWP-DDKM-FYAGVVESFDA-S-SK--KHKVSY-D-D-G-DVEVLALKKER
+#=GR UniRef90_A0A1D6E6U5/644-693      PP ..699*********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_C5YBJ5/623-672                  --NLVGSRIKVWWP-DDKM-FYVGVVESFDA-S-SK--KHKVSY-D-D-G-DVEVLVLKKER
+#=GR UniRef90_C5YBJ5/623-672          PP ..69**********.****.***********.*.**..******.*.*.*.********998
+UniRef90_A0A5J4Y7Z3/1367-1401            ----VGQKCKVFWP-DDAE-WYDAVVRAYDR-S-NG--KHNVWY-S----------------
+#=GR UniRef90_A0A5J4Y7Z3/1367-1401    PP ....89999*****.****.***********.*.**..***998.6................
+UniRef90_A0A5J4Y7Z3/1484-1531            ---AVGQQVAIWWP-DDHA-WYHGRVQGFQT-A-KG--EHLVHY-E-D-N-EVEWLNLGKE-
+#=GR UniRef90_A0A5J4Y7Z3/1484-1531    PP ...699********.****.***********.*.**..******.*.*.9.9999888876.
+UniRef90_E1ZL62/484-535                  GGELVGRRVAVYWP-EDGQ-WYSGFVADFSS-A-SK--RHFVLY-G-D-G-DEELLLLHQER
+#=GR UniRef90_E1ZL62/484-535          PP 8*************.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A287ISI5/441-491              -GSLVGSRIKVWWP-DDKK-FYEGAVKSFDA-S-SK--KHKVVY-D-D-G-DVERLQLKNER
+#=GR UniRef90_A0A287ISI5/441-491      PP .89***********.****.***********.*.**..******.*.*.*.*****998887
+UniRef90_A0A096P8W9/274-321              ----IGAVVRVWWP-MDEA-YYEAKVKAYDK-E-TR--EHTVLY-V-DDG-VEERVNFKKE-
+#=GR UniRef90_A0A096P8W9/274-321      PP ....78999*****.9999.999********.*.**..******.8.626.6788888777.
+UniRef90_A0A096P8W9/386-431              --GLVGRHVKVWWP-LDKA-WYTAEVRGYDD-G-TR--EHVVFY-F-E-DSEEEKLQ-----
+#=GR UniRef90_A0A096P8W9/386-431      PP ..69**********.****.***********.*.**..****99.6.5.40444554.....
+UniRef90_K3Y575/585-634                  --NLVGSRIKVWWP-DDKM-FYEGVVESFDA-S-SK--KHKVAY-D-D-G-DVEVLMLRKEK
+#=GR UniRef90_K3Y575/585-634          PP ..69**********.****.***********.*.**..******.*.*.*.******99985
+UniRef90_A0A0K9R3I5/639-690              GKELVGSTIHVWWP-DDKE-FYKGVVEHFDP-G-SG--KHKVIY-S-D-G-DVEVLKLEKEK
+#=GR UniRef90_A0A0K9R3I5/639-690      PP 679***********.****.***********.*.**..******.*.*.*.********996
+UniRef90_K8FF04/2302-2350                GADSIGRLVEVFWP-VHET-FFNAVIESFRA-D-TG--EHEVLY-D-D-G-SRETVQLS---
+#=GR UniRef90_K8FF04/2302-2350        PP 7899**********.****.999********.*.**..******.*.*.*.*9999875...
+UniRef90_A0A287ISF6/547-597              -GSLVGSRIKVWWP-DDKK-FYEGAVKSFDA-S-SK--KHKVVY-D-D-G-DVERLQLKNER
+#=GR UniRef90_A0A287ISF6/547-597      PP .89***********.****.***********.*.**..******.*.*.*.*****998886
+UniRef90_UPI001ADC6AA9/590-640           -GSLIGSRIKVWWP-DDKK-FYKGVVKSFDV-T-SK--KHKVVY-D-D-G-DIERLQLKKEK
+#=GR UniRef90_UPI001ADC6AA9/590-640   PP .89***********.****.***********.*.**..******.*.*.*.*******9985
+UniRef90_A0A6A0A0Y4/2-48                 ----LGRSVRLFWP-NHSA-WFAGRITGYDA-A-SG--KHHVEY-S-D-G-DKEWVLLAVE-
+#=GR UniRef90_A0A6A0A0Y4/2-48         PP ....79********.****.***********.*.**..******.*.*.*.******9766.
+UniRef90_C1MHR1/827-876                  -ESIVGRRIGLYWP-LDEC-FYLGTVDEFMP-T-TG--EHTVRY-D-D-G-EAEDLLLPMQ-
+#=GR UniRef90_C1MHR1/827-876          PP .579**********.****.***********.*.**..******.*.*.*.*****99876.
+UniRef90_C1MHR1/1582-1629                -AKAVGTALEILWP-DDET-FYPCKVTAYNA-R-NR--SHMVKYDA-D-G-ITEDIQL----
+#=GR UniRef90_C1MHR1/1582-1629        PP .6689*********.****.***********.*.**..*****966.7.8.8988776....
+UniRef90_A0A2G5DQJ4/640-691              GEDLVGSTIKVWWP-DDKK-FYEGVVESFDP-S-LN--KHKVSY-L-D-G-DEEVLLLKDER
+#=GR UniRef90_A0A2G5DQJ4/640-691      PP 67************.****.***********.*.**..******.*.*.*.*9999887776
+UniRef90_UPI000B78253E/643-694           GKELVGLKVQVWWP-DDKK-YYKGVIEHFEP-A-SG--KHKVLY-S-D-G-DVEVLKLEKEK
+#=GR UniRef90_UPI000B78253E/643-694   PP 678***********.****.***********.*.**..******.*.*.*.********996
+UniRef90_A0A0A9KG14/353-402              -GSLVGARIKVWWP-DDKM-FYNGVVDSFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0A9KG14/353-402      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A0A9CLA4/46-95                -GSLVGSRIKVWWP-DDKM-FYKGVVDSFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0A9CLA4/46-95        PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A383WMX1/15-57                ---LLGRRVTVKWD---SG-WFSGKVTAFNA-N-SF--KHKVEY-D-D-G-DAEELLV----
+#=GR UniRef90_A0A383WMX1/15-57        PP ...78999999995...57.99*********.*.**..******.*.*.*.***9886....
+UniRef90_A0A383WMX1/299-346              ---LVGRVLRVFWA-ADDA-WFPGGVESYDA-A-TG--RHKVKY-K-D-G-EEEDLWLGIE-
+#=GR UniRef90_A0A383WMX1/299-346      PP ...89*********.****.**999******.*.**..******.*.*.*.*998877665.
+UniRef90_A0A7S3C7M5/1-48                 GQDAVGWRVGIWSM-DQEK-YFNGEIKSFDE-K-SG--KHLVKY-D-S-G-EQRLMTI----
+#=GR UniRef90_A0A7S3C7M5/1-48         PP 6799********99.9887.7778899****.*.**..******.*.*.9.8765555....
+UniRef90_A0A7S3C7M5/63-113               GEDAVGWRVEVYFY-AEEM-YFKGQVMSFDV-N-KG--KHVVRF-D-NAG-EEIEISLDQ--
+#=GR UniRef90_A0A7S3C7M5/63-113       PP 6799*********9.9999.99999******.*.**..***977.5.313.444566776..
+UniRef90_Q0JBZ3/587-636                  -GNLVGSRIKVWWP-DDRK-FYKGVVESFDV-A-SK--KHKVVY-D-D-G-DVERLHLKNE-
+#=GR UniRef90_Q0JBZ3/587-636          PP .89***********.****.***********.*.**..******.*.*.*.****988776.
+UniRef90_A0A498HSY5/648-699              GEDMVGSKIKVWWP-KDRT-FYEGVVASFDC-A-KK--KHKVSY-T-D-G-DKETLNLKKER
+#=GR UniRef90_A0A498HSY5/648-699      PP 679***********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A087SI79/19-58                GSEVVGRSLAIWSA-QLME-WPKAVITGHDP-A-TG--RHAIKY-R-G--------------
+#=GR UniRef90_A0A087SI79/19-58        PP 7899**********.****.***********.*.**..******.8.8..............
+UniRef90_A0A087SI79/101-146              ---LVGCRVKVFWP-GMAK-WYLGKVVGFDA-K-TR--QHSIKY-R-D-G-DAQHLTLR---
+#=GR UniRef90_A0A087SI79/101-146      PP ...8999*******.****.***********.*.**..******.*.*.*.**998775...
+UniRef90_A0A1Z5RJ59/692-741              --NLVGSRIKVWWP-DDKM-FYAGVVESFNA-S-SK--KHKVLY-D-D-G-DVEVLVLKKER
+#=GR UniRef90_A0A1Z5RJ59/692-741      PP ..69**********.****.***********.*.**..******.*.*.*.********998
+UniRef90_A0A2V0NZS4/426-476              -AGAVGRRVRVWWP-SDRC-WYAGRLTAFTP-A-DG--IFTVRY-E-D-G-DIERLALDAER
+#=GR UniRef90_A0A2V0NZS4/426-476      PP .5679*********.****.***********.*.**..******.*.*.*.********997
+UniRef90_A0A1E5VTJ8/540-588              --NLVGSRIKVWWP-DDKM-FYKGVVESFDA-S-SK--KHKVAY-D-D-G-DVEVLALMKE-
+#=GR UniRef90_A0A1E5VTJ8/540-588      PP ..69**********.****.***********.*.**..******.*.*.*.***9999888.
+UniRef90_A0A0D2JHI5/226-269              ----AGRRLRIYWP-AMQR-WYIGDVKSFDP-I-SD--RHKIWY-R-D-G-DSQDLWL----
+#=GR UniRef90_A0A0D2JHI5/226-269      PP ....7999******.****.***********.*.**..******.*.*.*.*998766....
+UniRef90_A0A0D2JHI5/400-449              --SLVGCRVSVFWR-SDKL-SYRGKLASYSP-T-SG--KFTVRY-D-D-G-QSEQLHVERER
+#=GR UniRef90_A0A0D2JHI5/400-449      PP ..58999*******.****.999********.*.**..******.*.*.*.****9999987
+UniRef90_A0A446L8F2/547-597              -GSLVGSRIKVWWP-DDKK-FYKGAVKSFDA-S-AK--KHKVVY-D-D-G-DIEHLLLKNER
+#=GR UniRef90_A0A446L8F2/547-597      PP .89***********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A446L8F6/547-597              -GSLVGSRIKVWWP-DDKK-FYKGAVKSFDA-S-AK--KHKVVY-D-D-G-DIEHLLLKNER
+#=GR UniRef90_A0A446L8F6/547-597      PP .89***********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A7R9YR65/20-65                GPELLGQSVSVYQP-RAKA-WTICTVREYNE-S-SG--QHTLVA-A-D-G-KTSSL------
+#=GR UniRef90_A0A7R9YR65/20-65        PP 6789**********.****.***********.*.**..******.*.9.9.99876......
+UniRef90_A0A7R9YR65/99-139               --SAIGRRLRVFWP-RMGR-YYQGTVSAYSA-S-DN--KHRVDY-P-NDG-D----------
+#=GR UniRef90_A0A7R9YR65/99-139       PP ..679*********.****.***********.*.**..******.7.525.5..........
+UniRef90_A0A0A9AIG4/167-216              -GSLVGARIKIWWP-DDKM-FYNGVVELFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0A9AIG4/167-216      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A1D2A7L6/19-58                GSEVVGRSLAIWSA-QLME-WPKAVITGHDP-A-TG--RHAIKY-R-G--------------
+#=GR UniRef90_A0A1D2A7L6/19-58        PP 7899**********.****.***********.*.**..******.8.8..............
+UniRef90_A0A1D2A7L6/101-146              ---LVGCRVKVFWP-GMAK-WYLGKVVGFDA-K-TR--QHSIKY-R-D-G-DAQHLTLR---
+#=GR UniRef90_A0A1D2A7L6/101-146      PP ...8999*******.****.***********.*.**..******.*.*.*.**998775...
+UniRef90_K3YQ41/529-578                  -GSLVGARIKVWWP-DDKM-FYNGVVESFDS-G-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_K3YQ41/529-578          PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A0A9NX54/31-81                GADLVGRRIKVWWP-LDKK-FYEGVVKSYDS-S-KK--KHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_A0A0A9NX54/31-81        PP 78************.9999.999********.*.**..******.*.*.*.***9999888.
+UniRef90_A0A1D6HCZ3/50-98                --SLVGARIKVWWP-DDKM-FYNGVVESFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A1D6HCZ3/50-98        PP ..599*********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A0A9RNW1/576-624              --NLVGSRIKVWWP-DDKM-FYDGVVESFDT-S-SK--KHKVAY-D-D-G-DVEVLLLKNE-
+#=GR UniRef90_A0A0A9RNW1/576-624      PP ..69**********.****.***********.*.**..******.*.*.*.***9999877.
+UniRef90_A0A2S3GRB4/526-575              -GSLVGARIKVWWP-DDKM-FYKGVVASFDS-G-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A2S3GRB4/526-575      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A2T7F8W7/534-583              -GSLVGARIKVWWP-DDKM-FYKGVVASFDS-G-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A2T7F8W7/534-583      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A2K2DGD0/498-547              -GSLIGSRIKVWWP-DDKK-FYNGVVKIFDA-N-SK--KHKVVY-D-D-G-DIEILLLKDE-
+#=GR UniRef90_A0A2K2DGD0/498-547      PP .89***********.****.***********.*.**..******.*.*.*.***9998766.
+UniRef90_W5C091/546-596                  -GSLVGSRIKVWWP-DDKK-FYKGAVKSFDA-S-AK--KHKVVY-D-D-G-DIEHLLLKNER
+#=GR UniRef90_W5C091/546-596          PP .89***********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A5J9TVZ5/313-364              GKNLVGSRIRVWWP-DDKM-FYNGVIESFNT-S-SK--KHKVAY-N-D-G-DVEILLLRNER
+#=GR UniRef90_A0A5J9TVZ5/313-364      PP 5689**********.****.***********.*.**..******.*.*.*.*****998886
+UniRef90_A0A1D6Q4R6/610-658              --SLVGARIKVWWP-DDKM-FYNGIVESFDA-V-SK--RHKVAY-D-D-G-DVEVLLLREE-
+#=GR UniRef90_A0A1D6Q4R6/610-658      PP ..599*********.****.***********.*.**..******.*.*.*.***9999776.
+UniRef90_UPI0019208E63/647-697           -GGLVGSRIKVWWP-DDKA-FYDGVVDSFDP-V-SK--KHKILY-D-D-G-DIEILLLKNER
+#=GR UniRef90_UPI0019208E63/647-697   PP .78***********.****.***********.*.**..******.*.*.*.****9999887
+UniRef90_I1IZC1/575-624                  -GSLIGSRIKVWWP-DDKK-FYNGVVKKFDA-N-SK--KHKVVY-D-D-G-DIEILLLKDE-
+#=GR UniRef90_I1IZC1/575-624          PP .89***********.****.***********.*.**..******.*.*.*.***9998766.
+UniRef90_A0A2K3PAF3/276-325              --DIIGCRIKIWWP-SDKK-FYGGTIKSYDS-L-KG--KHVVLY-D-D-G-DVEILRLDKER
+#=GR UniRef90_A0A2K3PAF3/276-325      PP ..899*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A0A9AXQ1/385-434              -GSLVGARIKIWWP-DDKM-FYNGVVELFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0A9AXQ1/385-434      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_UPI00098E39BB/629-678           --SLVGSKIKVWWP-DDKE-FYGGVVDSYDP-D-TK--KHTVAY-E-D-G-DIEVLLLMDER
+#=GR UniRef90_UPI00098E39BB/629-678   PP ..69**********.****.***********.*.**..******.*.*.*.***99987665
+UniRef90_M0SZ27/46-96                    -GGLVGSRIRVWWP-MDKK-FYNGVVDSYDH-A-SK--KHKIVY-T-D-G-DVEILLMKKER
+#=GR UniRef90_M0SZ27/46-96            PP .78***********.9999.9999*******.*.**..******.*.*.*.*******9998
+UniRef90_A0A164V430/874-924              -MNLVGAKIKVWWP-DDKQ-YYEGIIESFDR-A-KK--KHKVSY-T-D-G-DEEVLHLQKER
+#=GR UniRef90_A0A164V430/874-924      PP .689**********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A5N6NNN2/1344-1393            --DLIGRQIRVWWP-MDKA-FYGGVVKSYDN-Q-TK--KHVVLY-D-D-G-DVEVLQLDKER
+#=GR UniRef90_A0A5N6NNN2/1344-1393    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7N0R8F7/718-769              GEELVGSKVKVWWP-VDKK-YYKGVIESFDS-A-KN--KHKVLY-A-D-G-EVEHLVLKKQR
+#=GR UniRef90_A0A7N0R8F7/718-769      PP 5589**********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A438IHD3/383-434              GEELVGSKIKVWWP-DDET-FYEGVIDSFDP-K-ES--KHKVLY-A-D-G-DVEVLILKEER
+#=GR UniRef90_A0A438IHD3/383-434      PP 678***********.****.***********.*.**..******.*.*.*.***99998886
+UniRef90_A0A2V0PDY2/41-88                ---LVGRRLKVLFD-DGNA-YTGR-VARYDA-E-TQ--EHEIKY-D-D-G-DAEVSLLCKDR
+#=GR UniRef90_A0A2V0PDY2/41-88        PP ...89*********.****.9976.799***.*.**..******.*.*.*.***99999986
+UniRef90_A0A2V0PDY2/527-567              ---LVGRAVRVFWE-VDDA-WFLGEVAAWDP-A-SA--QHTIRY-A-D---DSEA-------
+#=GR UniRef90_A0A2V0PDY2/527-567      PP ...89*********.****.***********.*.**..******.9.6...5554.......
+UniRef90_A0A7S0XHG4/149-188              ----VGATIRVWWP-DDTC-FYEARVKAWDR-D-TD--VHTILY-V-E-D-GIE--------
+#=GR UniRef90_A0A7S0XHG4/149-188      PP ....7999******.****.***********.*.**..****99.8.6.5.544........
+UniRef90_A0A7S0XHG4/281-319              -----GTHIRVWWP-LDDA-WYGGEVTGYNT-D-TK--MHNVLY-Y-D-G-IEE--------
+#=GR UniRef90_A0A7S0XHG4/281-319      PP .....7889*****.****.***********.*.**..****99.8.8.8.655........
+UniRef90_A0A2Z6LHQ3/683-732              --DIIGCRIKIWWP-SDKK-FYGGTIKSYDS-F-KG--KHVILY-D-D-G-DVEIVRLDKER
+#=GR UniRef90_A0A2Z6LHQ3/683-732      PP ..899*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_C0PDM6/560-608                  --SLVGARIKVWWP-DDKM-FYNGVVESFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_C0PDM6/560-608          PP ..599*********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A118JX79/1299-1348            --DLIGRRIKVWWP-MDKA-FYGGVVKSYDH-Q-KK--KHVVLY-D-D-G-DIEVLYLDKER
+#=GR UniRef90_A0A118JX79/1299-1348    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A1U8GUL7/639-690              GRNLVGKKIKVWWP-LDEK-FYEGIVGSYDS-S-KK--KFTVNY-V-D-G-DVEKINLSKER
+#=GR UniRef90_A0A1U8GUL7/639-690      PP 5689**********.6555.6678*******.*.**..******.*.*.*.*********98
+UniRef90_A0A0D2LHD2/287-337              GASLVGHRVRVWWP-RDRC-WYAGIVTAFV--P-PH--KHTISY-D-D-G-DVETLHLSKQR
+#=GR UniRef90_A0A0D2LHD2/287-337      PP 6789**********.****.*********6..5.68..******.*.*.*.*****999987
+UniRef90_I0Z7I5/397-443                  ---AIGWRVSIYWP-DNAT-FYDGEVIGFDN-V-TL--RHHVMY-D-S-G-DQEHLILDT--
+#=GR UniRef90_I0Z7I5/397-443          PP ...689999*****.****.***********.*.**..******.*.*.*.*******96..
+UniRef90_A0A446MHB4/372-422              -GSLVGSRIKVWWP-DDKK-FYKGAVKSFDA-S-AK--KHKVVY-D-D-G-DIEHLQLKNER
+#=GR UniRef90_A0A446MHB4/372-422      PP .89***********.****.***********.*.**..******.*.*.*.****9998886
+UniRef90_UPI00146C8BAC/19-69             GQNLVGLRVKVWWP-DDRE-FYKGVIVSFDS-A-KK--KHKVLY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_UPI00146C8BAC/19-69     PP 6689**********.****.***********.*.**..******.*.*.*.***9999888.
+UniRef90_UPI0019208840/623-672           --SLVGSRIKVWWP-DDKA-FYDGVVESFDP-V-SK--KHKILY-D-D-G-DIEILLLKNER
+#=GR UniRef90_UPI0019208840/623-672   PP ..59**********.****.***********.*.**..******.*.*.*.****9999887
+UniRef90_A0A7S0KGS2/740-788              GDSVIGRRVAIWWP-TEEL-FFFGRIEGYNV-G-NG--EHQVRY-D-D-G-QKEECMLF---
+#=GR UniRef90_A0A7S0KGS2/740-788      PP 55689*********.****.***********.*.**..******.*.*.*.*9998875...
+UniRef90_A0A7S0KGS2/1355-1396            -----SEIIEVYWA-PEDT-WFRAKVIKYSH-A-RR--EHTVRY-E-A-D-DTEETL-----
+#=GR UniRef90_A0A7S0KGS2/1355-1396    PP .....5689*****.****.***********.*.**..******.*.*.*.***876.....
+UniRef90_A0A0A9N1Y0/31-81                GADLVGHQIKVWWP-LDKK-FYEGVVKSYDS-S-KK--KHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_A0A0A9N1Y0/31-81        PP 78************.9999.999********.*.**..******.*.*.*.***9999888.
+UniRef90_A0A7J6VB06/636-687              GEDLVGSRIKVWWP-DDRK-FYEGVVESFDP-S-LN--KHKVSY-L-D-G-DEEILVLKDER
+#=GR UniRef90_A0A7J6VB06/636-687      PP 679***********.****.***********.*.**..******.*.*.*.*9988887665
+UniRef90_C5XXC4/572-620                  --SLVGARIKVWWP-DDKM-FYNGVVESFDS-V-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_C5XXC4/572-620          PP ..599*********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A251RZJ9/1344-1393            --DLVGRRIQVWWP-MDKA-FYKGVVKSYDP-E-KK--KHVVSY-D-D-G-DVEVLQLDKER
+#=GR UniRef90_A0A251RZJ9/1344-1393    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_F6HYI4/644-695                  GEELVGSKIKVWWP-DDET-FYEGVIDSFDP-K-ES--KHKVLY-A-D-G-DVEVLILKEER
+#=GR UniRef90_F6HYI4/644-695          PP 678***********.****.***********.*.**..******.*.*.*.***99998886
+UniRef90_M0TBH6/24-74                    -GSLVDSRIRVWWP-IDKK-FYDGVVDSYDL-A-SK--KHKVIY-S-D-G-DVEILLLKKER
+#=GR UniRef90_M0TBH6/24-74            PP .8899*********.*999.99*********.*.**..******.*.*.*.*********98
+UniRef90_A0A2J6JPJ7/34-78                --SLVGLKVKVWWP-EDKT-YYEGVIESFDS-A-KK--KHKVSY-V-D-G-DEEILN-----
+#=GR UniRef90_A0A2J6JPJ7/34-78        PP ..589*********.****.***********.*.**..******.*.*.*.*88654.....
+UniRef90_A0A7N2KTV6/637-688              GENLVGSRIKVWWP-DDQA-FYEGVIDSFDP-A-SK--KHKVSY-N-D-G-DEEILSLKTER
+#=GR UniRef90_A0A7N2KTV6/637-688      PP 5689**********.****.***********.*.**..******.*.*.*.*9988777665
+UniRef90_A0A6G1EGV5/502-550              --SLVGARIQVWWP-DDKK-FYKGVVDSFDT-A-SK--RHKIAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A6G1EGV5/502-550      PP ..69**********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A1B6PB05/600-649              --NLIGSRIKVWWP-DDKM-FYAGFVESFEH-S-SK--KHKVSY-D-D-G-DIEFLVLKKER
+#=GR UniRef90_A0A1B6PB05/600-649      PP ..699*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI00057A0CB0/620-669           --SLVGSRIKVWWP-DDKA-FYDGVVDSFDP-V-SK--KHKILY-D-D-G-DIEVLLLKNER
+#=GR UniRef90_UPI00057A0CB0/620-669   PP ..59**********.****.***********.*.**..******.*.*.*.***99999887
+UniRef90_A0A1E5VPW8/572-621              -GSLVGARIKVWWP-DDKM-FYKGVVESFDS-G-SK--RHKVAY-D-D-G-DVEVLMLKDE-
+#=GR UniRef90_A0A1E5VPW8/572-621      PP .89***********.****.***********.*.**..******.*.*.*.***9888665.
+UniRef90_A0A5J9TVF9/494-543              --NLVGSRIKVWWS-DDKM-FYTGVIKSFNA-S-SK--KHKVAY-D-D-G-DVEVLLLKKEK
+#=GR UniRef90_A0A5J9TVF9/494-543      PP ..69**********.****.***********.*.**..******.*.*.*.*******9986
+UniRef90_U5CZ75/611-660                  --SLVGSRIKVWWP-RDKQ-FYEGIVQSFDS-E-KK--KHTVAY-T-D-G-DVEVLKLEKER
+#=GR UniRef90_U5CZ75/611-660          PP ..59**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A2K3P6T8/464-512              --SLVGKRVKVWWP-EDNE-FYKGVVDSFDS-S-SK--KHTVSY-D-D-G-DEEILNFDDE-
+#=GR UniRef90_A0A2K3P6T8/464-512      PP ..59**********.****.***********.*.**..******.*.*.*.*998877776.
+UniRef90_S8C8C9/48-99                    GEDVVGRKINVWWP-MDEK-YYPGTVKSFDV-V-KK--KHVILY-D-D-G-DVEILRLDKER
+#=GR UniRef90_S8C8C9/48-99            PP 679***********.7777.778899*****.*.**..******.*.*.*.*********98
+UniRef90_A0A0D9VI84/493-541              --SLVGARIQVWWP-DDKK-FYKGVVDSFDT-A-SK--RHKIAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0D9VI84/493-541      PP ..69**********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_UPI000F7C9CA9/633-683           GQELVGSRVKVWWP-DDQM-FYEGVVDYFDS-A-TK--RHKVSY-D-D-G-DEEVLLLKRE-
+#=GR UniRef90_UPI000F7C9CA9/633-683   PP 678***********.****.***********.*.**..******.*.*.*.**99999887.
+UniRef90_A0A7S3C8B3/276-319              ----VGYRVGVWWP-RSLC-FFYGNIVSYEK----E--KHKIEY-D-D-G-QTAYVTLSK--
+#=GR UniRef90_A0A7S3C8B3/276-319      PP ....88999*****.****.*9999999985....6..9*****.*.*.*.***999988..
+UniRef90_A0A7S3C8B3/378-419              ----VGWRLGLLWE-EDNT-YYYGLVKSYDA-A-EG--KHTILY-D-D-G-SVESI------
+#=GR UniRef90_A0A7S3C8B3/378-419      PP ....67778889**.****.***********.*.**..******.*.*.*.99987......
+UniRef90_UPI0009E34DEB/657-704           ---LIGAKIKVWWP-DDEC-FYEGIVDSFDR-S-TK--KHKVLY-N-D-G-DVEVLLLKNE-
+#=GR UniRef90_UPI0009E34DEB/657-704   PP ...89*********.****.***********.*.**..******.*.*.*.***9999877.
+UniRef90_UPI0010A080F4/86-134            --EVVGKRIRVYWP-LDKS-WYEGHVRSFDE-A-SG--KHVIQY-D-D-G-EEEFLDMEKE-
+#=GR UniRef90_UPI0010A080F4/86-134    PP ..79**********.****.***********.*.**..******.*.*.*.9998888887.
+UniRef90_A0A0P0VLP8/494-542              --SLVGARIQVWWP-DDKK-FYKGIVDSFDT-A-SK--RHKIAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A0P0VLP8/494-542      PP ..69**********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A251S4F8/92-143               GDEVVNRRIRVYWP-LDKC-WYEGCVKSFDK-S-SG--KHLVQY-D-D-A-EEERLDLSKEK
+#=GR UniRef90_A0A251S4F8/92-143       PP 567999********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A6P5MBU5/1360-1409            --DLIGCRIKVWWP-SDKK-FYGGTVKSYDS-L-KG--KHVILY-D-D-G-DVEILRLEKER
+#=GR UniRef90_A0A6P5MBU5/1360-1409    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A314L798/733-782              --SLVGLKVKVWWP-HDRS-FYEGVISAFDS-G-KR--KHTVSY-D-D-G-ETEVLNLRKER
+#=GR UniRef90_A0A314L798/733-782      PP ..589*********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A5N6MMK0/694-743              --SLIGQKVKVWWP-HDKM-YYEGVVESFDS-A-MK--KHTVLY-L-D-G-DQETLNLRKEK
+#=GR UniRef90_A0A5N6MMK0/694-743      PP ..599*********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_A0A498JC84/640-691              GEEMVGSKIKVWWP-KDRT-FYEGVVTYFDS-A-KK--KHKVSY-T-D-G-DVETLNLKKER
+#=GR UniRef90_A0A498JC84/640-691      PP 5689**********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A0A9CJM6/257-305              --DLVGHRIKVWWP-LDKK-FYEGVVKSFDS-S-KK--KHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_A0A0A9CJM6/257-305      PP ..9***********.9999.999********.*.**..******.*.*.*.***9989888.
+UniRef90_A0A7C9EC59/90-139               --DLVGCRIKVWWP-LDRR-YYEGIISSYDA-P-TR--KHKVDY-D-D-G-DEEILNLRKER
+#=GR UniRef90_A0A7C9EC59/90-139       PP ..9***********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A7J7DAS9/616-667              GEELIGKKIKVWWP-LDKA-YYEGVIDSFDS-V-KK--KHKVAY-H-D-G-DVEELYLNREK
+#=GR UniRef90_A0A7J7DAS9/616-667      PP 678***********.****.***********.*.**..******.*.*.*.******99985
+UniRef90_A0A6G1BVA1/585-634              -GSLVGSRIKVWWP-VDKK-FYKGVVKSFDV-S-SK--KHKVVY-D-D-G-DVERLHLKNE-
+#=GR UniRef90_A0A6G1BVA1/585-634      PP .89***********.*999.99*********.*.**..******.*.*.*.****988776.
+UniRef90_A0A6A2X832/28-77                -DYLIGLKVKVWWP-KDRA-FYEGVIYSFDA-A-KK--KHKVHY-D-D-G-DTEILNLKRE-
+#=GR UniRef90_A0A6A2X832/28-77        PP .4589*********.****.***********.*.**..******.*.*.*.***9888776.
+UniRef90_A0A4D9A005/1386-1436            -GDLIGCRIKVWWP-VDKL-YYEGVVKSFDT-E-KN--KHVVLY-D-D-G-DVEVLRLDRER
+#=GR UniRef90_A0A4D9A005/1386-1436    PP .9************.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A445AY65/1356-1405            --DLIGCRIKVWWP-SDKK-FYGGTVKSYDS-L-KG--KHVILY-D-D-G-DVEILRLEKER
+#=GR UniRef90_A0A445AY65/1356-1405    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI0009012E8A/57-105            ---LVGRRIKVWWT-FEQT-FYEGSITYFDY-F-KK--KHEVIY-N-D-G-DVEVLNLSKER
+#=GR UniRef90_UPI0009012E8A/57-105    PP ...9**********.****.***********.*.**..******.*.*.*.****99*9997
+UniRef90_A0A7R9T3W9/2082-2122            ---CVKREIEVFWP-GDEC-FYYGTVEGFRP-E-SG--EHEVVY-D-D-G-NKE--------
+#=GR UniRef90_A0A7R9T3W9/2082-2122    PP ...57789******.****.***********.*.**..******.9.9.9.877........
+UniRef90_A0A2U1M2V5/838-886              --SLVAKKVKVWWP-EDKE-YYEGVIESFDA-A-KK--KHKVSY-V-D-G-DEENLYLKNQ-
+#=GR UniRef90_A0A2U1M2V5/838-886      PP ..5899********.****.***********.*.**..******.*.*.*.***9988766.
+UniRef90_A0A2I0XID5/86-134               --EVVGKRIRVYWP-LDKS-WYEGHVRSFDE-A-SG--KHVIQY-D-D-G-EEEFLDMEKE-
+#=GR UniRef90_A0A2I0XID5/86-134       PP ..79**********.****.***********.*.**..******.*.*.*.9998888887.
+UniRef90_A0A6G1BWV4/585-634              -GSLVGSRIKVWWP-VDKK-FYKGVVKSFDV-S-SK--KHKVVY-D-D-G-DVERLHLKNE-
+#=GR UniRef90_A0A6G1BWV4/585-634      PP .89***********.*999.99*********.*.**..******.*.*.*.****988776.
+UniRef90_A0A6S7MK84/776-825              --SLIGLKVKVWWP-DDHK-YYEGVIESFDS-A-KN--KHKVSY-V-D-G-DVETLNLKKEK
+#=GR UniRef90_A0A6S7MK84/776-825      PP ..589*********.****.***********.*.**..******.*.*.*.****9999985
+UniRef90_A0A446VHH2/421-470              -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A446VHH2/421-470      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A2I0W095/618-667              --EIIGREIEVWWP-DDKK-FYKGVIDAFDP-V-TE--KHRVVY-D-D-G-DVEILFLRNER
+#=GR UniRef90_A0A2I0W095/618-667      PP ..589*********.****.***********.*.**..******.*.*.*.***99988776
+UniRef90_A0A2J6L396/803-852              --SLIGLKVKVWWP-DDHK-YYEGVIESFDS-A-KN--KHKVSY-V-D-G-DVETLNLKKEK
+#=GR UniRef90_A0A2J6L396/803-852      PP ..589*********.****.***********.*.**..******.*.*.*.****9999985
+UniRef90_A0A061R6D4/78-114               ---LLGIQVEVFWP-EDGG-FYSGEVTEFDR-K-TW--KHTVLY-A-L--------------
+#=GR UniRef90_A0A061R6D4/78-114       PP ...78999******.****.***********.*.**..*****9.8.5..............
+UniRef90_A0A061R6D4/420-462              -------RVMVFWV-ADKR-WYCGKVTKFDP-K-TY--MHTIHY-T-D-G-ERENLLLST--
+#=GR UniRef90_A0A061R6D4/420-462      PP .......57799**.****.***********.*.**..******.*.*.*.*****9975..
+UniRef90_A0A2J6KE87/98-149               GDEVVNRRIKVYWP-LDKA-WYEGCVKAFDK-S-SG--KHLVQY-D-D-G-EEEHLDLSKEK
+#=GR UniRef90_A0A2J6KE87/98-149       PP 567999********.****.***********.*.**..******.*.*.*.****9999985
+UniRef90_A0A7R9TMR4/293-343              GEDAIDRRVKVFWP-EENA-FFSGVVTGFDK-K-SG--NHTVCY-D-D-G-DVEEINLSKE-
+#=GR UniRef90_A0A7R9TMR4/293-343      PP 6789999*******.****.***********.*.**..******.*.*.*.******9998.
+UniRef90_A0A0V0IVM0/507-558              GAELIGAKIKVWWP-LEQA-FYKGVISSFDS-E-TN--KHKVVY-D-D-G-EAEKLRLHKER
+#=GR UniRef90_A0A0V0IVM0/507-558      PP 789***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A0K9NRB1/471-522              GQELIGSSIKVWWP-IDKE-FYHGVVDSFNP-S-TK--KHKVLY-A-D-G-ETENLLLKNER
+#=GR UniRef90_A0A0K9NRB1/471-522      PP 678***********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A453P2T7/344-393              -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A453P2T7/344-393      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A2K3M7B7/8-58                 GQNLAGERVEVWWP-KDRV-FYKGVIESFDS-A-KK--KHKVLY-D-D-G-EVEVLNLVKE-
+#=GR UniRef90_A0A2K3M7B7/8-58         PP 56899*********.****.***********.*.**..******.*.*.*.**99888887.
+UniRef90_C1EAG2/966-1015                 -ESVVGRRIAIYWV-DDKS-FYLGVVDSFTP-Q-TG--EHGIKY-D-D-G-EIEDLFLPMQ-
+#=GR UniRef90_C1EAG2/966-1015         PP .5789*********.****.***********.*.**..******.*.*.*.**99988765.
+UniRef90_C1EAG2/1720-1763                ----KGMKLEIYWP-GDDS-FYSGQVVGFDA-V-KL--EHKIKYDA-E-G-EEEHIA-----
+#=GR UniRef90_C1EAG2/1720-1763        PP ....68899*****.9999.9999999****.*.**..*****955.6.7.777765.....
+UniRef90_A0A7J7DP33/621-672              GEELIGKKVQVWWP-LDKK-YYVGVIDSFDS-V-KK--RHKVVY-A-D-G-DIEELYLKKEK
+#=GR UniRef90_A0A7J7DP33/621-672      PP 678***********.****.***********.*.**..******.*.*.*.*******9985
+UniRef90_A0A4V4H4A4/517-567              -GSLVDSRIRVWWP-IDKK-FYDGVVDSYDL-A-SK--KHKVIY-S-D-G-DVEILLLKKER
+#=GR UniRef90_A0A4V4H4A4/517-567      PP .8899*********.*999.99*********.*.**..******.*.*.*.*********98
+UniRef90_A0A1S3ZEK7/604-653              --SLVGLKVKVWWP-YDRS-FYEGVISAFDS-G-KR--KHTVSY-D-D-G-ETEVLNLRKER
+#=GR UniRef90_A0A1S3ZEK7/604-653      PP ..589*********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_UPI00053F39D5/447-492           --DLIGSRIKVWWP-LDRK-YYEGVISSFDA-S-TK--KHKVDY-D-D-G-DREVLNL----
+#=GR UniRef90_UPI00053F39D5/447-492   PP ..9***********.9999.999********.*.**..******.*.*.*.*986655....
+UniRef90_A0A1S2YNQ3/1367-1416            --DLIGCRIKIWWP-TDKK-YYGGTIKSYDP-S-KG--KHVILY-D-D-G-DVEILRLEKER
+#=GR UniRef90_A0A1S2YNQ3/1367-1416    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI001262D914/649-700           GEQLVGKRIKVWWP-MDKT-FYEGVIDSYDR-I-KK--KHRILY-V-D-G-DVERLNLEKQR
+#=GR UniRef90_UPI001262D914/649-700   PP 5679**********.****.***********.*.**..******.*.*.*.********997
+UniRef90_UPI0010A5916D/645-694           -GNLVGSRVKVWWP-DDRE-YYNGTVESFDS-A-KK--KHKVAY-D-D-G-DIEILNLRKE-
+#=GR UniRef90_UPI0010A5916D/645-694   PP .89***********.****.*99********.*.**..******.*.*.*.***9988887.
+UniRef90_W9QMF4/104-155                  GEEVVGKRIKVYWP-LDKS-WYEGFVRSFDK-D-SG--KHLVQY-D-D-G-EEESVELAKEK
+#=GR UniRef90_W9QMF4/104-155          PP 5689**********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A0E0HP57/1327-1376            -ADLIGKRIKVWWP-LDKK-FYEGVVESFDS-S-KR--RHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_A0A0E0HP57/1327-1376    PP .69***********.9999.999********.*.**..******.*.*.*.***9989887.
+UniRef90_A0A2Z6MPI5/191-242              GNSLVGKRIKIWWP-LDKT-YYDGVVNAYDH-V-KG--KHKVLY-D-D-G-VEEQLNLKKQR
+#=GR UniRef90_A0A2Z6MPI5/191-242      PP 678***********.****.***********.*.**..******.*.*.*.***99999886
+UniRef90_A0A7S0XC87/334-377              --SSIGRHIEIFWP-SDNI-FYGGTVAAYKG-E-TG--EHEVYY-D-D-G-GKEVL------
+#=GR UniRef90_A0A7S0XC87/334-377      PP ..579*********.****.***********.*.**..******.9.9.8.87755......
+UniRef90_A0A7S0KUE2/311-355              ---SVGRHLEIFWP-GDGA-FYGGTVAAYKT-E-TG--EHEVYY-D-D-G-GKETLQL----
+#=GR UniRef90_A0A7S0KUE2/311-355      PP ...59*********.****.***********.*.**..******.9.9.9.8887665....
+UniRef90_J3LEP7/502-549                  ---IVGSRIQVWWP-DDEK-FYKGVIDSFDT-A-SK--RHKIAY-D-D-G-DVEVLLLREE-
+#=GR UniRef90_J3LEP7/502-549          PP ...89*********.*999.999********.*.**..******.*.*.*.***9999776.
+UniRef90_K7L819/758-808                  GNSLVGRRIKVWWP-KDKM-FYEGVIDSYDP-I-KG--KHKILY-A-D-G-DVEVLNLKRQ-
+#=GR UniRef90_K7L819/758-808          PP 678***********.****.***********.*.**..******.*.*.*.**98877766.
+UniRef90_A0A061GG63/617-668              GEELIGRRIKVWWP-MDKT-FYEGVVASYDS-I-TM--KHRVLY-E-D-G-DEERLNLRRQR
+#=GR UniRef90_A0A061GG63/617-668      PP 678***********.****.***********.*.**..******.*.*.*.****9987765
+UniRef90_A0A7S0WSN9/97-139               ---AVGSRVRVYWP-GNAK-WYQGVVRRYDP-S-DD--THTIDY-R-D-G-DTHDH------
+#=GR UniRef90_A0A7S0WSN9/97-139       PP ...6999*******.****.***********.*.**..******.*.*.*.*9765......
+UniRef90_A0A7I8LB35/379-428              -GAIVGAKIKVWWP-DDRK-FYRGVIDSYDP-A-SM--KHKVLY-V-D-G-DEEDLLLKNE-
+#=GR UniRef90_A0A7I8LB35/379-428      PP .779**********.****.***********.*.**..******.*.*.*.****999765.
+UniRef90_A0A446WEH7/589-638              -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A446WEH7/589-638      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A7I8JJ88/283-332              -GAIVGAKIKVWWP-DDRK-FYRGVIDSYDP-A-SM--KHKVLY-V-D-G-DEEDLLLKNE-
+#=GR UniRef90_A0A7I8JJ88/283-332      PP .779**********.****.***********.*.**..******.*.*.*.****999765.
+UniRef90_A0A4D9C6E5/658-708              GENLVGSKVEVWWP-EDQL-YYEGVIDSFDS-A-KK--KHRVLY-N-D-G-DEEILNLKKE-
+#=GR UniRef90_A0A4D9C6E5/658-708      PP 5689**********.****.***********.*.**..******.*.*.*.*999888887.
+UniRef90_A0A1D6NZ33/366-417              GTDLVGHRIKVWWP-LDKR-FYEGTVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLILAKEK
+#=GR UniRef90_A0A1D6NZ33/366-417      PP 67************.****.***********.*.**..******.*.*.*.******99985
+UniRef90_Q5VMT5/1352-1400                --DLIGKRIKVWWP-LDKK-FYEGVVESFDS-S-KR--RHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_Q5VMT5/1352-1400        PP ..9***********.9999.999********.*.**..******.*.*.*.***9989887.
+UniRef90_C1DZK6/2476-2520                ---SVGRHLEIFWP-GDGA-FYGGTVAAYKT-E-TG--EHEVYY-D-D-G-GKETLQL----
+#=GR UniRef90_C1DZK6/2476-2520        PP ...59*********.****.***********.*.**..******.9.9.9.8887665....
+UniRef90_I1IBI4/546-595                  -GSLVGSRIKVWWP-DDEM-FYKGIVDSFDT-N-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_I1IBI4/546-595          PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_K7MJA4/1368-1417                --DLIGCRIKVWWP-TDKK-FYGGTIKSYDP-L-KG--KHVILY-D-D-G-DVEILRLEKER
+#=GR UniRef90_K7MJA4/1368-1417        PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI0018AE67B3/316-364           ---LVGSKIKVWWP-EDKL-FYHGIVEAFEP-T-TK--RHKVVY-S-D-G-DVEILLLKNER
+#=GR UniRef90_UPI0018AE67B3/316-364   PP ...89*********.****.***********.*.**..******.*.*.*.*****999887
+UniRef90_A0A150GP65/59-106               GEQLVGREVRVLWP-DEEA-WFCGRVTRYDE-E-TG--RHTVEY-D-D-G-DVEHLHL----
+#=GR UniRef90_A0A150GP65/59-106       PP 5679**********.****.***********.*.**..******.*.*.*.***9876....
+UniRef90_A0A4V4H4N0/239-288              --SLVGSTIRVWWP-MDKK-FYDGVVDSYDH-T-SK--KHKVIY-N-D-G-DVEILLLKKER
+#=GR UniRef90_A0A4V4H4N0/239-288      PP ..59**********.*999.99*********.*.**..******.*.*.*.*********98
+UniRef90_UPI000BBF1926/165-216           GEELVGKRLKVWWP-LDKK-FYEGVIKSYSS-R-QK--KHVVSY-T-D-G-DVENLDLKKER
+#=GR UniRef90_UPI000BBF1926/165-216   PP 678***********.9999.999********.*.**..******.*.*.*.*****999997
+UniRef90_A0A2G9I049/15-66                GENLVGSKVKVWWP-KDRM-FYEGVIASFDS-V-KK--KHKVLY-I-D-G-DKEILNLRRER
+#=GR UniRef90_A0A2G9I049/15-66        PP 5689**********.****.***********.*.**..******.*.*.*.**998888876
+UniRef90_M8D9A3/588-637                  -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_M8D9A3/588-637          PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A438FZA3/14-65                GENLVGSRIKVWWP-KDQM-YYEGVIDSFDS-E-KK--KHKVLY-V-D-G-DEEILNLKKEK
+#=GR UniRef90_A0A438FZA3/14-65        PP 5689**********.****.***********.*.**..******.*.*.*.**999998885
+UniRef90_A0A2K3NJR7/316-364              --NLVGERVEVWWP-KDRA-FYKGVIESFDS-A-KK--KHKVLY-D-D-G-EVEVLNLVKE-
+#=GR UniRef90_A0A2K3NJR7/316-364      PP ..69**********.****.***********.*.**..******.*.*.*.**99888877.
+UniRef90_A0A3B6PMH4/583-632              -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A3B6PMH4/583-632      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A371GG55/1368-1417            --DLIGCRIKVWWP-MDKK-FYGGTIKSYDS-T-KG--KHVMLY-D-D-G-DVEILRLEKER
+#=GR UniRef90_A0A371GG55/1368-1417    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A3B6NPN7/834-883              -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A3B6NPN7/834-883      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_F2DNW4/626-675                  -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDN-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_F2DNW4/626-675          PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A7J7MQ85/109-160              GEDVVGRRIRVYWP-LDKI-WYEGAVKYFDR-V-TG--KHSVQY-D-D-A-DVEELDLEKEK
+#=GR UniRef90_A0A7J7MQ85/109-160      PP 679***********.****.***********.*.**..******.*.*.*.*******9996
+UniRef90_UPI000C1D801F/1380-1429         --DLIGCMIKVWWP-SDKK-FYEGVVKSFDS-Q-KK--KHVILY-D-D-G-DVEVLRLDKER
+#=GR UniRef90_UPI000C1D801F/1380-1429 PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A453RC63/7-55                 --DLVGRRIKVWWP-LDKE-FYPGVVESYDS-A-KK--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_A0A453RC63/7-55         PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_A0A2K1KQE0/514-563              --KLVGLRIKIWWPLDQKF-YH-GEVLSFDG-S-SG--KHQVCY-D-D-G-EKEALCLVKER
+#=GR UniRef90_A0A2K1KQE0/514-563      PP ..69**********55555.55.56779***.*.**..******.*.*.*.******99997
+UniRef90_A0A7S0KWG5/90-140               -AQAVDRRVKVFWP-EEND-WFTGIVSKHDP-S-TD--KHTVTY-D-D-G-DVEEITLAKEK
+#=GR UniRef90_A0A7S0KWG5/90-140       PP .5678999******.****.***********.*.**..******.*.*.*.*******9985
+UniRef90_A0A453P2U3/686-735              -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A453P2U3/686-735      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A287U992/626-675              -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDN-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A287U992/626-675      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A0A6P3ZWK2/642-692              GEDLVGSSIKVWWP-KDQM-FYDGIVESFDP-V-KK--KHKVAY-T-D-G-DEETLNLKRE-
+#=GR UniRef90_A0A6P3ZWK2/642-692      PP 67************.****.***********.*.**..******.*.*.*.***9988877.
+UniRef90_A0A7N0TA63/676-727              GEELVGSKVKVWWP-ADKR-FYKGVIQSFDS-D-KK--RHKVLY-A-D-G-EVENLLLKKQR
+#=GR UniRef90_A0A7N0TA63/676-727      PP 678***********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_A0A371HHU1/637-687              GNSLVGSRIKVWWP-KDKT-FYEGVIESYDH-I-KG--KHKILY-A-D-G-DVEVLNLKRQ-
+#=GR UniRef90_A0A371HHU1/637-687      PP 6789**********.****.***********.*.**..******.*.*.*.**98877766.
+UniRef90_UPI000C1CD17E/592-643           GENLVGSKVKVWWP-KDRM-FYDGIIDSFDS-V-KK--KHKILY-N-D-G-DEERLNLRKER
+#=GR UniRef90_UPI000C1CD17E/592-643   PP 5689**********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A287U980/553-602              -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDN-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A287U980/553-602      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_A9SPZ8/535-584                  --KLVGLRIKIWWPLDQKF-YH-GEVLSFDG-S-SG--KHQVCY-D-D-G-EKEALCLVKER
+#=GR UniRef90_A9SPZ8/535-584          PP ..69**********55555.55.56779***.*.**..******.*.*.*.******99997
+UniRef90_A0A7S0D2C8/895-945              GDDALDRRVRVFWP-EEGA-YFSGIVTSFDA-A-SG--EHVVTY-D-D-G-DVESVTLSKE-
+#=GR UniRef90_A0A7S0D2C8/895-945      PP 67889999******.****.***********.*.**..******.*.*.*.*******998.
+UniRef90_UPI00053F46EE/656-706           -KEYVGSRVMVWWP-DDKK-FYEGVIEHYDP-T-SG--KHKVIY-N-D-G-DVEVLKLEREK
+#=GR UniRef90_UPI00053F46EE/656-706   PP .6789*********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_A0A6S7P408/652-696              --SLVGLKVKVWWP-EDKT-YYEGVIESFDS-A-KK--KHKVSY-V-D-G-DEEILN-----
+#=GR UniRef90_A0A6S7P408/652-696      PP ..589*********.****.***********.*.**..******.*.*.*.*88654.....
+UniRef90_A0A059CQD6/598-648              GADLVGLKIKVWWP-LDKQ-YYEGVVKAFDS-V-RK--KHKVIY-E-D-G-DMEILNLEEE-
+#=GR UniRef90_A0A059CQD6/598-648      PP 78************.****.***********.*.**..******.*.*.*.***9988887.
+UniRef90_A0A7S3QJV0/27-74                ----EGCPIKVWWP-DDNA-WYPGTVTAFHG-QNTW--QHTVKY-A-D-G-DQETLLLADE-
+#=GR UniRef90_A0A7S3QJV0/27-74        PP ....57789*****.****.*********97.6267..9*****.*.*.*.****999766.
+UniRef90_UPI001653375D/796-845           --SLVGQKVKVWWP-EDKM-YYEGVVESFNS-A-ET--KHKVLY-V-D-G-DEETLNLRKEK
+#=GR UniRef90_UPI001653375D/796-845   PP ..69**********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_UPI000F7CDED1/1372-1421         --DLIGCRIKVWWP-MDKK-FYGGTIKSYDS-L-KG--KHVMLY-D-D-G-DVEILRLEKER
+#=GR UniRef90_UPI000F7CDED1/1372-1421 PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6A4N1K6/670-721              GDSLVGSRIKVWWP-MDKT-FYEGVVESYDP-V-KG--KHKILY-A-D-G-EVEVLNLKKQR
+#=GR UniRef90_A0A6A4N1K6/670-721      PP 5679**********.****.***********.*.**..******.*.*.*.***99888876
+UniRef90_UPI0006AAE506/115-161           GEDLVGSRVRVWWP-IDKA-YYKGVVNSYDS-A-KK--KHLVIY-D-D-G-DQEILN-----
+#=GR UniRef90_UPI0006AAE506/115-161   PP 679***********.****.***********.*.**..******.*.*.*.*98655.....
+UniRef90_A0A3B6QF92/828-877              -GSLVGARIKVWWP-DDEM-FYKGVVDSFDT-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A3B6QF92/828-877      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_UPI0018F7F65D/475-526           GENLVGKKVKVWWP-IDKT-YYEGVIGTFDS-V-KK--EHKVLY-V-D-G-DVEMLNLKKEK
+#=GR UniRef90_UPI0018F7F65D/475-526   PP 5689**********.****.***********.*.**..******.*.*.*.****9999985
+UniRef90_A0A7S3RZ98/4-47                 GPDLVGKRVRVYWP-DDKK-WYSGQVKAFDS-V-TL--EHLVRY-D-D-G-EER--------
+#=GR UniRef90_A0A7S3RZ98/4-47         PP 67************.****.***********.*.**..******.9.9.9.865........
+UniRef90_A0A151SBE2/1378-1427            --DLIGCRIKVWWP-MDKK-FYGGTIKSYDP-L-KG--KHVILY-D-D-G-DVEILRLEKER
+#=GR UniRef90_A0A151SBE2/1378-1427    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A2C9W3H1/10-58                --SLVGLRVKVWWP-KDRT-FYEGVISSYDA-V-KK--KHEVAY-D-D-G-DTEILNLKRE-
+#=GR UniRef90_A0A2C9W3H1/10-58        PP ..699*********.****.***********.*.**..******.*.*.*.***9888776.
+UniRef90_UPI001924F4F3/91-139            --DVVGRRIRVFWP-LDKA-WHEGSVKSFDE-A-SR--KHLVEY-D-D-A-EEESLDLGKE-
+#=GR UniRef90_UPI001924F4F3/91-139    PP ..99**********.****.***********.*.**..******.*.9.9.9999988887.
+UniRef90_A0A4Y7KL66/324-373              --NLVGSRIKVWWP-DDKK-FYKGVVDSFDP-I-KK--MHKVLY-V-D-G-DVEVLKLTKER
+#=GR UniRef90_A0A4Y7KL66/324-373      PP ..69**********.****.***********.*.**..******.*.*.*.****9999997
+UniRef90_A0A2U1NKG6/284-331              GENLVGKRIKVWWP-ADKK-YYEGVVESYDC-S-KK--RHKVSY-D-D-G-EVERLNL----
+#=GR UniRef90_A0A2U1NKG6/284-331      PP 5689**********.****.***********.*.**..******.*.*.*.****866....
+UniRef90_Q6DQL6/84-134                   GQEVVDKRVKVYWP-LDKN-WYEGFVKSFDS-A-SG--KHLVEY-D-D-G-EEEMIELAEE-
+#=GR UniRef90_Q6DQL6/84-134           PP 568999********.****.***********.*.**..******.*.*.*.**99988766.
+UniRef90_A0A2P4XRV2/130-170              --DLVGRSVIVYWP-DEGE-WYNGVISSAQA-S-PA--ALEIEY-D-D-G-DS---------
+#=GR UniRef90_A0A2P4XRV2/130-170      PP ..9***********.****.***********.*.**..******.*.9.9.97.........
+UniRef90_A0A4Y7KDS2/324-373              --NLVGSRIKVWWP-DDKK-FYKGVVDSFDP-I-KK--MHKVLY-V-D-G-DVEVLKLTKER
+#=GR UniRef90_A0A4Y7KDS2/324-373      PP ..69**********.****.***********.*.**..******.*.*.*.****9999997
+UniRef90_A0A2J6LKA0/1391-1440            --DLIGKRIQVWWP-MDKV-FYEGLVKAYDH-Q-KK--KHVVLY-N-D-G-EVEVLRLDKER
+#=GR UniRef90_A0A2J6LKA0/1391-1440    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_M0RKY5/514-563                  --SLVGSTIRVWWP-MDKK-FYDGVVDSYDH-T-SK--KHKVIY-N-D-G-DVEILLLKKER
+#=GR UniRef90_M0RKY5/514-563          PP ..59**********.*999.99*********.*.**..******.*.*.*.*********98
+UniRef90_UPI000C1D4A7F/1379-1429         -ADLIGCRIKVWWP-MDKM-FYKGVVKSFDT-E-KK--KHVILY-N-D-G-DVEVLRLDKER
+#=GR UniRef90_UPI000C1D4A7F/1379-1429 PP .59***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A072UFL3/723-774              GNSLVGKRIKVWWP-LDKT-YYEGAVSAYDH-V-NG--KHKVLY-D-D-G-VEEQINLKKHR
+#=GR UniRef90_A0A072UFL3/723-774      PP 678***********.****.***********.*.**..******.*.*.*.****9998876
+UniRef90_A0A7S0X6B6/174-222              ---AIDRRVRVFWP-AEGA-FFGGLVTAFNS-K-SG--RHTVRY-D-D-G-DIEAVLLAAER
+#=GR UniRef90_A0A7S0X6B6/174-222      PP ...467899*****.****.***********.*.**..******.*.*.*.*******9886
+UniRef90_E1ZH19/155-200                  -----GRRVDVWWP-AERR-YYRGTVTAYSS-A-QQ--RHTVKY-D-D-G-DVGRVYLRAE-
+#=GR UniRef90_E1ZH19/155-200          PP .....899******.****.***********.*.**..******.*.*.*.*****99766.
+UniRef90_A0A1D6NYV8/946-997              GTDLVGHRIKVWWP-LDKR-FYEGTVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLILAKEK
+#=GR UniRef90_A0A1D6NYV8/946-997      PP 67************.****.***********.*.**..******.*.*.*.******99985
+UniRef90_A0A2Z7ALM8/484-534              GQDLVNLRIQVWWP-RDKS-YYSGTIVSFDS-S-KK--KHKVLY-D-D-G-ETEILNMDKE-
+#=GR UniRef90_A0A2Z7ALM8/484-534      PP 679***********.****.***********.*.**..******.*.*.*.*****9**98.
+UniRef90_A0A4S8JX94/648-698              -GGLVGSRIRVWWP-MDKK-FYDGVVDSYDH-T-SK--KHKIVY-I-D-G-DVEILLMKKER
+#=GR UniRef90_A0A4S8JX94/648-698      PP .78***********.*999.99*********.*.**..******.*.*.*.*******9998
+UniRef90_A0A2U1PFR4/1364-1413            --DLIGRRIRVWWP-MDKA-FYEGLVKSYDH-Q-KK--KHVVLY-N-D-G-DVEVVRLDKER
+#=GR UniRef90_A0A2U1PFR4/1364-1413    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A287U945/889-938              -GSLVGSRIKVWWP-DDEM-FYKGVVDSFDN-H-SK--RHKVAY-D-D-G-DVEVLLLRDE-
+#=GR UniRef90_A0A287U945/889-938      PP .89***********.****.***********.*.**..******.*.*.*.***9998665.
+UniRef90_UPI000C1D54AE/1108-1156         --DLIGCRIKVWWP-TDKM-FYEGVVKSFDS-R-KK--KHVISY-D-D-G-DVEVLQLEKE-
+#=GR UniRef90_UPI000C1D54AE/1108-1156 PP ..9***********.****.***********.*.**..******.*.*.*.***9999998.
+UniRef90_A0A5N5GCR9/600-649              --RLVDRRIKVWWP-QDKK-FYEGVVSSYDP-A-KK--KHLVLY-A-D-G-DEENLNLKKQR
+#=GR UniRef90_A0A5N5GCR9/600-649      PP ..68999*******.****.***********.*.**..******.*.*.*.****9999986
+UniRef90_A0A7S0X421/70-117               --AAIGWKVRVFWP-DESE-WFHGTVRGFDA-G-SG--RHAVVY-E-D-G-DEQEITLGK--
+#=GR UniRef90_A0A7S0X421/70-117       PP ..568999******.****.***********.*.**..******.*.*.*.***999876..
+UniRef90_A0A1S3ZKJ0/619-668              --SLVGLKVKVWWP-HDRS-FYEGVISAFDS-G-KR--KHTVSY-D-D-G-EIEVLNLRKER
+#=GR UniRef90_A0A1S3ZKJ0/619-668      PP ..589*********.****.***********.*.**..******.*.*.*.***99999987
+UniRef90_A0A2U1PTM8/1014-1063            --DLIGRRIRVWWP-MDKA-FYEGVVKSYDD-Q-KK--KHVVLY-D-D-G-EVEVLFLDKER
+#=GR UniRef90_A0A2U1PTM8/1014-1063    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6P9EW97/11-61                -ERLVGSSIKVWWP-LDKM-FYEGVVNFYDP-V-KK--KHQVLY-A-D-G-DEEILNLKKER
+#=GR UniRef90_A0A6P9EW97/11-61        PP .569**********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A1D6NZ07/898-949              GTDLVGHRIKVWWP-LDKR-FYEGTVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLILAKEK
+#=GR UniRef90_A0A1D6NZ07/898-949      PP 67************.****.***********.*.**..******.*.*.*.******99985
+UniRef90_M4DJG8/668-719                  GEELVGKSVKVWWP-LDKK-FYDGVIKSYSS-L-NK--KHQVLY-S-D-G-DSEELNLKKER
+#=GR UniRef90_M4DJG8/668-719          PP 678***********.9999.999********.*.**..******.*.*.*.*******9997
+UniRef90_A0A1U7Z8H2/1396-1447            GANLIGKRIKVWWP-LDKQ-FYEGVVQSYDQ-G-KK--KHVILY-D-D-G-DMEVLLLKKER
+#=GR UniRef90_A0A1U7Z8H2/1396-1447    PP 789***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI0005108630/661-710           --RLVDRRIKVWWP-QDKK-FYEGVVSSYDP-A-KK--KHLVLY-A-D-G-DEENLNLKKQR
+#=GR UniRef90_UPI0005108630/661-710   PP ..68999*******.****.***********.*.**..******.*.*.*.****9999986
+UniRef90_A0A218XPR7/604-655              GQDLVGSKVKVWWP-DDAE-FYKGVVSSFNP-V-SR--KHKIVY-N-D-G-DVELLRLKNER
+#=GR UniRef90_A0A218XPR7/604-655      PP 67************.****.***********.*.**..******.*.*.*.***99988876
+UniRef90_UPI0009E55F51/86-134            --EVVGKRIRVFWP-LDKA-WYEGHVRSFDE-A-SG--KHVIQY-D-D-A-EEEFLELEKE-
+#=GR UniRef90_UPI0009E55F51/86-134    PP ..79**********.****.***********.*.**..******.9.9.9.9998888887.
+UniRef90_UPI0009F62EEC/658-706           ---LIGSKIRVWWP-DDER-FYDGVVDSFDR-S-TK--KHKILY-N-D-G-DVEILLLKKEK
+#=GR UniRef90_UPI0009F62EEC/658-706   PP ...89*********.****.***********.*.**..******.*.*.*.*******9996
+UniRef90_W1PBX0/336-384                  ---CIGQRVKVWWP-LDRR-YYHGKLTYFDP-N-SR--KHTILY-D-D-G-DIERIDMSKER
+#=GR UniRef90_W1PBX0/336-384          PP ...689********.9999.999999*****.*.**..******.*.*.*.********998
+UniRef90_A0A699YUQ4/23-71                --EVVGRRIKVFWP-QEGT-WFEGSISRYDQ-D-KG--KHRVCY-D-D-G-DKEWVVLSAE-
+#=GR UniRef90_A0A699YUQ4/23-71        PP ..79**********.****.***********.*.**..******.*.*.*.*****99876.
+UniRef90_I1K8N5/629-679                  GQNLVGLRVKVWWP-DDRE-FYRGVVDSFDS-A-KK--KHKVLY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_I1K8N5/629-679          PP 5689**********.****.***********.*.**..******.*.*.*.***9998887.
+UniRef90_UPI0007F0249E/370-420           -EKLVGRRIKVWWP-LDKF-FYEGAVASFDS-V-TQ--THKVLY-A-D-G-DEETLNLNNER
+#=GR UniRef90_UPI0007F0249E/370-420   PP .579**********.****.***********.*.**..******.*.*.*.***99999887
+UniRef90_A0A453RCS5/377-425              --DLVGRRIKVWWP-LDKE-FYPGVVESYDS-A-KK--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_A0A453RCS5/377-425      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_UPI001652F53D/195-245           GGNLVGSRIEVWWP-ADRM-YYPGVVTFFDF-K-KK--RHKVLY-D-D-G-DVELIDLKRQ-
+#=GR UniRef90_UPI001652F53D/195-245   PP 8*************.****.***********.*.**..******.*.*.*.***9888776.
+UniRef90_A0A6N2MAW5/23-72                --QLVGSKIKVWWP-KDKR-FYEGVVDSYDP-I-KK--KHRVLY-G-D-G-DEEKLNLNRQR
+#=GR UniRef90_A0A6N2MAW5/23-72        PP ..69**********.****.***********.*.**..******.*.*.*.*****999886
+UniRef90_A0A1D6NZ02/1348-1399            GTDLVGHRIKVWWP-LDKR-FYEGTVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLILAKEK
+#=GR UniRef90_A0A1D6NZ02/1348-1399    PP 67************.****.***********.*.**..******.*.*.*.******99985
+UniRef90_A0A2Z7D259/1376-1425            --DLVGCTIKVWWP-MDKQ-FYEGIVKSFDT-E-KK--KHVILY-E-D-G-DVEVLRLDKER
+#=GR UniRef90_A0A2Z7D259/1376-1425    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6A4NHW4/648-698              GENLVGLRIEVWWP-DDRE-FYKGVIDSFDL-V-NK--KHKVNY-D-D-G-EVEILHLRKE-
+#=GR UniRef90_A0A6A4NHW4/648-698      PP 5689**********.****.***********.*.**..******.*.*.*.***9988887.
+UniRef90_A0A2K1ZUR1/291-340              --DIIGYRIKVWWP-MDKK-FYGGTIKSYDP-L-KR--KHVILY-D-D-G-DIEVLRLDKER
+#=GR UniRef90_A0A2K1ZUR1/291-340      PP ..89**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6P5H441/101-150              --DAVGKRIRVFWP-LDNA-WYDGCVKSFDE-N-SG--KHLVQY-D-D-G-EEEAVELAKEK
+#=GR UniRef90_A0A6P5H441/101-150      PP ..89**********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A164XE58/370-420              -EKLVGRRIKVWWP-LDKF-FYEGAVASFDS-V-TQ--THKVLY-A-D-G-DEETLNLNNER
+#=GR UniRef90_A0A164XE58/370-420      PP .579**********.****.***********.*.**..******.*.*.*.***99999887
+UniRef90_A0A5E4E712/640-691              GEDVVGSKIQVWWP-KDRR-YYKGVVDSFDP-A-KK--KHKVLY-I-D-G-DQEVLNLKKEK
+#=GR UniRef90_A0A5E4E712/640-691      PP 679***********.****.***********.*.**..******.*.*.*.***99998885
+UniRef90_U5D0V9/1374-1422                --DLIGRRIQVWWP-MDKE-FYQGVVQSYDP-G-AK--KHLVLY-D-D-G-DVENLRLDKE-
+#=GR UniRef90_U5D0V9/1374-1422        PP ..9***********.****.***********.*.**..******.*.*.*.*********8.
+UniRef90_V7AUB0/674-724                  GNSFVGSRIKVWWP-KDKT-FYEGVIESYDP-I-KG--KHKILY-A-D-G-DVEVLNLKRQ-
+#=GR UniRef90_V7AUB0/674-724          PP 66789*********.****.***********.*.**..******.*.*.*.**98877766.
+UniRef90_UPI000F7CC65B/711-760           --SLVGSRIKVWWP-MDRT-FYEGVVDSYDS-I-KG--KHKILY-A-D-G-DIEVLNLKKQR
+#=GR UniRef90_UPI000F7CC65B/711-760   PP ..69**********.****.***********.*.**..******.*.*.*.***99898876
+UniRef90_A0A446X9R7/377-425              --DLVGRRIKVWWP-LDKE-FYPGVVKSYDS-A-KT--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_A0A446X9R7/377-425      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_M0T1C6/76-125                   --EVVGKRIKVFWP-LDKA-WYEGRVSSFDE-M-SG--KHLICY-V-D-G-EEEALDLGKEK
+#=GR UniRef90_M0T1C6/76-125           PP ..689*********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_A0A1D6NZ16/1357-1408            GTDLVGHRIKVWWP-LDKR-FYEGTVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLILAKEK
+#=GR UniRef90_A0A1D6NZ16/1357-1408    PP 67************.****.***********.*.**..******.*.*.*.******99985
+UniRef90_A0A6I9SM46/646-694              ---LVGSRIKVWWP-DDKA-FYDGVVASFEP-V-LK--KHKILY-D-D-G-DIEILSLKNER
+#=GR UniRef90_A0A6I9SM46/646-694      PP ...89*********.****.***********.*.**..******.*.*.*.***98887776
+UniRef90_K8EDV7/1898-1943                -QNAVGVKLEIFWP-GEDT-WYSAVIKSFDE-S-TC--EHVCEY-V-D-D-DVEEKL-----
+#=GR UniRef90_K8EDV7/1898-1943        PP .567999*******.****.***********.*.**..******.*.*.*.*98755.....
+UniRef90_A0A7S4BKS4/131-172              ---LVGRAVEVLWP-QEKA-WYKALVRGYNG-A-TG--CHFVHY-A-D-G-DVEW-------
+#=GR UniRef90_A0A7S4BKS4/131-172      PP ...89*********.****.***********.*.**..******.*.*.*.*996.......
+UniRef90_UPI00053C7DBF/613-664           GAELVGKRIKVWWP-LDKT-FYEGVINSYDD-Q-QK--KHLVLY-A-D-G-ENEMLNLEEER
+#=GR UniRef90_UPI00053C7DBF/613-664   PP 789***********.****.***********.*.**..******.*.*.*.****9999997
+UniRef90_UPI0010368588/675-724           -GNLIGKKVKVWWP-EDEM-FYEGVIDDFDP-V-KK--KHKVSY-T-D-G-DEEILNLRNE-
+#=GR UniRef90_UPI0010368588/675-724   PP .89***********.****.***********.*.**..******.*.*.*.*998777666.
+UniRef90_A0A251VHU0/302-352              GGNLVGSRIEVWWP-ADRM-YYPGVVTFFDF-K-KK--RHKVLY-D-D-G-DVELIDLKRQ-
+#=GR UniRef90_A0A251VHU0/302-352      PP 8*************.****.***********.*.**..******.*.*.*.***9888776.
+UniRef90_A0A453RC58/377-425              --DLVGRRIKVWWP-LDKE-FYPGVVESYDS-A-KK--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_A0A453RC58/377-425      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_A0A068U889/1379-1429            -GDLIGCRIKVWWP-MDKR-FYEGVVKSFDT-E-KK--KHVILY-D-D-G-DVEVLRLEKER
+#=GR UniRef90_A0A068U889/1379-1429    PP .9************.****.***********.*.**..******.*.*.*.*********98
+UniRef90_I1K8N3/629-679                  GQNLVGLRVKVWWP-DDRE-FYRGVVDSFDS-A-KK--KHKVLY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_I1K8N3/629-679          PP 5689**********.****.***********.*.**..******.*.*.*.***9998887.
+UniRef90_A0A2G9I062/592-643              GENLVGSKVKVWWP-KDRM-FYEGVIASFDS-V-KK--KHKVLY-I-D-G-DKEILNLRRER
+#=GR UniRef90_A0A2G9I062/592-643      PP 5689**********.****.***********.*.**..******.*.*.*.**998888776
+UniRef90_A0A061R6N0/145-194              -PNAVGTRVRVFWP-ADRA-FYSGFITDWNW-F-TW--KHQILY-D-D-G-DIEERTLYKE-
+#=GR UniRef90_A0A061R6N0/145-194      PP .5689*********.****.***********.*.**..******.*.*.*.*998877777.
+UniRef90_A0A2K3PKD0/612-660              --NLVGERVEVWWP-KDRA-FYKGVIESFDS-A-KK--KHKVLY-D-D-G-EVEVLNLVKE-
+#=GR UniRef90_A0A2K3PKD0/612-660      PP ..69**********.****.***********.*.**..******.*.*.*.**98888877.
+UniRef90_UPI00190228BF/633-681           ---LVGSKIKVWWP-EDRM-FYAGVVESFDP-K-RK--KHKVLY-T-D-G-DEEILYLKKER
+#=GR UniRef90_UPI00190228BF/633-681   PP ...89*********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A1S4B6K2/100-150              GQEIVGKRVKVYWP-LDRT-WYEGCVKSFDG-V-SG--EHLVKY-D-D-G-DEEMIDLAEE-
+#=GR UniRef90_A0A1S4B6K2/100-150      PP 6689**********.****.***********.*.**..******.*.*.*.***9977666.
+UniRef90_A0A6P4ARL9/98-148               GGEVVGKRIKVYWP-LDKS-WYQGFVKSFDK-D-AG--KHLVQY-D-D-A-EEEMLNLENE-
+#=GR UniRef90_A0A6P4ARL9/98-148       PP 8*************.****.***********.*.**..******.9.9.9.8888777765.
+UniRef90_A0A251RA95/640-691              GEDVVGSKIQVWWP-KDRR-YYKGVVDSFDP-A-KK--KHKVLY-I-D-G-DQEVLNLKKEK
+#=GR UniRef90_A0A251RA95/640-691      PP 679***********.****.***********.*.**..******.*.*.*.***99998885
+UniRef90_A0A5J4ZXB3/651-702              GENLLGSMVKVWWP-DDQA-FYKGVIESYDS-V-KK--KHKVLY-T-D-G-DQETLNLRKER
+#=GR UniRef90_A0A5J4ZXB3/651-702      PP 56899*********.****.***********.*.**..******.*.*.*.*****999997
+UniRef90_A0A5N6MWG1/1366-1414            --SLVGTKIKVWWP-EDKA-FYEGVVAEYFP-A-KK--KHKISY-V-D-G-DEERLNLRSQ-
+#=GR UniRef90_A0A5N6MWG1/1366-1414    PP ..599*********.****.***********.*.**..******.*.*.*.****987665.
+UniRef90_A0A328E854/1365-1414            --DLIGCRIQVWWP-MDKQ-FYEGVVKSFDT-Q-KK--KHVILY-N-D-G-DVEVLRLDKER
+#=GR UniRef90_A0A328E854/1365-1414    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6J0LYN3/26-75                --ELIGCRIEIWWP-MDKR-FYEGTVKSYDS-T-KK--KHVILY-E-D-G-DVEVLRLDKEQ
+#=GR UniRef90_A0A6J0LYN3/26-75        PP ..799*********.****.***********.*.**..******.*.*.*.*********95
+UniRef90_A0A1B6QCH6/98-147               --EVVGRRLRVYWP-LDDA-WYKGRVAAYDA-A-SR--RHRVKY-D-D-G-DEEEVDLGKEK
+#=GR UniRef90_A0A1B6QCH6/98-147       PP ..789*********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A7S4EXL4/72-122               --QMVGRRIEVLWM-AERK-WKRGVVTHYNP-A-NG--KHTIEY-L-GSG-IREQLTLKRER
+#=GR UniRef90_A0A7S4EXL4/72-122       PP ..689*********.****.***********.*.**..******.9.935.56777777776
+UniRef90_A0A1U7YJE6/502-553              GESLVGKKIKVWWP-LDKE-FYEGVVEKFDS-A-KK--KYRVAY-T-D-G-DVEIINLTEER
+#=GR UniRef90_A0A1U7YJE6/502-553      PP 5679**********.****.***********.*.**..******.*.*.*.***99998886
+UniRef90_K7KIF0/630-680                  GQNLVGLRVKVWWP-DDRE-FYKGVIDSFDS-A-KK--KHKVLY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_K7KIF0/630-680          PP 5689**********.****.***********.*.**..******.*.*.*.***9998887.
+UniRef90_W7TDU6/104-155                  GKEVVGKRVKVWWP-EDEE-YYGGTITAFSGGG-DG--KHAILY-D-D-G-EEERVYLARE-
+#=GR UniRef90_W7TDU6/104-155          PP 5689**********.****.********98626.8*..******.*.*.*.*****99876.
+UniRef90_UPI000F614511/449-500           GEELVGSRIKVWWP-MDSR-FYEGVIASFDP-S-KK--KHKVLY-V-D-G-DQEILNLKKER
+#=GR UniRef90_UPI000F614511/449-500   PP 678***********.9999.999********.*.**..******.*.*.*.***99999997
+UniRef90_A0A565CKE0/28-79                GESLVGSRIQVWWP-MDRK-FYKGVIESFGV-S-NK--KHKVLY-D-D-G-DVENLNLNKER
+#=GR UniRef90_A0A565CKE0/28-79        PP 5679**********.9999.999********.*.**..******.*.*.*.*********98
+UniRef90_A0A6J0MSE5/27-78                GEDLVGSKVRVWWP-IDRK-FYNGVVDSFNS-R-TK--KHRVFY-D-D-G-EKEILDMDKER
+#=GR UniRef90_A0A6J0MSE5/27-78        PP 67************.8888.8889*******.*.**..******.*.*.*.***999***98
+UniRef90_G7I899/646-689                  --SLVGKRVKVWWP-DDNM-FYKGVVDSFDS-S-TK--KHKVLY-D-D-G-DEEIL------
+#=GR UniRef90_G7I899/646-689          PP ..59**********.****.***********.*.**..******.*.*.*.*8754......
+UniRef90_A0A162A2A4/96-144               --DAVGKRVKVYWP-LDKM-WYEGCVKSFDM-E-SG--KHLVQY-E-D-S-EEELLDLSKE-
+#=GR UniRef90_A0A162A2A4/96-144       PP ..89**********.****.***********.*.**..******.9.8.7.7777767676.
+UniRef90_A0A4P1RNQ3/650-698              --NLVGLRIEVWWP-DDRE-FYKGVIDSFDP-A-VK--KHKVNY-D-D-G-EVEILHLRKE-
+#=GR UniRef90_A0A4P1RNQ3/650-698      PP ..699*********.****.***********.*.**..******.*.*.*.***9988887.
+UniRef90_A0A540MA62/652-700              ---LVDRRIKVWWP-QDKK-FYEGVVSSYDP-A-KK--KHLVLY-A-D-G-DEENLNLKKQR
+#=GR UniRef90_A0A540MA62/652-700      PP ...78999******.****.***********.*.**..******.*.*.*.****9999986
+UniRef90_A0A072UUD1/1382-1431            --DLIGCRIKIWWP-TDKK-YYGGTIKSYDS-L-KR--KHVILY-E-D-G-DVEILRLEKER
+#=GR UniRef90_A0A072UUD1/1382-1431    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A4D6MKS0/680-724              --SLVGTRIKVWWP-KDKT-FYEGVIESYDP-T-KG--KHKILY-A-D-G-DVEVLN-----
+#=GR UniRef90_A0A4D6MKS0/680-724      PP ..69**********.****.***********.*.**..******.*.*.*.*99665.....
+UniRef90_A0A1D1YWX3/116-164              --SLVGVRIKVWWP-DDEQ-FYPGEVDSYDP-I-SR--KHKVSY-F-D-G-DEEILLLKNE-
+#=GR UniRef90_A0A1D1YWX3/116-164      PP ..599*********.****.***********.*.**..******.*.*.*.*999988766.
+UniRef90_A0A1S4CT64/664-715              GESLVGKKIKVWWP-LDKE-FYEGVVEKFDS-A-KK--KYRVAY-T-D-G-DVEIINLTEER
+#=GR UniRef90_A0A1S4CT64/664-715      PP 5679**********.****.***********.*.**..******.*.*.*.***99998886
+UniRef90_A0A0K9PTB4/963-1011             ---LIGTNIRVWWP-EDKM-FYDGVVDSYNK-A-QK--KHKISY-V-D-G-DVEVLLLQNER
+#=GR UniRef90_A0A0K9PTB4/963-1011     PP ...89*********.****.***********.*.**..******.*.*.*.*******9987
+UniRef90_UPI001036CB69/673-717           --NLIGKKVKVWWP-DDDM-FYEGVIDSFDP-V-KK--KHKVSY-T-D-G-DEEILN-----
+#=GR UniRef90_UPI001036CB69/673-717   PP ..79**********.****.***********.*.**..******.*.*.*.*98654.....
+UniRef90_S8C9G5/856-906                  -DDIVGCKIKVWWP-MDEK-YYEGIVKSFDE-K-KK--KHVVLY-D-D-G-DVEVLRLDKER
+#=GR UniRef90_S8C9G5/856-906          PP .599**********.7777.7789*******.*.**..******.*.*.*.*********98
+UniRef90_V4WB02/640-691                  GENLVGSKVKVWWP-KDRM-YYEGVIESFDP-V-KK--KHKVSY-V-D-G-DEEILNLKRER
+#=GR UniRef90_V4WB02/640-691          PP 5689**********.****.***********.*.**..******.*.*.*.*9998888886
+UniRef90_A0A0V0HBX7/104-155              GKELVGCRVRVWWP-LDQV-FYEGLVTDFDH-S-EK--KHTVIY-G-D-G-DQEMLNLTKER
+#=GR UniRef90_A0A0V0HBX7/104-155      PP 6789**********.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A078H670/529-580              GEELVGKRLKVWWP-LDKK-FYEGVIKSYSS-R-QK--KHVVSY-T-D-G-DVENLDLKKER
+#=GR UniRef90_A0A078H670/529-580      PP 678***********.9999.999********.*.**..******.*.*.*.*****999997
+UniRef90_UPI0011D20293/648-698           GEDLVGSKIKVWWP-LDKQ-YYEGVIEAFDN-V-QK--KHKVLY-E-D-G-DVEILNLEAE-
+#=GR UniRef90_UPI0011D20293/648-698   PP 679***********.****.***********.*.**..******.*.*.*.***8888776.
+UniRef90_A0A068VGH7/624-675              GSNLVGLKVKVWWP-HDRQ-FYEGVIHSFDS-A-KK--KHKVAY-N-D-G-DEEILNLKKER
+#=GR UniRef90_A0A068VGH7/624-675      PP 789***********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A2P6VMM9/910-949              ---AIGARVQVWWE-GDQT-FYSGILALYDA-V-ST--EHTVCY-D-D-G-EV---------
+#=GR UniRef90_A0A2P6VMM9/910-949      PP ...68999******.****.***********.*.**..******.9.9.8.75.........
+UniRef90_A0A7J7QDZ9/463-511              --GLVGRRVRVWWP-LDRE-WYGGAVQAFDP-M-LQ--LHTLLY-D-D-G-DLEQLNLSEE-
+#=GR UniRef90_A0A7J7QDZ9/463-511      PP ..69**********.****.***********.*.**..******.*.*.*.****998876.
+UniRef90_A0A022QME2/1377-1427            -ADLIGCRIKVWWP-MDKE-FYEGVIKSFDT-E-KK--KHVILY-D-D-G-DVEVLRLDKER
+#=GR UniRef90_A0A022QME2/1377-1427    PP .59***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A4D9BL34/1376-1426            -SDLIGSRIKVWWP-MDKE-FYEGVIKSFDT-H-KK--KHVIVY-D-D-G-DVEVLQLDRER
+#=GR UniRef90_A0A4D9BL34/1376-1426    PP .69***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A2G5EX52/42-93                GEDLVGSKIKVWWP-DDKK-FYESVVESFDP-I-MK--LHKVVY-L-D-G-EEEILFLKEER
+#=GR UniRef90_A0A2G5EX52/42-93        PP 67************.****.***********.*.**..******.*.*.*.*9988888776
+UniRef90_A0A0R0JHE1/665-715              GQNLVGLQVKVWWP-DDHE-FYKGVIVSFDS-A-KK--KHKVLY-D-D-G-DEETLNLVKE-
+#=GR UniRef90_A0A0R0JHE1/665-715      PP 5689**********.****.***********.*.**..******.*.*.*.***9998887.
+UniRef90_A0A1S4E370/469-520              GEELVGRRIKVWWP-LDRM-FYEGVVRSFDP-V-KK--KHQVSY-D-D-G-DEEILNLKKQR
+#=GR UniRef90_A0A1S4E370/469-520      PP 678***********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_A0A2P5YH93/44-95                GDEVVDKRLRVHWP-LDKA-WYEGVVKSFDK-V-SG--KHLIQY-D-D-S-EEEELDLGKEK
+#=GR UniRef90_A0A2P5YH93/44-95        PP 568999********.****.***********.*.**..******.*.9.9.99999998885
+UniRef90_A0A3Q7HSC9/676-725              --NLVGRKIRVWWP-LDEL-FYEGTVSNYDS-S-RK--KFTVDY-T-D-G-ETEKLNLLKER
+#=GR UniRef90_A0A3Q7HSC9/676-725      PP ..69**********.9999.999********.*.**..******.*.*.*.*****999987
+UniRef90_A0A287ED28/627-675              --DLVGRRIKVWWP-LDKE-FYPGVVKSYDS-A-KK--LHTVLY-D-D-G-DIEQLNMAKE-
+#=GR UniRef90_A0A287ED28/627-675      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_A0A251PXX0/698-746              ---LVGSRIRVWWP-MDKA-FYEGVVSSYDP-A-KK--KHLVLY-V-D-G-DEENLNLKKQR
+#=GR UniRef90_A0A251PXX0/698-746      PP ...89*********.****.***********.*.**..******.*.*.*.****9999986
+UniRef90_A0A287ECW8/715-763              --DLVGRRIKVWWP-LDKE-FYPGVVKSYDS-A-KK--LHTVLY-D-D-G-DIEQLNMAKE-
+#=GR UniRef90_A0A287ECW8/715-763      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_A0A1S3VCK2/687-734              --SLVGTRIKVWWP-KDKT-FYEGVIESYDP-I-KG--KHKILY-A-D-G-DVEVLNLKR--
+#=GR UniRef90_A0A1S3VCK2/687-734      PP ..599*********.****.***********.*.**..******.*.*.*.**9776655..
+UniRef90_UPI0011E522A7/630-680           GEDLVGSKIKVWWP-LDKQ-YYEGVIEAFDS-V-QK--RHKVLY-E-D-G-DVEILNLEAE-
+#=GR UniRef90_UPI0011E522A7/630-680   PP 679***********.****.***********.*.**..******.*.*.*.***8888776.
+UniRef90_A0A1S4E3X6/469-520              GEELVGRRIKVWWP-LDRM-FYEGVVRSFDP-V-KK--KHQVSY-D-D-G-DEEILNLKKQR
+#=GR UniRef90_A0A1S4E3X6/469-520      PP 678***********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_C1E0I9/212-261                  --NVVGRRLLVFWP-SDAK-FYRGCVAGYDS-S-NG--KHHLVY-D-D-G-DEERVNLAKQR
+#=GR UniRef90_C1E0I9/212-261          PP ..579*********.9999.9999*******.*.**..******.*.*.*.******99987
+UniRef90_A0A2J6K5M0/1656-1705            --DLIGRRIKVWWP-MDKE-FYEGLVKSYDH-E-NN--KHVVLY-D-D-G-DIEVLCLDKER
+#=GR UniRef90_A0A2J6K5M0/1656-1705    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A251VCA0/802-846              --SLIGKKVKVWWP-EDKM-YYEGVVTEFFP-A-KK--KHKVSY-V-D-G-DEEKLN-----
+#=GR UniRef90_A0A251VCA0/802-846      PP ..59**********.****.***********.*.**..******.*.*.*.**9975.....
+UniRef90_R1DRA0/4-47                     GPDLVGKRVRVYWP-DDKK-WYSGQAKAFDS-V-TL--EHLVRY-D-D-G-EER--------
+#=GR UniRef90_R1DRA0/4-47             PP 67************.****.***********.*.**..******.9.9.9.865........
+UniRef90_A0A287ED00/715-763              --DLVGRRIKVWWP-LDKE-FYPGVVKSYDS-A-KK--LHTVLY-D-D-G-DIEQLNMAKE-
+#=GR UniRef90_A0A287ED00/715-763      PP ..9***********.****.***********.*.**..******.*.*.*.****999888.
+UniRef90_A0A2V0NUD4/288-325              --GLEGKKLLVLWP-DDGR-WDAGEVRAVDV-A-SG--RATIIY-T-E--------------
+#=GR UniRef90_A0A2V0NUD4/288-325      PP ..688*********.****.***********.*.**..****99.7.5..............
+UniRef90_A0A2T7DZI8/1346-1393            ---LVGHRIKVWWP-LDKR-FYGGVVQSYDS-S-KK--KHMVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_A0A2T7DZI8/1346-1393    PP ...89*********.****.***********.*.**..******.*.*.*.***9988887.
+UniRef90_C1MUG0/320-368                  -AAVVGWKVRVWWP-LENE-WFHGTVTKFEQ-G-GA--KHLVEY-E-D-G-DTQHVLIGK--
+#=GR UniRef90_C1MUG0/320-368          PP .568999*******.****.***********.*.**..******.*.*.*.******977..
+UniRef90_UPI00092F54AE/631-680           GDSLVGSRIKVWWP-MDKM-FYEGVVDSYDP-V-KG--KHKILY-A-D-G-EVEILNMKR--
+#=GR UniRef90_UPI00092F54AE/631-680   PP 5679**********.****.***********.*.**..******.*.*.*.*99766655..
+UniRef90_UPI00125CE8D3/92-142            -QEVLNKRIKVYWP-LDKC-WYEGCVKSFDK-I-SG--KHLVQY-D-D-E-EEEMLNLSQER
+#=GR UniRef90_UPI00125CE8D3/92-142    PP .57899********.****.***********.*.**..******.9.9.9.88888888776
+UniRef90_UPI000901445E/1374-1423         --DLIGCRIKVWWP-MDKQ-FYEGVIKSFDT-Q-KK--KHVILY-N-D-G-DVEVLRLDKER
+#=GR UniRef90_UPI000901445E/1374-1423 PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7R9T8A4/194-238              GSALIGHTVEVYWP-KEKQ-WYEGVICGYNA-V-TT--KHLIEY-Y-D-G-DSQL-------
+#=GR UniRef90_A0A7R9T8A4/194-238      PP 5679**********.****.***********.*.**..******.*.*.*.*975.......
+UniRef90_A0A6I9TA68/635-686              GENLVGSKVKVWWP-KDRM-FYEGVIASFDP-V-KK--KHKVLY-T-D-G-DKEVLNLRRER
+#=GR UniRef90_A0A6I9TA68/635-686      PP 5689**********.****.***********.*.**..******.*.*.*.**988888776
+UniRef90_UPI00053C4CB5/573-624           GENLVGAKVKIWWP-KDRA-YYEGVVDSYDA-D-RK--KHLVLY-D-D-G-DQERLNLRKEK
+#=GR UniRef90_UPI00053C4CB5/573-624   PP 5689**********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A5N6MC87/1342-1391            --DLIGRRIKVWWP-KDKE-FYEGLVKSYDH-Q-KK--KHVVLY-N-D-G-DVEVLRLDKER
+#=GR UniRef90_A0A5N6MC87/1342-1391    PP ..9***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A6P6U6U9/594-645              GEELVGSRIKVWWP-MDSQ-FYEGVIASFDP-S-KK--KHMVLY-V-D-G-DQEILDLKKER
+#=GR UniRef90_A0A6P6U6U9/594-645      PP 678***********.*999.99*********.*.**..******.*.*.*.***99999987
+UniRef90_A0A7S0JDC4/23-65                ---LLGRAVEVLWP-HEGN-WFKAVVRAYNE-A-TG--KHFLLY-A-D-G-DVEWL------
+#=GR UniRef90_A0A7S0JDC4/23-65        PP ...78*********.****.***********.*.**..******.*.*.*.*9976......
+UniRef90_UPI00098E353F/73-121            --SLVGSKIKVWWP-DDKE-FYEGVVDSYDP-D-TK--KHMVAY-E-D-G-EIKVLLLMDE-
+#=GR UniRef90_UPI00098E353F/73-121    PP ..69**********.****.***********.*.**..******.*.*.*.*998887666.
+UniRef90_A0A078FKD7/769-815              GEDLVGSRVRVWWP-IDKA-YYKGVVNSYDS-A-KK--KHLVIY-D-D-G-DQEILN-----
+#=GR UniRef90_A0A078FKD7/769-815      PP 679***********.****.***********.*.**..******.*.*.*.*98655.....
+UniRef90_A0A1R3GTZ6/753-804              GENLIGLKVQVWWP-KDKA-FYEGFIESFDS-A-RK--KHKVHY-N-D-G-DEEILNLKRER
+#=GR UniRef90_A0A1R3GTZ6/753-804      PP 5689**********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_A0A1S3USM1/615-664              --DLIGCRIKVWWP-MDKK-FYGGTIKSYDP-L-KR--KHVILY-E-D-G-DVEILRLEKER
+#=GR UniRef90_A0A1S3USM1/615-664      PP ..99**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_UPI00125E78BE/512-563           GEELVGAKIRVWWP-MDQK-FYEGEISSFDP-V-KK--KHKVVY-A-D-G-DIEKLNLAKER
+#=GR UniRef90_UPI00125E78BE/512-563   PP 678***********.7777.777889*****.*.**..******.*.*.*.*******9997
+UniRef90_A0A5N6PG33/522-567              --SLVGKKIKVWWP-EDKM-FYEGVVEEFYP-A-RN--KHKISY-L-D-G-DEETLNL----
+#=GR UniRef90_A0A5N6PG33/522-567      PP ..59**********.****.***********.*.**..******.*.*.*.*998755....
+UniRef90_A0A0K9PS88/447-495              ---LIGSRINVWWP-IDKK-FYEGVVGSYNQ-N-TK--KHTILY-V-D-G-EKENLLLSKER
+#=GR UniRef90_A0A0K9PS88/447-495      PP ...89*********.*999.99*********.*.**..******.*.*.*.*********98
+UniRef90_A0A2P6RVH9/740-788              ---LVGKGIKVWWP-QDKT-YYDGVVRSYDT-V-KK--KHLVLY-N-D-G-EKENLNLRKQR
+#=GR UniRef90_A0A2P6RVH9/740-788      PP ...8**********.****.***********.*.**..******.*.*.*.***99998876
+UniRef90_A0A2K2B905/622-673              GEQLVGNKIKVWWP-MDKR-FYEGVVDSYDP-I-KK--KHKVLY-A-D-G-DEEKLNLKKQR
+#=GR UniRef90_A0A2K2B905/622-673      PP 5679**********.****.***********.*.**..******.*.*.*.*****999987
+UniRef90_A0A7S2UCV6/110-154              ----VGSRISIWWP-QEKQ-YYTGTLTKIDD-D-SNNKPHHVRY-D-D-G-EEERMN-----
+#=GR UniRef90_A0A7S2UCV6/110-154      PP ....7999******.***9.99999888765.5.4312599***.*.*.*.***985.....
+UniRef90_V4LDJ2/121-172                  GDEVVGKQVRVYWP-LDKK-WYDGIVTSYNK-G-EG--KHVVEY-D-D-G-EEESLDLGKEK
+#=GR UniRef90_V4LDJ2/121-172          PP 6789**********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_A0A7N2N2D6/101-151              GDDVVGKRIRVFWP-LDKA-WYEGTVKSFDK-V-AN--KHLVQY-E-D-D-EEELLDLEKE-
+#=GR UniRef90_A0A7N2N2D6/101-151      PP 789***********.****.***********.*.**..******.9.7.7.7776667776.
+UniRef90_A0A6J1K1Y9/627-676              --SLVGSKIKVWWP-KDRM-FYAGVVESFDP-G-KR--KHKVLY-T-D-G-DEEILNLKKER
+#=GR UniRef90_A0A6J1K1Y9/627-676      PP ..59**********.****.***********.*.**..******.*.*.*.***99999997
+UniRef90_A0A199V6B9/36-85                --SLVNSMIKVWWP-ADKA-FYDGVVHSYNP-S-SK--KHTIVY-N-D-G-DVEILRLKEER
+#=GR UniRef90_A0A199V6B9/36-85        PP ..589999******.****.***********.*.**..******.*.*.*.***99888876
+UniRef90_A0A1J7FNU6/631-680              GDSLVGSRIKVWWP-MDKM-FYEGVVDSYDP-V-KG--KHKILY-A-D-G-EVEILNMKR--
+#=GR UniRef90_A0A1J7FNU6/631-680      PP 5679**********.****.***********.*.**..******.*.*.*.*99766555..
+UniRef90_D7SUX3/632-682                  GENLVGSRIKVWWP-KDQM-YYEGVIDSFDS-E-KK--KHKVLY-V-D-G-DEEILNLKKE-
+#=GR UniRef90_D7SUX3/632-682          PP 5689**********.****.***********.*.**..******.*.*.*.*999989888.
+UniRef90_A0A1S3XAR5/375-423              --DLIGCRIKVWWP-MDKK-FYEGVIKSFDT-Q-KN--KHVVLY-D-D-G-DVEVLRLEKE-
+#=GR UniRef90_A0A1S3XAR5/375-423      PP ..99**********.*999.99*********.*.**..******.*.*.*.***9999998.
+UniRef90_UPI0018F83D3C/621-671           GNQLVGRTIKVWWP-MDKE-FYKGVVDSYDP-V-KE--KHEVLY-A-D-G-DIETLNLRKE-
+#=GR UniRef90_UPI0018F83D3C/621-671   PP 678***********.****.***********.*.**..******.*.*.*.***9988886.
+UniRef90_A0A0K9RUR0/470-514              --DLIGCKIKVWWP-LDRS-YYEGTISSFDA-S-TK--KHKVEY-D-D-G-DEEVLN-----
+#=GR UniRef90_A0A0K9RUR0/470-514      PP ..9***********.****.***********.*.**..******.*.*.*.*88655.....
+UniRef90_K3XUR7/1326-1374                --DLVGHRIKVWWP-LDKR-FYQGLVQSYDS-S-KK--KHTVLY-D-D-G-DVEVLNLAKE-
+#=GR UniRef90_K3XUR7/1326-1374        PP ..9***********.****.***********.*.**..******.*.*.*.***9989887.
+UniRef90_A0A371FQH5/650-700              GENLVGLRVQVWWP-KDRE-FYKGVIHSFDS-A-KK--KHKVSY-D-D-G-DKEILNLMKE-
+#=GR UniRef90_A0A371FQH5/650-700      PP 5689**********.****.***********.*.**..******.*.*.*.**99888877.
+UniRef90_A0A1D6I439/97-146               --EVVGRCLRVYWP-LDDA-WYKGKVEAYDA-A-SR--RHRVKY-D-D-G-DEEEVDLRKEK
+#=GR UniRef90_A0A1D6I439/97-146       PP ..78**********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A5N5M8Z2/1396-1445            --DIIGYRIKVWWP-MDKK-FYGGTIKSYDP-L-KR--KHVILY-E-D-G-DIEVLRLDKER
+#=GR UniRef90_A0A5N5M8Z2/1396-1445    PP ..89**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A5A7UYS0/835-886              GEELVGRRIKVWWP-LDRM-FYEGVVRSFDP-V-KK--KHQVSY-D-D-G-DEEILNLKKQR
+#=GR UniRef90_A0A5A7UYS0/835-886      PP 678***********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_UPI001902B237/837-888           GEELVGRRIKVWWP-LDRM-FYEGVVRSFDP-V-KK--KHKVSY-D-D-G-DEEILNLKKQR
+#=GR UniRef90_UPI001902B237/837-888   PP 678***********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_A0A059AIN8/241-291              -RRLVGRKIKVWWP-LDEM-FYHGVVQSYDP-F-RK--RHKVLY-D-D-G-DTETLNLHKER
+#=GR UniRef90_A0A059AIN8/241-291      PP .569**********.9999.999********.*.**..******.*.*.*.*******9998
+UniRef90_V4N3P7/1376-1425                --ELIGCRIEVWWP-MDKR-FYEGTVKSYDS-T-KQ--KHVILY-E-D-G-DVEVLRLDKER
+#=GR UniRef90_V4N3P7/1376-1425        PP ..799*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7N0U2S9/95-143               GPSLIGRRVEVYWP-DSRR-WFRGRVKTFDH-Q-KL--VHKVDY-D-D-G-DWERLDLK---
+#=GR UniRef90_A0A7N0U2S9/95-143       PP 5679**********.****.***********.*.**..******.*.*.*.****8775...
+UniRef90_A0A6N2BC98/98-148               GQEVVDKRVKVYWP-LDKI-WYEGCVKSFDS-S-SG--EHLVKY-D-D-G-DEEMIDLAEE-
+#=GR UniRef90_A0A6N2BC98/98-148       PP 568999********.****.***********.*.**..******.*.*.*.***9977666.
+UniRef90_UPI0002C358C5/733-781           ---LVGKGIKVWWP-QDKT-FYDGVVRYYDA-V-RK--KHLVLY-N-D-G-EKENLNLRKQR
+#=GR UniRef90_UPI0002C358C5/733-781   PP ...8**********.****.***********.*.**..******.*.*.*.***99998876
+UniRef90_UPI000B8C7881/414-464           GEELIGRKIKVWWP-LDKM-FYEGIVDSYDH-I-KK--KHRVLY-S-D-G-DEELLNLKKE-
+#=GR UniRef90_UPI000B8C7881/414-464   PP 678***********.****.***********.*.**..******.*.*.*.***9999887.
+UniRef90_A0A6J1D273/576-627              GEELVGRRIKVWWP-LDRK-FYEGVVHSFDP-V-NK--KHKVSY-D-D-G-DEEVLNLKKQR
+#=GR UniRef90_A0A6J1D273/576-627      PP 678***********.9999.9999*******.*.**..******.*.*.*.*9988888876
+UniRef90_A0A0D2PZ19/98-148               GDEVVDKRLRVYWP-LDKA-WYEGVVKSFDK-V-SG--KHLIQY-D-D-S-EEEELDLGKE-
+#=GR UniRef90_A0A0D2PZ19/98-148       PP 568999********.****.***********.*.**..******.*.9.9.9999988888.
+UniRef90_A0A5N6NL08/435-485              GQDLVGHMIKVWWP-LDEM-YYTGVASSYDP-L-DN--KHKVLY-A-D-G-DEELLDLSQE-
+#=GR UniRef90_A0A5N6NL08/435-485      PP 67************.9999.***********.*.**..******.*.*.*.*998777666.
+UniRef90_A0A6A1UWM0/634-684              -VNLIGSKIKVWWP-KDRM-FYEGVVDAFDS-I-RK--KHKVLY-T-D-G-DKEILNLKKEK
+#=GR UniRef90_A0A6A1UWM0/634-684      PP .589**********.****.***********.*.**..******.*.*.*.***99998885
+UniRef90_A0A6J1D005/576-627              GEELVGRRIKVWWP-LDRK-FYEGVVHSFDP-V-NK--KHKVSY-D-D-G-DEEVLNLKKQR
+#=GR UniRef90_A0A6J1D005/576-627      PP 678***********.9999.9999*******.*.**..******.*.*.*.*9988888876
+UniRef90_A0A087GNA0/1373-1422            --ELIGCRIEVWWP-VDKR-FYEGTVKSYDS-T-KQ--KHVILY-E-D-G-DVEVLRLDKER
+#=GR UniRef90_A0A087GNA0/1373-1422    PP ..799*********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_M8AN02/1335-1383                --DLVGRRIKVWWP-LDKE-FYPGVVESYDS-A-KK--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_M8AN02/1335-1383        PP ..9***********.****.***********.*.**..******.*.*.*.****999887.
+UniRef90_Q8GUP3/605-653                  GESLVGSRIKVWWP-MDQA-YYKGVVESYDA-A-KK--KHLVIY-D-D-G-DQEILYLK---
+#=GR UniRef90_Q8GUP3/605-653          PP 5679**********.****.***********.*.**..******.*.*.*.*9977665...
+UniRef90_UPI00090143B1/666-715           --SLVGSKVKVWWP-LDSV-FYEGVVASYDP-V-KK--KHTVLY-T-D-G-DEEVLNLRKER
+#=GR UniRef90_UPI00090143B1/666-715   PP ..59**********.****.***********.*.**..******.*.*.*.**999999987
+UniRef90_A0A7S2IUB1/47-94                --ALVGWRVRVWWE-GDLA-WYAGTIRAFDA-V-FG--AHTVCY-D-D-G-VQEEEVLDE--
+#=GR UniRef90_A0A7S2IUB1/47-94        PP ..699*********.****.***********.*.**..******.*.*.*.999999986..
+UniRef90_A0A6J1BTE1/641-686              --NLVGSKIKVWWP-DDSK-FYKGVVDSFDA-K-KK--KHKVLY-T-D-G-DEEILNL----
+#=GR UniRef90_A0A6J1BTE1/641-686      PP ..69**********.****.***********.*.**..******.*.*.*.*886554....
+UniRef90_UPI0011E4F1F3/586-636           GEDLVGSKIKVWWP-QDRA-FYEGVVDSFDP-V-RK--RHKVLY-T-D-G-DQEILNLKKQ-
+#=GR UniRef90_UPI0011E4F1F3/586-636   PP 679***********.****.***********.*.**..******.*.*.*.*998888776.
+UniRef90_A0A0A0KBP5/750-801              GEELVGRRIKVWWP-LDRM-FYEGIVRSFDP-V-KK--KHQVSY-D-D-G-DEEILNLKKQR
+#=GR UniRef90_A0A0A0KBP5/750-801      PP 678***********.****.***********.*.**..******.*.*.*.*9998888876
+UniRef90_A0A1U7ZGB1/1400-1450            GTNLIGRRIKVWWP-MDKQ-FYEGVVQSYDQ-G-KR--KHVILY-D-D-G-DVEVLLLKKE-
+#=GR UniRef90_A0A1U7ZGB1/1400-1450    PP 5689**********.****.***********.*.**..******.*.*.*.*******998.
+UniRef90_A0A1D1YIV5/573-620              --SLVGVKIKVWWP-DDEQ-FYSGVVDSYDP-A-TM--RHKVLY-V-D-G-DEEVLLLKD--
+#=GR UniRef90_A0A1D1YIV5/573-620      PP ..589*********.****.***********.*.**..******.*.*.*.*98777754..
+UniRef90_UPI0018F824B3/856-906           GNQLVGRTIKVWWP-MDKE-FYKGVVDSYDP-V-KE--KHEVLY-A-D-G-DIETLNLRKE-
+#=GR UniRef90_UPI0018F824B3/856-906   PP 678***********.****.***********.*.**..******.*.*.*.***9988886.
+UniRef90_A0A5J4XIB9/915-959              ---LVNQPVEIWWP-EDKK-FYQGVVTRYIP-D-KG--KHHVLY-D-D-G-EEEDLNM----
+#=GR UniRef90_A0A5J4XIB9/915-959      PP ...89999******.****.***********.*.**..******.*.*.*.9987655....
+UniRef90_A0A5J5B4V8/1399-1448            --DLIGCRIKVWWP-MDKQ-FYEGVVKSYDP-S-KK--KHVVLY-D-D-G-DVEVIRLEKER
+#=GR UniRef90_A0A5J5B4V8/1399-1448    PP ..99**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7J7D5Z4/492-539              GGNLVGHRIKVWWP-LDKT-FYEGVVDSYDP-I-GE--KHKVLY-V-D-G-DVEVLNL----
+#=GR UniRef90_A0A7J7D5Z4/492-539      PP 8*************.****.***********.*.**..******.*.*.*.*997655....
+UniRef90_C1MGI8/95-144                   --TAIGRRVRVFWP-NEGA-FFTGAVTGFNP-K-SG--RHSVKY-D-D-G-DVEEVLLAAER
+#=GR UniRef90_C1MGI8/95-144           PP ..569*********.****.***********.*.**..******.*.*.*.*******9886
+UniRef90_UPI00155A44C1/632-682           GENLVGSRIKVWWP-KDQM-YYEGVIDSFDS-E-KK--KHKVLY-V-D-G-DEEILNLKKE-
+#=GR UniRef90_UPI00155A44C1/632-682   PP 5689**********.****.***********.*.**..******.*.*.*.**99989888.
+UniRef90_A0A2Z6M3A4/339-387              --NLVGERVEVWWP-KDRE-FYKGVIESFDS-A-KK--KHKVLY-D-D-G-EVEILNLVRE-
+#=GR UniRef90_A0A2Z6M3A4/339-387      PP ..69**********.****.***********.*.**..******.*.*.*.*997766655.
+UniRef90_K7KZ74/741-791                  GSSLVCRRIKVWWP-KDKM-FYEGVIDSYDP-I-KG--KHKILY-A-D-G-DVEVLNLKRQ-
+#=GR UniRef90_K7KZ74/741-791          PP 678999********.****.***********.*.**..******.*.*.*.**98877766.
+UniRef90_A0A3B6SEU8/1382-1430            --DLVGRRIKVWWP-LDKE-FYPGVVKSYDS-A-KK--LHTVLY-D-D-G-DMEQLNMAKE-
+#=GR UniRef90_A0A3B6SEU8/1382-1430    PP ..9***********.****.***********.*.**..******.*.*.*.****999887.
+UniRef90_UPI0011E4F207/436-487           GRQLVGQKIKVWWP-LDEK-FYSGVVQSYDP-F-RK--RHKVLY-D-D-G-DIETLNLEKER
+#=GR UniRef90_UPI0011E4F207/436-487   PP 5689**********.6666.6678*******.*.**..******.*.*.*.*********98
+UniRef90_A0A6A5MBH3/639-688              GESLVGSKIKVWWP-MDKM-FYEGIVDSYDP-V-KG--KHKILY-A-D-G-EVEILNMKR--
+#=GR UniRef90_A0A6A5MBH3/639-688      PP 5679**********.****.***********.*.**..******.*.*.*.*99766655..
+UniRef90_UPI001929CC54/79-124            --EVIGRRIRVFWP-LDKA-WYEGSVRSYDE-V-SG--KHTVQY-D-D-A-DEEILDL----
+#=GR UniRef90_UPI001929CC54/79-124    PP ..689*********.****.***********.*.**..******.9.9.9.9886555....
+UniRef90_A0A6A1W0P7/747-795              ---LVGSRIRVWWP-LDKM-FYEGVINSYDA-V-KK--KHQVLY-A-D-G-DEEILNLRKER
+#=GR UniRef90_A0A6A1W0P7/747-795      PP ...89*********.****.***********.*.**..******.*.*.*.***99999987
+UniRef90_A0A2G5E8H3/86-133               ----VGMKCKVYWP-LDDD-WYSGCVASFDS-E-SG--KHHVKY-D-D-G-EEESLVFTKEK
+#=GR UniRef90_A0A2G5E8H3/86-133       PP ....89999*****.****.***********.*.**..******.*.*.*.****9999985
+UniRef90_A5BII6/1022-1072                GENLVGSRIKVWWP-KDQM-YYEGVIDSFDS-E-KK--KHKVLY-V-D-G-DEEILNLKKE-
+#=GR UniRef90_A5BII6/1022-1072        PP 5689**********.****.***********.*.**..******.*.*.*.*999989888.
+UniRef90_A0A1J7IGM0/651-702              GDSLVGSRIKVWWP-LDKT-FYEGVVDSYDP-V-KG--KHKILY-S-D-G-EMEVLNLKKQR
+#=GR UniRef90_A0A1J7IGM0/651-702      PP 5679**********.****.***********.*.**..******.*.*.*.**999888876
+UniRef90_A0A059CTM6/586-636              GEDLVGSKIKVWWP-QDRA-FYKGVVDSFDP-I-RK--RHKVLY-T-D-G-DQEILNLKKQ-
+#=GR UniRef90_A0A059CTM6/586-636      PP 679***********.****.***********.*.**..******.*.*.*.*998888776.
+UniRef90_A0A1D1YV29/666-712              --SLVGAKIKVWWP-DDEQ-FYPGVIDSYDP-V-SM--KHKVLY-V-D-G-DEEVLLLK---
+#=GR UniRef90_A0A1D1YV29/666-712      PP ..599*********.****.***********.*.**..******.*.*.*.*9877775...
+UniRef90_A0A1D6I437/97-146               --EVVGRCLRVYWP-LDDA-WYKGKVEAYDA-A-SR--RHRVKY-D-D-G-DEEEVDLRKEK
+#=GR UniRef90_A0A1D6I437/97-146       PP ..78**********.****.***********.*.**..******.*.*.*.*****999985
+UniRef90_A0A2G3AL40/91-141               GQEVVDKRVKVYWP-LDKA-WYEGCVKSFDS-K-SG--EHLVKY-D-D-G-DEEMIDLAEE-
+#=GR UniRef90_A0A2G3AL40/91-141       PP 568999********.****.***********.*.**..******.*.*.*.***9977666.
+UniRef90_A0A2I0BBH7/243-291              --EVIGKRIKVFWP-LDKT-WYEGCVRSFHE-A-SG--KHVIQY-D-D-A-EEEFLDLEKE-
+#=GR UniRef90_A0A2I0BBH7/243-291      PP ..789*********.****.***********.*.**..******.9.8.8.8888888887.
+UniRef90_UPI0010A51CFE/410-457           ----VGSRIKVWWP-MDKR-FYEGVVDFYDP-A-KG--KHKILY-A-D-G-DVEVLNLKKQR
+#=GR UniRef90_UPI0010A51CFE/410-457   PP ....899*******.****.***********.*.**..******.*.*.*.***99898876
+UniRef90_A0A161Y7T5/585-636              GEELVGRKIKVWWP-ADDQ-FYKGVITGFDR-E-LK--KHKVEY-V-D-G-DQENLYLRAER
+#=GR UniRef90_A0A161Y7T5/585-636      PP 678***********.9999.999********.*.**..******.*.*.*.***99998776
+UniRef90_A0A1J7HKR2/71-121               -SDVVGRRINVYWP-LDKA-WYQGSVMSFDK-I-SS--KHLVRY-D-D-G-EEEALDLSKEK
+#=GR UniRef90_A0A1J7HKR2/71-121       PP .699**********.****.***********.*.**..******.*.*.*.***99999985
+UniRef90_A0A388LVH8/57-105               --TLIGRRLRVLWP-RDRV-WYTGHVSSFDR-R-SG--KHCIAY-D-D-G-DEEALLLKDE-
+#=GR UniRef90_A0A388LVH8/57-105       PP ..589*********.****.***********.*.**..******.*.*.*.***9999766.
+UniRef90_A0A1Z5JSD7/45-89                ---MIGKKVRVFWP-IDSS-WYTGTVRQFDA-S-TG--EHLLEY-Q-D-G-DNEWVRI----
+#=GR UniRef90_A0A1Z5JSD7/45-89        PP ...79*********.****.***********.*.**..******.*.*.*.**98866....
+UniRef90_O04716/121-172                  GDEVVGKQVRVYWP-LDKK-WYDGSVTFYDK-G-EG--KHVVEY-E-D-G-EEESLDLGKEK
+#=GR UniRef90_O04716/121-172          PP 6789**********.****.***********.*.**..******.*.*.*.***99999885
+UniRef90_UPI000E21B59D/193-243           GAKLVGTRVKVWWP-DDKM-FYEGVVSYFYA-P-RN--MHKIVY-D-D-G-EEEYVILKEE-
+#=GR UniRef90_UPI000E21B59D/193-243   PP 6789**********.****.***********.*.**..******.*.*.*.******9887.
+UniRef90_UPI00192E8845/467-517           -RRLVGRKIKVWWP-LDEM-FYHGVVQSYDP-F-RK--RHKVLY-D-D-G-DTETLNLHKER
+#=GR UniRef90_UPI00192E8845/467-517   PP .569**********.9999.999********.*.**..******.*.*.*.*******9997
+UniRef90_A0A1U8IYL7/677-727              GENLVGLKVKVWWP-KDRA-FYEGVIHSYDA-V-KK--KHKVNY-D-D-G-DQEILNLKRE-
+#=GR UniRef90_A0A1U8IYL7/677-727      PP 5689**********.****.***********.*.**..******.*.*.*.*998877776.
+UniRef90_A0A0D2RDB1/884-934              -ADLIGYRIKVWWP-LDKQ-FYEGTIKSYDA-I-KK--KHVVLY-D-D-G-DVEVLRLDRER
+#=GR UniRef90_A0A0D2RDB1/884-934      PP .59***********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A7I8LDI4/348-396              --SLVGARIKVWWP-DDAK-FYRGVVVSYNP-N-SK--KHKVLY-S-D-G-DKETLLLRNE-
+#=GR UniRef90_A0A7I8LDI4/348-396      PP ..599*********.**99.99*********.*.**..******.*.*.*.****999765.
+UniRef90_UPI00053C8910/534-585           GEDLVGARIRVWWP-ADRK-FYQGVVDSYNS-A-QR--KHRVVY-D-D-G-DKEQLYMRKEK
+#=GR UniRef90_UPI00053C8910/534-585   PP 679***********.9999.999********.*.**..******.*.*.*.*****999985
+UniRef90_A0A4Y7L442/848-898              GKELIGQKVKVWWP-DDKK-FYQGTVDSYNR-I-SK--KHRVTY-T-D-G-EIEKLDLKKE-
+#=GR UniRef90_A0A4Y7L442/848-898      PP 678***********.****.***********.*.**..******.*.*.*.****999887.
+UniRef90_A0A5B7AN91/1396-1445            --DLIGCRIKVWWP-MDKQ-FYEGVVKSYDP-S-KK--KHVILY-D-D-G-DVEVIRLEKER
+#=GR UniRef90_A0A5B7AN91/1396-1445    PP ..99**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A5B7B6F3/634-685              GENLVSSKVKVWWP-KDEM-FYEGVIDSFDP-V-KK--KHKVLY-A-D-G-DQEMLNLGKER
+#=GR UniRef90_A0A5B7B6F3/634-685      PP 5689999*******.****.***********.*.**..******.*.*.*.*******9997
+UniRef90_A0A4D9A2P5/739-789              GENLVGSKVKVFWP-KDKE-YYEGVIASFDS-A-KK--KHRVLY-N-D-G-DEEILNLKKE-
+#=GR UniRef90_A0A4D9A2P5/739-789      PP 5689**********.****.***********.*.**..******.*.*.*.*999888887.
+UniRef90_A0A1S3USC2/1370-1419            --DLIGCRIKVWWP-MDKK-FYGGTIKSYDP-L-KR--KHVILY-E-D-G-DVEILRLEKER
+#=GR UniRef90_A0A1S3USC2/1370-1419    PP ..99**********.****.***********.*.**..******.*.*.*.*********98
+UniRef90_A0A0K9PDV1/60-106               ---AVGKKVRVFWP-LDEK-WYDGRVTSFNE-A-GG--KHTVKY-D-D-G-DVEDLDLKS--
+#=GR UniRef90_A0A0K9PDV1/60-106       PP ...69*********.8888.99999******.*.**..******.*.*.*.**9877665..
+UniRef90_A0A1S3U6C5/650-701              GENLVGLRVKVWWP-KDRE-FYKGIIDSFDS-A-KK--KHKVSY-D-D-G-DEEILNLGKEK
+#=GR UniRef90_A0A1S3U6C5/650-701      PP 5689**********.****.***********.*.**..******.*.*.*.**999999885
+UniRef90_UPI0010A2ECCB/730-777           ----VGSRIKVWWP-MDKR-FYEGVVDFYDP-A-KG--KHKILY-A-D-G-DVEVLNLKKQR
+#=GR UniRef90_UPI0010A2ECCB/730-777   PP ....899*******.****.***********.*.**..******.*.*.*.***99898876
+UniRef90_A0A7S0R072/183-225              ---AVGARLAVYWV-DDKN-FYSGRIIAYKS-T-TG--EHKIRY-D-D-R-ELEWV------
+#=GR UniRef90_A0A7S0R072/183-225      PP ...68999******.****.***********.*.**..*****9.8.7.7.77655......
+UniRef90_A0A7S0R072/477-518              --AVVGHRVSVFWP-EDRR-YYPGTLEAFMP-S-TG--EHQVRY-D-D-D-VAE--------
+#=GR UniRef90_A0A7S0R072/477-518      PP ..5799********.****.***********.*.**..****99.7.6.6.555........
+UniRef90_A0A087GLM4/110-160              GEEVVGKRVRVYWP-IDKK-WYDGSVVLYDK-S-EG--KHVVEY-D-D-G-EEEGLDLVKE-
+#=GR UniRef90_A0A087GLM4/110-160      PP 5689**********.****.***********.*.**..******.*.*.*.*999888777.
+UniRef90_A0A371F7L5/592-642              GENLVGLRVQVWWP-EDHE-FYKGVIHSFDS-A-RK--KHKVLY-D-D-G-DQEILSLMKE-
+#=GR UniRef90_A0A371F7L5/592-642      PP 5689**********.****.***********.*.**..******.*.*.*.***9988887.
+UniRef90_A0A1Q3BWS0/650-701              GESLVGKNIKVWWP-IDKM-FYEGVIDFYDH-V-KR--KHRVLY-A-D-G-DEEVLNLNRQR
+#=GR UniRef90_A0A1Q3BWS0/650-701      PP 5679**********.****.***********.*.**..******.*.*.*.*9988888775
+UniRef90_A0A251U012/363-411              GEDLVGHRIKVWWP-LDEM-YYKGVVFSYDP-R-DD--KHRVLY-A-D-G-DEEVLDLH---
+#=GR UniRef90_A0A251U012/363-411      PP 679***********.9999.9**********.*.**..******.*.*.*.*9866555...
+UniRef90_A0A6I9UDE3/1376-1426            -ADLIGCRIKVWWP-MDKQ-FYEGVVKSFDT-Q-KK--KHVILY-D-D-G-DVEVLRLERER
+#=GR UniRef90_A0A6I9UDE3/1376-1426    PP .69***********.****.***********.*.**..******.*.*.*.****9999997
+UniRef90_V4KV58/573-624                  GEELVGKRVNVWWP-LDRK-FYEGVIESYDK-R-KK--THKVSY-S-D-G-DSETLNLKKER
+#=GR UniRef90_V4KV58/573-624          PP 678***********.9999.9999*******.*.**..******.*.*.*.*******9997
+UniRef90_UPI00098D8759/685-736           GNPLVGSRIKVWWP-KDKK-FYEGVINSFNP-I-KG--KHKILY-T-D-G-DIEVLNLRKQR
+#=GR UniRef90_UPI00098D8759/685-736   PP 6789**********.****.***********.*.**..******.*.*.*.***98888876
+UniRef90_A0A7J0GBY1/656-703              GDDLVSKKVKVWWP-KDQM-FYEGVIDSFDP-V-KK--KHKVLY-A-D-G-DKEVLNL----
+#=GR UniRef90_A0A7J0GBY1/656-703      PP 789***********.****.***********.*.**..******.*.*.*.*997655....
+UniRef90_A0A7J7PTF0/71-117               GKEVVGKRIRVLT---GKD-WRTGVVKAYHG-G-YY--KHQVEF-D-D-G-ETVNIHLH---
+#=GR UniRef90_A0A7J7PTF0/71-117       PP 5688999999975...688.***********.*.**..******.*.*.*.*9988765...
+UniRef90_A0A7J7PTF0/134-179              --DLVGATVSVLW--DENK-WYRGTVAGFDG-F-----MHTVVY-D-D-D-DTEHLTLQKG-
+#=GR UniRef90_A0A7J7PTF0/134-179      PP ..9**********..5666.9999******7.5.....7*****.*.*.*.*****99986.
+UniRef90_A0A5J5A6P8/629-680              GENLVGSKVKVWWP-KDQM-FYEGVIYSFDH-V-KK--KHMVLY-T-D-G-DEETLNLRKER
+#=GR UniRef90_A0A5J5A6P8/629-680      PP 5689**********.****.***********.*.**..******.*.*.*.*****999997
+#=GC PP_cons                             67899*********.****.***********.*.**..******.*.*.*.**999888877
+#=GC RF                                  xxxxxxxxxxxxxx.xxxx.xxxxxxxxxxx.x.xx..xxxxxx.x.x.x.xxxxxxxxxxx
+//

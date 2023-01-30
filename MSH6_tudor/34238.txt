@@ -1,0 +1,46 @@
+srun -p gpu-a100-h -t 48:00:00 --mem=128GB -n 1 -c 16 --gres=gpu:1 --pty bash -l
+module load spack/singularity/3.8.3
+singularity exec --nv -B /home/haryu/alphafoldDownload alphafold.sif bash
+source /opt/miniconda3/etc/profile.d/conda.sh
+conda activate alphafold
+cd /opt/alphafold/
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Klebsormidium_flaccidum_(charophytic_algae).fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Sphagnum_magellanicum.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Triticum_dicoccoides_1.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Triticum_turgidum_2.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Ananas_comosus.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders/MSH6_tudor/Helianthus_annuus.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/brachy.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Chara_braunii.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Triticum_spelta.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Pelagophyceae_sp..fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Ceratodon_purpureus.fasta" -t 2022-11-01
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Citrus_clementina.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Juglans_nigra.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Paraphysomonas_imperforata.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Pistacia_vera.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Arabidopsis_thaliana_RDM15_Tudor_domain.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Vitis_vinifera.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Aurantiochytrium_limacinum.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Triticum_turgidum_1.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Triticum_dicoccoides_2.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Tribonema_minus.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Aegilops_tauschii.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Musa_acuminata.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Nymphaea_colorata.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Populus_trichocarpa.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Hordeum_vulgare.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Physcomitrium_patens.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Manihot_esculenta.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Asparagus_officinalis.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Ectocarpus_siliculosus_part2.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Zostera_marina.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Amborella_trichopoda.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Arabidopsis_thaliana.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Marchantia_polymorpha.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Oryza_sativa.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Zea_Mays.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Dioscorea_rotundata.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Ectocarpus_siliculosus_part1.fasta" -t 2022-10-03
+./run.sh -d /home/haryu/alphafoldDownload -o /home/icanders/alphafold_output/MSH6_tudor/ -m model_1 -f "/home/icanders//MSH6_tudor/Triticum_aestivum.fasta" -t 2022-10-03
+

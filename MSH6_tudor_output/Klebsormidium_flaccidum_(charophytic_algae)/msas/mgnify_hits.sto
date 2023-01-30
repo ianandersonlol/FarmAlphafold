@@ -1,0 +1,524 @@
+# STOCKHOLM 1.0
+#=GF ID Klebsormidium_flaccidum_(charophytic-i1
+#=GF DE algae)
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS Klebsormidium_flaccidum_(charophytic DE algae)
+#=GS MGYP000697441474/58-106              DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000697441474/196-244             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000697441474/265-317             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001094702512/58-106              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001094702512/196-244             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001094702512/265-319             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001143221814/1-46                DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001143221814/135-183             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001143221814/204-258             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000998757923/1-45                DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000998757923/135-183             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000998757923/204-258             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001008400278/55-110              DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP001008400278/534-588             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000520353541/33-70               DE [subseq from] PL=00 UP=0 BIOMES=0101000000000
+#=GS MGYP000520353541/112-150             DE [subseq from] PL=00 UP=0 BIOMES=0101000000000
+#=GS MGYP000520353541/477-532             DE [subseq from] PL=00 UP=0 BIOMES=0101000000000
+#=GS MGYP001004120865/253-306             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001004120865/811-866             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000426139923/923-976             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000426139923/1675-1715           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000716243233/1314-1367           DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000716243233/1914-1965           DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000973350165/1575-1628           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000973350165/2175-2226           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000848369898/827-881             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000848369898/1581-1630           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000141188712/852-877             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000992406701/62-106              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000992406701/192-236             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000992406701/512-545             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001022487761/169-206             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001022487761/276-319             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000210878072/921-972             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000210878072/1658-1705           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001126630429/202-239             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001126630429/309-352             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000960639377/308-361             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000373071065/2418-2469           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000452678974/652-697             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000452678974/766-806             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000497463128/9-47                DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000497463128/132-169             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000200227909/919-969             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000402706748/42-94               DE [subseq from] PL=11 UP=0 BIOMES=0100000000000
+#=GS MGYP001145283340/512-564             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001118624954/361-398             DE [subseq from] PL=11 UP=0 BIOMES=0000000011000
+#=GS MGYP000461683983/208-260             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000181553460/335-387             DE [subseq from] PL=10 UP=0 BIOMES=0100000000000
+#=GS MGYP001048230985/2426-2476           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000723965958/1063-1116           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000723965958/1892-1945           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000426589905/31-85               DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000203146465/1062-1115           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000203146465/1901-1954           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001119447596/157-195             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001119447596/278-327             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001086535572/10-61               DE [subseq from] PL=00 UP=0 BIOMES=1000000000000
+#=GS MGYP001024466661/2348-2403           DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000641871702/154-205             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001101512565/34-85               DE [subseq from] PL=00 UP=0 BIOMES=1000000000000
+#=GS MGYP000411841789/9-60                DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000853313066/288-340             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000193752098/121-169             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000013773706/17-68               DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000013773706/104-147             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000933771552/63-114              DE [subseq from] PL=11 UP=0 BIOMES=1000000000000
+#=GS MGYP001151485827/613-656             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000334739182/12-63               DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000565415741/113-166             DE [subseq from] PL=11 UP=0 BIOMES=0000000000001
+#=GS MGYP001156130948/313-364             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000208470832/168-219             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001080247514/818-861             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000294599658/60-112              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001059127116/2-55                DE [subseq from] PL=01 UP=0 BIOMES=0000000100000
+#=GS MGYP000975465621/445-497             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000394166591/231-282             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001026843045/99-153              DE [subseq from] PL=10 UP=0 BIOMES=0000000100000
+#=GS MGYP000861784661/11-56               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000861784661/108-165             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001034862636/108-162             DE [subseq from] PL=10 UP=0 BIOMES=0000000100000
+#=GS MGYP001048231314/169-220             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000450285059/45-100              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001155538910/132-187             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000535930666/219-274             DE [subseq from] PL=00 UP=0 BIOMES=0000000000001
+#=GS MGYP001090542566/58-110              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000190920232/215-268             DE [subseq from] PL=01 UP=0 BIOMES=0000000000001
+#=GS MGYP000885066809/121-169             DE [subseq from] PL=11 UP=0 BIOMES=1000000000000
+#=GS MGYP000280084023/23-74               DE [subseq from] PL=11 UP=0 BIOMES=0100000000000
+#=GS MGYP000005149412/105-158             DE [subseq from] PL=11 UP=0 BIOMES=0000000000001
+#=GS MGYP000247413211/116-168             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000594230894/941-993             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000020356756/44-91               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000580041500/104-158             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001023492984/62-108              DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001023492984/158-216             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000518617436/107-149             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001069405670/271-306             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000161916771/41-79               DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001097062655/101-152             DE [subseq from] PL=01 UP=0 BIOMES=0000000100000
+#=GS MGYP000072478726/7-56                DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000258626731/70-124              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000672280030/163-218             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000906963290/198-251             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000906963290/639-684             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000916154592/170-221             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000892143650/663-714             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000944145950/232-278             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000089984033/314-365             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001062268299/329-370             DE [subseq from] PL=11 UP=0 BIOMES=1000000000000
+#=GS MGYP001096252513/302-349             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000296561809/36-85               DE [subseq from] PL=10 UP=0 BIOMES=0100000000000
+#=GS MGYP000117885201/2-42                DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP001047171460/29-84               DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001148898038/976-1028            DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000849528856/610-663             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000849528856/713-765             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000697999777/110-159             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000742123493/66-118              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP001056494078/911-964             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000430201777/508-561             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000379415052/5-47                DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000859409414/215-269             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP001141218866/290-339             DE [subseq from] PL=11 UP=0 BIOMES=0000000100000
+#=GS MGYP001149473579/237-286             DE [subseq from] PL=11 UP=0 BIOMES=0000000100000
+#=GS MGYP000485798741/219-259             DE [subseq from] PL=10 UP=0 BIOMES=0000000000001
+#=GS MGYP000220880053/715-768             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000391316896/93-146              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001117473079/117-168             DE [subseq from] PL=01 UP=0 BIOMES=0000000100000
+#=GS MGYP000459119997/12-62               DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001149931243/551-604             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000253281265/1-46                DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000022160590/397-446             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001026079647/331-380             DE [subseq from] PL=00 UP=0 BIOMES=0000000100000
+#=GS MGYP000068846500/2-58                DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000503272890/78-120              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000726411479/13-68               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000114117878/92-133              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000858252092/337-370             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000858252092/458-491             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000928149968/172-225             DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000147082767/111-159             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000868587609/31-78               DE [subseq from] PL=00 UP=1 BIOMES=0100000000000
+#=GS MGYP000868587609/174-225             DE [subseq from] PL=00 UP=1 BIOMES=0100000000000
+#=GS MGYP000485794614/156-207             DE [subseq from] PL=00 UP=0 BIOMES=0000000000001
+#=GS MGYP000102465358/5-56                DE [subseq from] PL=11 UP=0 BIOMES=0000000000001
+#=GS MGYP000576690805/31-76               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000600125440/1-44                DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000001015404/70-117              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000001015404/288-325             DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000039353671/114-162             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001078201103/74-115              DE [subseq from] PL=01 UP=0 BIOMES=0100000000000
+#=GS MGYP000244707423/87-133              DE [subseq from] PL=11 UP=0 BIOMES=0100000000000
+#=GS MGYP001140642799/538-584             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP001065268694/540-586             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000848364477/638-684             DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000229260760/160-211             DE [subseq from] PL=10 UP=0 BIOMES=0000000000001
+#=GS MGYP000358877240/45-99               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000088100184/91-139              DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000981526023/714-767             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001076733440/105-137             DE [subseq from] PL=00 UP=0 BIOMES=1000000000000
+#=GS MGYP000087199663/39-93               DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000447928081/234-278             DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000934970866/2852-2906           DE [subseq from] PL=00 UP=0 BIOMES=0100000000000
+#=GS MGYP000550671371/412-463             DE [subseq from] PL=01 UP=0 BIOMES=0000000000001
+#=GS MGYP000630172983/2-48                DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP001149870362/94-138              DE [subseq from] PL=01 UP=0 BIOMES=0100000000000
+#=GS MGYP000666070162/202-239             DE [subseq from] PL=00 UP=0 BIOMES=0110000000000
+#=GS MGYP000370675883/39-87               DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000102366416/79-120              DE [subseq from] PL=10 UP=0 BIOMES=0110000000000
+#=GS MGYP000280076724/19-70               DE [subseq from] PL=11 UP=0 BIOMES=0100000000000
+
+Klebsormidium_flaccidum_(charophytic         GARLLSKRLEIFWP---A-D---Q--AWYWG-VVEKYD-S-A---T-GKH-T--V-LY-DD--E-TV-E-E-LV-LADEKLRWSDG
+MGYP000697441474/58-106                      ------RRVRVFWP---E-E---D--AWFAG-FVGSYD-R-D---T-KKH-T--V-YY-DD--G-EI-E-R-IV-LADEKVEW---
+#=GR MGYP000697441474/58-106              PP ......799*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000697441474/196-244                     -----GRRVSVLWP---D-E---N--RRFTG-VIDGYN-A-D---D-DVH-T--I-AY-DD--G-TV-E-H-HV-LADEDVH----
+#=GR MGYP000697441474/196-244             PP .....6899*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****876....
+MGYP000697441474/265-317                     --RVAKRRVAVFWP---L-E---K--TWFTG-IVDARD-A-E---T-KQH-T--I-VY-DD--G-EV-E-R-IE-MVKEKVKS---
+#=GR MGYP000697441474/265-317             PP ..677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****9875...
+MGYP001094702512/58-106                      ------RRVRVFWP---E-E---D--AWFAG-FVGSYD-R-D---T-KKH-T--V-YY-DD--G-EI-E-R-IV-LADEKVEW---
+#=GR MGYP001094702512/58-106              PP ......799*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP001094702512/196-244                     -----GRRVSVLWP---D-E---N--RRFTG-VIDGYN-A-D---D-DVH-T--I-AY-DD--G-TV-E-H-HV-LADEDVH----
+#=GR MGYP001094702512/196-244             PP .....6899*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****876....
+MGYP001094702512/265-319                     --RVAKRRVAVFWP---L-E---K--TYFTG-IVDARD-A-E---T-KQH-T--I-VY-DD--G-EV-E-R-VE-MVKEKVKWLD-
+#=GR MGYP001094702512/265-319             PP ..677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********87.
+MGYP001143221814/1-46                        ----------VFWP---E-E---D--AWFAG-FVGAYD-R-D---T-KKH-T--V-YY-DD--G-EV-E-R-IV-LADEKVEWL--
+#=GR MGYP001143221814/1-46                PP ..........7***...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001143221814/135-183                     -----GRRVSVLWP---D-E---N--RRFTG-VIDGYD-A-D---D-DVH-T--I-AY-DD--G-TV-E-H-HV-LADEDVH----
+#=GR MGYP001143221814/135-183             PP .....5899*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****876....
+MGYP001143221814/204-258                     --RVAKRRVAVFWP---L-E---K--TWFTG-IVDARD-A-E---T-KQH-T--I-VY-DD--G-EV-E-R-IE-MVKEKVKWLD-
+#=GR MGYP001143221814/204-258             PP ..677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********87.
+MGYP000998757923/1-45                        ----------MFWP---E-E---D--AWFAG-FVGSYD-R-D---T-KKH-T--V-YY-DD--G-EI-E-R-IV-LADEKVEW---
+#=GR MGYP000998757923/1-45                PP ..........59**...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000998757923/135-183                     -----GRRVSVLWP---D-E---N--RRFTG-VIDGYN-A-D---D-DVH-T--I-AY-DD--G-TV-E-H-HV-LADEDVH----
+#=GR MGYP000998757923/135-183             PP .....6899*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****876....
+MGYP000998757923/204-258                     --RVAKRRVAVFWP---L-E---K--TWFTG-IVDARD-A-E---T-KQH-T--I-VY-DD--G-EV-E-R-IE-MVKEKVKWLD-
+#=GR MGYP000998757923/204-258             PP ..677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********87.
+MGYP001008400278/55-110                      GTALVGQRIEVHWP---L-D---E--EWYVA-MVTGYS-H-A---T-GQH-E--V-HYLDD--D-VV-E-R-LD-LAKEEWRL---
+#=GR MGYP001008400278/55-110              PP 667999********...*.*...*..*****.******.*.*...*.***.*..*.98789..9.9*.*.*.**.**998775...
+MGYP001008400278/534-588                     -TAVVGQRIEVHWP---L-D---E--EWYVA-MVTGYS-H-A---T-GQH-E--V-HYLDD--D-VV-E-Q-ID-LAKEEWRL---
+#=GR MGYP001008400278/534-588             PP .567899*******...*.*...*..*****.******.*.*...*.***.*..*.98789..9.9*.*.*.**.**999876...
+MGYP000520353541/33-70                       ------TRISVYWP---A-D---D--EWFNG-TIVKRR-S-E---N-GQD-V-FV-KY-DD--G-D--E-----------------
+#=GR MGYP000520353541/33-70               PP ......699*****...*.*...*..*****.******.*.*...*.*98.7.35.67.77..5.4..3.................
+MGYP000520353541/112-150                     ------CRLSVYWP---S-E---Q--EWYPG-TLTRKA-T-K---TKPPH-H--V-LF-DD--G-GE-E-----------------
+#=GR MGYP000520353541/112-150             PP ......599*****...*.*...*..*****.987665.5.5...5168*.*..*.**.*9..6.53.3.................
+MGYP000520353541/477-532                     ----VGKRLRVYQPV-GS-D---R--VWLEG-MIAAFD-A-D---T-GKH-E--I-LY-DR--G-TT-N-Q-YI-LQDIRYEWTEG
+#=GR MGYP000520353541/477-532             PP ....579*****995.55.9...9..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********997
+MGYP001004120865/253-306                     ----IGRCLEMWFP---E-I---E--QYYPG-EVIDYK-S-D---S-GEH-E--I-LY-ND--G-NR-E-W-VY-FCLQQTRWPDG
+#=GR MGYP001004120865/253-306             PP ....66789*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*********98
+MGYP001004120865/811-866                     GTKCVKREIEVFWP---G-D---E--CFYYG-TVEGFR-P-E---S-GEH-E--V-VY-DD--G-NK-E-I-LQ-VAMQTVRWG--
+#=GR MGYP001004120865/811-866             PP 56778899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000426139923/923-976                     --SVVGRRVAIYWV---D-D---K--SFYLG-VVDSFT-S-Q---T-GEH-G--I-KY-DD--G-EI-E-D-LF-LPMQRVKWL--
+#=GR MGYP000426139923/923-976             PP ..57889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000426139923/1675-1715                   ------LKLEIYWP---G-D---D--SFYSG-LVMGYD-A-V---K-LEH-T--I-KY-DA--E-GE-E-E-QI------------
+#=GR MGYP000426139923/1675-1715           PP ......589*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.98.8.8.65............
+MGYP000716243233/1314-1367                   ----VGRAMEVSVP---N-D---E--RFYAA-EVTGYK-A-D---S-GEH-E--I-MY-AD--G-NR-D-W-IY-LCLQTTRWPDG
+#=GR MGYP000716243233/1314-1367           PP ....567899****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*********98
+MGYP000716243233/1914-1965                   ----VGRHLEIFWP---G-D---G--AFYGG-TVASYK-T-E---T-GEH-E--V-YY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000716243233/1914-1965           PP ....5789******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000973350165/1575-1628                   ----VGRAMEVSVP---N-D---E--RFYAA-EVTGYK-A-D---S-GEH-E--I-MY-AD--G-NR-D-W-IY-LCLQTTRWPDG
+#=GR MGYP000973350165/1575-1628           PP ....567899****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*********98
+MGYP000973350165/2175-2226                   ----VGRHLEIFWP---G-D---G--AFYGG-TVASYK-T-E---T-GEH-E--V-YY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000973350165/2175-2226           PP ....5789******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000848369898/827-881                     -ESIVGRRIGLYWP---L-D---E--CFYLG-TVDEFM-P-T---T-GEH-T--V-RY-DD--G-EA-E-D-LL-LPMQRVKWL--
+#=GR MGYP000848369898/827-881             PP .567899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000848369898/1581-1630                   GAKAVGTALEILWP---D-D---E--TFYPC-KVTAYN-A-R---N-RSH-M--V-KY-DA--D-GITE-D-IQ-LW---------
+#=GR MGYP000848369898/1581-1630           PP 78889999******...*.*...*..*****.******.*.*...*.***.*..*.**.*7..7.6614.5.55.54.........
+MGYP000141188712/852-877                     --------------------------EWYPG-IVESID-G-T---A-GTY-N--I-LY-DD--G-DR-------------------
+#=GR MGYP000141188712/852-877             PP ..........................6****.******.*.*...*.***.*..*.**.*9..7.65...................
+MGYP000992406701/62-106                      -------TIRVWWP---D-D---K--CFYEA-RVKAVD-R-A---T-DTH-T--L-LY-IE--D-GV-E-E-TIDLKNE-------
+#=GR MGYP000992406701/62-106              PP .......5789***...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.9.9.7635555.......
+MGYP000992406701/192-236                     --------VRVWWP---L-D---E--AWYGG-EVLSYD-E-E---T-KTH-A--V-KY-YD--G-VE-E-R-LN-FNKEKV-----
+#=GR MGYP000992406701/192-236             PP ........689***...*.*...*..*****.******.*.*...*.***.*..*.**.*9..9.88.8.8.87.777775.....
+MGYP000992406701/512-545                     -----------------A-K---E--EWWDA-SIVKYN-A-T---T-GDH-Q--V-MY-ED--G-VR-E-W-LS-L----------
+#=GR MGYP000992406701/512-545             PP .................5.6...7..89889.999***.*.*...*.***.*..*.**.**..8.87.7.7.66.5..........
+MGYP001022487761/169-206                     ---------RVWWP---L-D---E--CYYEA-KVKGYD-K-S---T-RKY-R--L-LY-LD--D-NV-E-E-EV------------
+#=GR MGYP001022487761/169-206             PP .........799**...*.*...*..*****.******.*.*...*.***.*..*.**.99..9.99.9.8.65............
+MGYP001022487761/276-319                     ---LVGRRMKVWWP---D-D---K--AWYAG-EIRRFS-A-D---T-GKY-T--V-FY-FE--D-GE-E-E-DL------------
+#=GR MGYP001022487761/276-319             PP ...7899*******...*.*...*..*****.******.*.*...*.***.*..*.*9.88..7.77.6.6.44............
+MGYP000210878072/921-972                     ----VGCRCGIWWP---L-D---E--SFYLG-TVEGFI-P-N---T-GEH-S--I-RY-DD--G-EV-E-D-LL-LAMQRVKWL--
+#=GR MGYP000210878072/921-972             PP ....566889****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000210878072/1658-1705                   GVKAIGVRIEIYWP---P-E---D--IFYKG-KITGFD-P-K---A-CAH-Q--I-QY-DN--G-DE-E-T-ME-L----------
+#=GR MGYP000210878072/1658-1705           PP 5677889*******...*.*...*..*****.******.*.*...*.***.*..*.**.96..5.55.5.4.44.3..........
+MGYP001126630429/202-239                     ---------RVWWP---L-D---E--CYYEA-KVKGYD-K-S---T-RKY-R--L-LY-LD--D-NV-E-E-EV------------
+#=GR MGYP001126630429/202-239             PP .........799**...*.*...*..*****.******.*.*...*.***.*..*.**.99..9.99.9.8.65............
+MGYP001126630429/309-352                     ---LVGRRMKVWWP---D-D---K--AWYAG-EIRRFS-A-D---T-GKY-T--V-FY-FE--D-GE-E-E-DL------------
+#=GR MGYP001126630429/309-352             PP ...7899*******...*.*...*..*****.******.*.*...*.***.*..*.*9.88..7.77.6.6.44............
+MGYP000960639377/308-361                     -AKLVGREAKIFWP---L-D---K--KWYHG-CIDKYD-P-E---S-GRH-T--V-RY-KD--G-AI-E-E-LV-LKDEKIQY---
+#=GR MGYP000960639377/308-361             PP .7899999******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*****986...
+MGYP000373071065/2418-2469                   ----VGRHVEIFWP---G-D---A--AFYGG-VIAAYK-Q-E---T-GEH-E--L-FY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000373071065/2418-2469           PP ....56889*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000452678974/652-697                     -------TIRVWWP---D-D---E--CFYEA-RIRAWD-R-E---T-DIH-T--L-LY-IT--D-GV-E-EDLD-LKKEK------
+#=GR MGYP000452678974/652-697             PP .......6789***...*.*...*..*****.******.*.*...*.***.*..*.**.98..8.87.6.5266.77666......
+MGYP000452678974/766-806                     -------QIRIFWP---L-D---K--AWYGG-EVKGYC-D-K---K-MTH-V--V-LY-HD--G-VE-E-S-LD-F----------
+#=GR MGYP000452678974/766-806             PP .......689****...*.*...*..*****.******.*.*...*.***.*..*.**.*9..8.77.7.7.65.5..........
+MGYP000497463128/9-47                        --------VRVWWP---L-D---G--RYYEA-KVLAYD-A-S---T-REH-T--L-LY-ID--D-NV-E-E-KV------------
+#=GR MGYP000497463128/9-47                PP ........5799**...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.9.87............
+MGYP000497463128/132-169                     ---IVGRRVKVWWP---L-D---K--AWYAA-EVRSRD-A-A---T-NKF-S--V-YY-FE--D----------------------
+#=GR MGYP000497463128/132-169             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.99.76..5......................
+MGYP000200227909/919-969                     -----GRHVEIFWP---G-D---A--AFYGG-VIAAYK-T-E---T-GEH-E--L-FY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000200227909/919-969             PP .....6789*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000402706748/42-94                       --RVAKRRVAVFWP---L-E---K--TWFTG-IVDARD-A-E---T-KQH-T--I-VY-DD--G-EV-E-R-IE-MVKEKVKS---
+#=GR MGYP000402706748/42-94               PP ..677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.****9875...
+MGYP001145283340/512-564                     ---AIDRRVKVFWP---E-E---N--AFFTG-IVSKYD-R-K---T-EKH-T--V-TY-DD--G-DV-E-E-VT-LAKERMEWL--
+#=GR MGYP001145283340/512-564             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001118624954/361-398                     ---------------------------KYEQ-NTEKLD-V-A---G-GKI-K--V-EY-ND--T-TT-E-T-IV-LTEEMVKGF--
+#=GR MGYP001118624954/361-398             PP ...........................5666.789***.*.*...*.***.*..*.**.**..*.**.*.*.**.***998765..
+MGYP000461683983/208-260                     ---AIDRRVKVFWP---E-E---N--AFFTG-IVSKYD-R-K---T-EKH-T--V-TY-DD--G-DV-E-E-VT-LVKERMEWL--
+#=GR MGYP000461683983/208-260             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000181553460/335-387                     ---AIDRRVKVFWP---E-E---N--AFFTG-IVSKYD-R-K---T-EKH-T--V-TY-DD--G-DV-E-E-VT-LVKERMEWL--
+#=GR MGYP000181553460/335-387             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001048230985/2426-2476                   -----GRHVEIFWP---G-D---A--AFYGG-VIAAYK-T-E---T-GEH-E--L-FY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP001048230985/2426-2476           PP .....6789*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000723965958/1063-1116                   --EIINKKVAVYRS---S-D---D--GFHIG-TITKFL-E-S---S-GEH-R--V-EY-EN--G-KP-E-E-LY-LFLMDLKWE--
+#=GR MGYP000723965958/1063-1116           PP ..5789********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.999999996..
+MGYP000723965958/1892-1945                   ----VGVKLEIFWP---G-E---D--TWYSA-VIKSFD-E-S---T-CEH-V--C-EY-VD--D-DV-E-EKLA-LWD-DSNWEEG
+#=GR MGYP000723965958/1892-1945           PP ....6679******...*.*...*..*****.******.*.*...*.***.*..*.99.88..8.88.7.7155.555.4578776
+MGYP000426589905/31-85                       GAAVVGNRLGIWWP---L-D---Q--SFYLG-TVEGFI-H-N---T-GEH-S--V-RY-DD--G-EI-E-D-LL-LAMQRVKW---
+#=GR MGYP000426589905/31-85               PP 788999********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000203146465/1062-1115                   --EIINKKVAVYRS---S-D---D--GFHIG-TITKFL-E-S---S-GEH-R--V-EY-EN--G-KP-E-E-LY-LFLMDLKWE--
+#=GR MGYP000203146465/1062-1115           PP ..5789********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.999999996..
+MGYP000203146465/1901-1954                   ----VGVKLEIFWP---G-E---D--TWYSA-VIKSFD-E-S---T-CEH-V--C-EY-VD--D-DV-E-EKLA-LWD-DSNWEEG
+#=GR MGYP000203146465/1901-1954           PP ....6679******...*.*...*..*****.******.*.*...*.***.*..*.99.88..8.88.7.7155.555.4578776
+MGYP001119447596/157-195                     --------VRVWWP---L-D---G--RHYEA-KVLAYN-K-S---T-REH-T--L-LY-LD--D-DV-E-E-KV------------
+#=GR MGYP001119447596/157-195             PP ........5799**...*.*...*..*****.******.*.*...*.***.*..*.**.99..9.99.9.9.76............
+MGYP001119447596/278-327                     ----VGRRVQVWWP---L-D---K--AWYAA-EVRSRD-A-A---T-NAF-T--V-YY-FE--D-CE-E-ETLD-FANERV-----
+#=GR MGYP001119447596/278-327             PP ....689*******...*.*...*..*****.******.*.*...*.***.*..*.*9.88..8.77.6.6255.777765.....
+MGYP001086535572/10-61                       ------RRLEVWWP---E-D---E--AWYAG-RVTGFN-A-S---R-QRH-T--I-KY-DD--G-EV-E-R-VF-LPGERYRWEKG
+#=GR MGYP001086535572/10-61               PP ......79******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********876
+MGYP001024466661/2348-2403                   GADSIGRLVEVFWP---V-H---E--TFFNA-VIESFR-A-D---T-GEH-E--V-LY-DD--G-SR-E-T-VQ-LSMQTVRWG--
+#=GR MGYP001024466661/2348-2403           PP 566678899*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000641871702/154-205                     ----IDRRVKVFWP---E-E---K--EFFFG-VVTGYD-E-K---S-KKH-T--V-TY-DD--G-DV-E-A-VT-LAKEKMEWL--
+#=GR MGYP000641871702/154-205             PP ....6799******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001101512565/34-85                       ------RRLEVWWP---E-D---E--AWYAG-RVTGFN-A-S---R-QRH-T--I-KY-DD--G-EV-E-R-VF-LPGERYRWGKG
+#=GR MGYP001101512565/34-85               PP ......79******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********876
+MGYP000411841789/9-60                        ----IDRRVKVFWP---E-E---K--EFFFG-VVTGYD-E-K---S-KKH-T--V-TY-DD--G-DV-E-A-VT-LAKEKMEWL--
+#=GR MGYP000411841789/9-60                PP ....6799******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000853313066/288-340                     ---VLGRGLEIFWS---G-D---S--TWYSG-TVSNYD-A-N---T-GHH-E--V-VY-DD--G-AT-E-W-VN-LVNEKFKWR--
+#=GR MGYP000853313066/288-340             PP ...67899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000193752098/121-169                     GEELVGRPVKLYWP---T-D---Q--TWYDG-YVEKYD-A-E---T-QKH-T--V-RY-RD--G-EA-E-K-LL-LA---------
+#=GR MGYP000193752098/121-169             PP 567889999*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.*9.98.........
+MGYP000013773706/17-68                       ----VGRRLSVEIE---E-N---S--PSKEG-IIIAYD-P-A---T-NKH-T--V-KF-DE--C-GT-E-QVLV-LNCSKWEW---
+#=GR MGYP000013773706/17-68               PP ....5666666666...6.7...7..77789.******.*.*...*.***.*..*.**.99..7.66.6.5256.66667666...
+MGYP000013773706/104-147                     -----------------P-T---E--KWFLG-TIVGYC-E-E---T-GKH-R--IKLE-DE--K-TV-I-E-LV-LEKGKFKWTD-
+#=GR MGYP000013773706/104-147             PP .................4.5...7..8****.******.*.*...*.***.9..9355.66..7.9*.*.*.**.********98.
+MGYP000933771552/63-114                      ----VGRRLRVYWP---L-D---D--AWYEG-TVDAYD-G-G---S-RRH-R--V-KY-DD--G-EE-E-E-VD-LVKEKFEWA--
+#=GR MGYP000933771552/63-114              PP ....689*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********7..
+MGYP001151485827/613-656                     --------VRVFWP---L-D---D--AWYGG-HVTGYE-M-E---S-KKH-V--V-LY-HD--G-VE-E-R-LD-FEKEK------
+#=GR MGYP001151485827/613-656             PP ........679***...*.*...*..*****.******.*.*...*.***.*..*.**.**..9.88.8.8.87.77776......
+MGYP000334739182/12-63                       ----VNRRVNIFWP---E-E---N--AHYFG-VITEYD-Q-K---T-KKH-K--V-TY-DD--G-DA-K-D-VL-LHEQQMAWV--
+#=GR MGYP000334739182/12-63               PP ....689*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000565415741/113-166                     --KLVGKRIDVYWP---M-D---C--EWYSG-LVKSYN-S-S---R-NKH-K--V-CY-DD--G-DE-E-W-LN-LSNEKFRFQ--
+#=GR MGYP000565415741/113-166             PP ..7899********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.******985..
+MGYP001156130948/313-364                     ---AIDRRVRVFWP---A-E---G--AFFPG-TVQAFN-A-K---N-GKH-A--V-RY-DD--G-DV-E-E-VL-LAAERIEW---
+#=GR MGYP001156130948/313-364             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000208470832/168-219                     ---AVDRRVRVLWP---A-E---G--AFFSG-VVQAFN-P-K---N-GKH-K--V-RY-DD--G-DV-E-E-VL-LAAERIEW---
+#=GR MGYP000208470832/168-219             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP001080247514/818-861                     --------VRVFWP---L-D---D--AWYGG-HVTGYE-M-E---S-KKH-V--V-LY-HD--G-VE-E-R-LD-FEKEK------
+#=GR MGYP001080247514/818-861             PP ........679***...*.*...*..*****.******.*.*...*.***.*..*.**.**..9.88.8.8.87.77776......
+MGYP000294599658/60-112                      --AALGQRIGIWWP---L-D---E--VFYLG-TVEGFT-D-V---T-GEH-T--I-RY-DD--G-EA-E-D-LL-LPMQRVKW---
+#=GR MGYP000294599658/60-112              PP ..56899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP001059127116/2-55                        --EVVGRRLRVYWP---L-D---D--AWYEG-RVDAYD-A-G---S-RKH-R--V-KY-DD--G-EE-E-Q-VD-LGKERFEWA--
+#=GR MGYP001059127116/2-55                PP ..67899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********7..
+MGYP000975465621/445-497                     ---AIDRRVKVFWP---E-E---N--AFFSG-VVTGFD-K-K---S-GNH-T--V-CY-DD--G-DV-E-E-IN-LSKETMEWL--
+#=GR MGYP000975465621/445-497             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000394166591/231-282                     ---AVDRRVRVLWP---A-E---G--AFFSG-VVQAFN-P-K---N-GKH-K--V-RY-DD--G-DV-E-E-VL-LAAERIEW---
+#=GR MGYP000394166591/231-282             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP001026843045/99-153                      -AEVVGRRLRVYWP---L-D---D--AWYEG-RVDAYD-A-G---S-RKH-R--V-KY-DD--G-EE-E-Q-VD-LGKERFEWA--
+#=GR MGYP001026843045/99-153              PP .67889********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000861784661/11-56                       GSNILGQRLSVFWE---G-TDLGD--VWYDG-RVVEYN-H-A---K-KEY-L--V-EY-DD--G-DT-------------------
+#=GR MGYP000861784661/11-56               PP 7889*********8...6.41226..8****.******.*.*...*.***.*..*.**.*9..7.55...................
+MGYP000861784661/108-165                     GVSILGRTLEIYWSDPDS-G---D--AWYKG-VLKEYR-I-S---D-GKH-F--I-VF-ED--G-DS-D-W-YD-LDDIKYRL---
+#=GR MGYP000861784661/108-165             PP 667899*******53234.5...7..9****.******.*.*...*.***.*..*.**.**..9.88.8.8.88.88877776...
+MGYP001034862636/108-162                     -AEVVGRRLRVYWP---L-D---D--AWYEG-RVDAYD-A-G---S-RKH-R--V-KY-DD--G-EE-E-Q-VD-LGKERFEWA--
+#=GR MGYP001034862636/108-162             PP .67889********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001048231314/169-220                     ---AIDRRVRVFWP---A-E---G--AFFPG-TVQAFN-A-K---N-GKH-A--V-RY-DD--G-DV-E-E-VL-LAAERIEW---
+#=GR MGYP001048231314/169-220             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000450285059/45-100                      GTKCVKREIEVFWP---G-D---E--CFYYG-TVEGFR-P-E---S-GEH-E--V-VY-DD--G-NK-E-I-LQ-VAMQTVRWG--
+#=GR MGYP000450285059/45-100              PP 56778899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001155538910/132-187                     GTKCVKREIEVFWP---G-D---E--CFYYG-TVEGFR-P-E---S-GEH-E--V-VY-DD--G-NK-E-I-LQ-VAMQTVRWG--
+#=GR MGYP001155538910/132-187             PP 56778899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000535930666/219-274                     --ELVGQRIDVYWP---M-D---C--EWYSG-LVKSYN-S-S---R-NKH-K--V-CY-DD--G-DE-E-W-LN-LSNEKFRFQSG
+#=GR MGYP000535930666/219-274             PP ..57899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*******9876
+MGYP001090542566/58-110                      ---VIGRRVAIWWP---T-E---E--LYYLG-FVEGYN-S-A---N-GEH-A--I-KY-DD--N-QV-E-D-IM-LFMQKFKML--
+#=GR MGYP001090542566/58-110              PP ...6889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*99998765..
+MGYP000190920232/215-268                     --KLVGKRIDVYWP---M-D---C--EWYSG-SVKSYN-S-S---R-NQH-K--V-CY-DD--G-DE-E-W-LN-LSNEKFRFQ--
+#=GR MGYP000190920232/215-268             PP ..7999********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.******985..
+MGYP000885066809/121-169                     ---VLNRRIKVFWP---L-D---Q--SWYFG-LVNEYD-K-E---R-KLH-H--V-KY-DD--R-DE-E-W-IN-LQNER------
+#=GR MGYP000885066809/121-169             PP ...689********...*.*...*..*****.******.*.*...*.***.*..*.**.**..9.99.9.8.88.88886......
+MGYP000280084023/23-74                       ----VGRHVEIFWP---G-D---A--AFYGG-VIAAYK-T-E---T-GEH-E--L-FY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000280084023/23-74               PP ....56889*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000005149412/105-158                     --KLVGKRIDVYWP---M-D---C--EWYSG-SVKSYN-S-S---R-NQH-K--V-CY-DD--G-DE-E-W-LN-LSNEKFRFQ--
+#=GR MGYP000005149412/105-158             PP ..7999********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.******985..
+MGYP000247413211/116-168                     ---AIDRRVRVFWP---E-E---G--AYFSG-IVTSFD-A-A---S-GEH-V--V-TY-DD--G-DV-E-S-VT-LSKETFEWL--
+#=GR MGYP000247413211/116-168             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.******996..
+MGYP000594230894/941-993                     ---AIDRRVKVFWP---D-E---N--AYFFG-VVTGYD-P-K---S-KKH-T--V-TY-DD--G-DV-E-N-VN-LSKEQMEWL--
+#=GR MGYP000594230894/941-993             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000020356756/44-91                       GAGLVGWRVRVFWK---A-E---N--AWFYG-TVKAFD-A-A---S-GKH-A--V-SY-DD--G-DE-Q-T-LA-L----------
+#=GR MGYP000020356756/44-91               PP 7889999*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..8.77.7.6.66.5..........
+MGYP000580041500/104-158                     --NVVDRRVAVFWP---T-E---G--LFYLG-RIASYN-C-A---S-GEH-T--I-WY-DD--D-QT-E-D-VM-LFMQRMKWLD-
+#=GR MGYP000580041500/104-158             PP ..67899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********87.
+MGYP001023492984/62-108                      GAAVLGQRLSVFWE---GTD---EGDVWYPG-HVVEYN-H-S---K-QEY-L--V-EY-DD--G-DT-D-----------------
+#=GR MGYP001023492984/62-108              PP 7899*********8...634...3337****.******.*.*...*.***.*..*.**.*9..7.65.5.................
+MGYP001023492984/158-216                     GVQLLGERLEVFWSDPDS-G---D--AWYGG-VVKEFR-I-S---D-DKH-F--I-QF-DD--G-DS-D-W-YD-LEDIKYRVP--
+#=GR MGYP001023492984/158-216             PP 789**********63234.5...7..9****.******.*.*...*.***.*..*.**.**..9.98.8.8.88.888887765..
+MGYP000518617436/107-149                     GAELVGCRLHVYWP---K-D---S--AWYGG-LCEDFD-S-K---K-GQH-S--I-AY-DD--G-DK-------------------
+#=GR MGYP000518617436/107-149             PP 8999**********...*.*...*..*****.******.*.*...*.***.*..*.**.*9..7.54...................
+MGYP001069405670/271-306                     ----VGRHLEIFWP---G-D---N--VFYGG-TIAQYK-G-E---T-GEH-E--V-YY-DD-------------------------
+#=GR MGYP001069405670/271-306             PP ....5789******...*.*...*..*****.******.*.*...*.***.*..*.**.*8.........................
+MGYP000161916771/41-79                       ---LVQRRVKVFWP---L-D---N--AWYPG-LVTEYD-P-A---S-RTH-T--V-SY-DD--G-E--------------------
+#=GR MGYP000161916771/41-79               PP ...7899*******...*.*...*..*****.******.*.*...*.***.*..*.**.*9..5.3....................
+MGYP001097062655/101-152                     -AEVVGRRLRVYWP---L-D---D--AWYKG-QVEAYD-A-A---S-RRH-R--V-KY-AD--G-DE-E-E-VD-LGKEKF-----
+#=GR MGYP001097062655/101-152             PP .67889********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*99997.....
+MGYP000072478726/7-56                        GSGLVGCRLQVYWP---D-D---E--KWYAG-YCDDFD-S-D---A-ETH-T--I-IY-DD--K-TT-E-K-IS-LRS--------
+#=GR MGYP000072478726/7-56                PP 5678899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.9.98.865........
+MGYP000258626731/70-124                      -KKCVKREIEVFWP---G-D---E--CFYYG-TVEGFR-P-E---S-GEH-E--I-AY-DD--G-NR-E-I-LQ-IAMQTVRWG--
+#=GR MGYP000258626731/70-124              PP .5677899******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********7..
+MGYP000672280030/163-218                     -ASLVGRRVRVYWP---E-D---D--AFYPG-TVTKYD-ARG---A-GKH-H--V-RY-DD--G-DE-E-A-LA-LHRERLRWC--
+#=GR MGYP000672280030/163-218             PP .56899********...*.*...*..*****.******.846...8.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000906963290/198-251                     --KVISRRVLVYWP---K-D---A--KFYRG-TIARFH-P-N---D-ETY-D--V-AY-DD--G-DE-E-R-ID-LSKQRLMWE--
+#=GR MGYP000906963290/198-251             PP ..689*********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000906963290/639-684                     -ALSIGFRVGIAWP---M-D---R--CHYPG-KIIRFD-P-E---E-LRH-M--V-QY-DD--D-GV-R-E-YL------------
+#=GR MGYP000906963290/639-684             PP .556677999****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.8.8.53............
+MGYP000916154592/170-221                     ---AIGRRVRVFWP---N-E---G--AFFTG-AVTGFN-P-K---S-GRH-S--V-KY-DD--G-DV-E-E-VL-LAAERIEW---
+#=GR MGYP000916154592/170-221             PP ...6789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP000892143650/663-714                     --DLIGRPVKVFWP---I-D---K--AWYHG-YVEKYY-P-D---T-KKH-G--V-RY-DD--G-HF-E-D-VL-LCNETVE----
+#=GR MGYP000892143650/663-714             PP ..6888999*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*999775....
+MGYP000944145950/232-278                     ----VGRRLAVYWP---D-D---D--AWYHG-TVSSWD-P-Q---T-GQH-H--V-LY-DD--G-IE-E-A-IN-LHEE-------
+#=GR MGYP000944145950/232-278             PP ....689*******...*.*...*..*****.******.*.*...*.***.*..*.**.*9..8.66.6.6.65.5554.......
+MGYP000089984033/314-365                     ---AVDRRVRVFWP---A-E---G--AFFSG-TVMGFN-S-K---N-GKH-K--V-RY-DD--G-DA-E-E-VL-LAAERIEW---
+#=GR MGYP000089984033/314-365             PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********...
+MGYP001062268299/329-370                     ---LLHRRIRVYWP---A-D---N--AWFPG-RVVVYR-P-E---T-GQH-L--V-HF-DD--G-DE-R-W---------------
+#=GR MGYP001062268299/329-370             PP ...899********...*.*...*..*****.******.*.*...*.***.*..*.**.*9..7.65.5.5...............
+MGYP001096252513/302-349                     GAGLVGWRVRVFWK---A-E---N--AWFYG-TVKAFD-A-A---S-GKH-A--V-SY-DD--G-DE-Q-T-LA-L----------
+#=GR MGYP001096252513/302-349             PP 7889999*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..8.77.6.6.65.5..........
+MGYP000296561809/36-85                       ---VIGRRLCVYWP---D-D---S--QWYCG-IINDYD-P-K---D-DKH-L--V-HY-DD--D-KD-E-W-LL-LKDEIV-----
+#=GR MGYP000296561809/36-85               PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.***976.....
+MGYP000117885201/2-42                        ----IGRKIRVFWP---V-D---E--RWYTG-TVHEYD-R-S---T-GEH-L--L-RY-SD--G-DS-E-W---------------
+#=GR MGYP000117885201/2-42                PP ....67899*****...*.*...*..*****.******.*.*...*.***.*..*.**.99..7.76.5.4...............
+MGYP001047171460/29-84                       GAEVVGRRLKVWWP---A-D---E--AWYAG-GVASYD-G-E------RH-A--I-QY-DD--G-DE-E-A-VD-LSKEKFEFLEG
+#=GR MGYP001047171460/29-84               PP 79999*********...*.*...*..*****.******.8.5......8*.*..*.**.**..*.*9.9.9.99.****9988765
+MGYP001148898038/976-1028                    ---ALDRRVRVFWP---E-E---G--AYFSG-IVTSFD-A-A---S-GEH-V--V-TY-DD--G-DV-E-S-VT-LSKETFEWL--
+#=GR MGYP001148898038/976-1028            PP ...6899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.******996..
+MGYP000849528856/610-663                     -ATLVGQRLDFYWP---I-D---D--VWYDA-TCVAHL-H-G---T-RYE-M--E-WT-DD--H-TR-E-Q-FC-LAVPTYAW---
+#=GR MGYP000849528856/610-663             PP .67899********...*.*...*..*****.999999.9.9...9.999.9..9.99.99..9.99.9.9.99.99777666...
+MGYP000849528856/713-765                     --TLVGQRIKVHWP---L-D---K--VWYVA-VVTGYS-H-E---T-KKT-E--V-RYVDD--D-VV-E-A-LD-LEKEEWR----
+#=GR MGYP000849528856/713-765             PP ..68999*******...*.*...*..*****.******.*.*...*.***.9..9.98577..7.88.8.8.88.8766554....
+MGYP000697999777/110-159                     ---LVGRRVKVWWP---L-D---K--AWYAG-EVRRFD-A-E---T-SRH-V--V-YY-FE--D-NE-E-ESLD-LSQEQ------
+#=GR MGYP000697999777/110-159             PP ...7899*******...*.*...*..*****.******.*.*...*.***.*..*.98.66..6.55.5.4166.77776......
+MGYP000742123493/66-118                      ---AIDRRVEIFWP---E-E---N--ADFVG-TVTGYD-E-K---S-KKH-T--V-TY-DD--G-DV-ECE-LE-LHKEQMEW---
+#=GR MGYP000742123493/66-118              PP ...5789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.989.99.******99...
+MGYP001056494078/911-964                     --TVVGRRVGIWWP---L-D---E--SFYLG-TVEGFI-P-T---T-GEH-T--V-RY-DD--G-ES-E-D-LL-LPMQRVKWL--
+#=GR MGYP001056494078/911-964             PP ..57889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000430201777/508-561                     --SVVGRRVAIYWV---D-D---K--SFYLG-VVDSFT-S-Q---T-GEH-G--I-KY-DD--G-EI-E-D-LF-LPMQRVKWL--
+#=GR MGYP000430201777/508-561             PP ..67889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000379415052/5-47                        ---MLGKKVRVFWP---V-D---E--SWYTG-TVQEYD-A-S---T-LEH-L--L-CY-SD--G-DT-E-W-V-------------
+#=GR MGYP000379415052/5-47                PP ...799********...*.*...*..*****.******.*.*...*.***.*..*.**.99..8.77.7.5.5.............
+MGYP000859409414/215-269                     GAEIVGRRVAVYWK---G-D---K--LWYDG-TVGAYD-P-A---D-GVH-Q--V-VY-DD--G-TV-Q-W-ES-LYFVRLRW---
+#=GR MGYP000859409414/215-269             PP 8999**********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.9.9.99.99999999...
+MGYP001141218866/290-339                     ----VKERIRVFWP---L-D---E--TWYFG-LVKEYD-P-V---K-KLH-H--V-RY-DD--K-DE-E-W-IN-LQNERIK----
+#=GR MGYP001141218866/290-339             PP ....6789******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.9.9.99.9999876....
+MGYP001149473579/237-286                     ----VKERIRVFWP---L-D---E--TWYFG-LVKEYN-P-V---T-RLH-H--V-RY-DD--K-DE-E-W-IN-LQNERIK----
+#=GR MGYP001149473579/237-286             PP ....6789******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.9.9.99.9999876....
+MGYP000485798741/219-259                     --KLVGKRIDVYWP---M-D---C--EWYSG-LVKSYN-S-S---R-NKH-K--V-CY-DD--G-DE-------------------
+#=GR MGYP000485798741/219-259             PP ..7899********...*.*...*..*****.******.*.*...*.***.*..*.**.*9..7.54...................
+MGYP000220880053/715-768                     --SVVGRRVAIYWV---D-D---K--SFYLG-VVDSFT-S-Q---T-GEH-G--I-KY-DD--G-EI-E-D-LF-LPMQRVKWL--
+#=GR MGYP000220880053/715-768             PP ..57889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000391316896/93-146                      ---VIGRRIAVWWA---I-E---Q--LFYLG-NVEAYN-V-A---N-GDH-S--I-RY-DD--G-QL-E-D-VA-LCMQRVKWLD-
+#=GR MGYP000391316896/93-146              PP ...6889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********98.
+MGYP001117473079/117-168                     -AEVVGRRLRVYWP---L-D---D--AWYKG-RVEAYH-A-A---S-RRH-R--V-KY-AD--G-DE-E-E-VD-LGKEKF-----
+#=GR MGYP001117473079/117-168             PP .67889********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.*99997.....
+MGYP000459119997/12-62                       -----GRHVEIFWA---G-D---S--AFYGG-TIAAYK-A-E---T-GEH-E--L-FY-DD--G-GK-E-T-LQ-LSMQTVRWG--
+#=GR MGYP000459119997/12-62               PP .....6889*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP001149931243/551-604                     --SVVGRRVAIYWV---D-D---K--SFYLG-VVDSFT-S-Q---T-GEH-G--I-KY-DD--G-EI-E-D-LF-LPMQRVKWL--
+#=GR MGYP001149931243/551-604             PP ..57889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000253281265/1-46                        ----------LYWP---L-D---E--CFYLG-TVDEFM-P-T---T-GEH-T--I-RY-DD--G-EA-E-D-LL-LPMQRVKWL--
+#=GR MGYP000253281265/1-46                PP ..........69**...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********6..
+MGYP000022160590/397-446                     GAELLGWRVRVWWP---E-E---E--AWFHG-TVAKFD-A-S---S-GRH-G--I-EY-ED--G-DE-K-E-IA-LGG--------
+#=GR MGYP000022160590/397-446             PP 899***********...*.*...*..*****.******.*.*...*.***.*..*.**.**..9.99.9.9.98.875........
+MGYP001026079647/331-380                     ----VKERIRVFWP---L-D---E--TWYFG-LVKEYD-P-V---K-KLH-H--V-RY-DD--K-DE-E-W-IN-LQNERIK----
+#=GR MGYP001026079647/331-380             PP ....6789******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.9.9.99.9999876....
+MGYP000068846500/2-58                        -AHLVGKRIEVYWD---G-D---A--RFYKG-RVARYA-P-R---T-GRH-E--V-AY-DD--D-ET-E-W-LR-LDRARHRFVDG
+#=GR MGYP000068846500/2-58                PP .6899*********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.*9.9.9.99.98888887776
+MGYP000503272890/78-120                      -------EVRVFWP---L-D---K--AWYAG-TVQSYD-P-K---T-KLH-V--V-LY-HD--S-LE-E-S-LD-FST--------
+#=GR MGYP000503272890/78-120              PP .......4679***...*.*...*..*****.******.*.*...*.***.*..*.**.**..9.88.8.8.76.665........
+MGYP000726411479/13-68                       GAEVVGRRLKVWWP---A-D---A--AWYAG-GVASYD-G-E------RH-A--I-QY-DD--G-DE-E-A-VD-LSKEKFEFLEG
+#=GR MGYP000726411479/13-68               PP 79999*********...*.*...*..*****.******.8.5......8*.*..*.**.**..*.*9.9.9.99.****9987665
+MGYP000114117878/92-133                      --------VRVFWP---L-D---D--AWYGG-VCRGYD-A-E---T-KRH-A--V-LY-HD--G--V-E-E-FL-DFDE-------
+#=GR MGYP000114117878/92-133              PP ........679***...*.*...*..*****.******.*.*...*.***.*..*.**.99..7..5.5.5.55.4444.......
+MGYP000858252092/337-370                     -------QISVFWP---A-E---H--QWFTG-HVSAVD-R-A---D-DTQ-Q--V-VY-DD--G----------------------
+#=GR MGYP000858252092/337-370             PP .......689****...*.*...*..*****.******.*.*...*.***.*..*.**.*9..6......................
+MGYP000858252092/458-491                     --------IWVHWP---A-E---R--MWYRC-EVLQFD-H-A---D-GTH-R--V-MY-ED--G-D--------------------
+#=GR MGYP000858252092/458-491             PP ........6689**...*.*...*..*****.******.*.*...*.***.*..*.**.99..6.4....................
+MGYP000928149968/172-225                     -AKILRQRVRVFWK---H-D---R--AWFVG-VVREFD-P-V---D-DTH-T--V-AY-DD--G-DV-V-K-HH-LNDPSVQW---
+#=GR MGYP000928149968/172-225             PP .7899*********...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.99.9.9.99.99999999...
+MGYP000147082767/111-159                     -----GARISVFWP---A-D---K--EWYSG-VIVDFK-A-E---Q-GLH-S--I-RY-DD--G-EV-D-W-ID-LAIEEIK----
+#=GR MGYP000147082767/111-159             PP .....6799*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.9.99.9998876....
+MGYP000868587609/31-78                       ---VKGKRVSVLFD-----N---S--KWYGG-VIRDWS-A-I---D-DHH-L--V-TY-DD--G-ET-K-W-HS-LADDE------
+#=GR MGYP000868587609/31-78               PP ...56788888875.....5...6..8****.******.*.*...*.***.*..*.**.**..8.88.8.8.88.88875......
+MGYP000868587609/174-225                     GASLVGLHIEVHWP---L-D---D--EWYVA-QVLRFD-A-E---T-VRH-T--V-EY-IA--D-GL-E-EHLT-LSTE-------
+#=GR MGYP000868587609/174-225             PP 7899999*******...*.*...*..*****.******.*.*...*.***.*..*.**.87..7.77.6.6266.6665.......
+MGYP000485794614/156-207                     ---LIGRKLRVYWP---L-D---D--SWYSG-CVKAYE-D-P-----PFH-C--I-LY-DD--G-EE-E-A-IC-LQKEKIEWL--
+#=GR MGYP000485794614/156-207             PP ...7899*******...*.*...*..*****.*****9.8.6.....57*.*..*.**.**..*.**.*.*.**.********5..
+MGYP000102465358/5-56                        ---LIGRKLKVYWP---L-D---D--SWYSG-CVKAYE-D-P---P--FH-R--I-LY-DD--G-EE-E-A-IC-LQKEKIEWL--
+#=GR MGYP000102465358/5-56                PP ...7899*******...*.*...*..*****.*****9.8.7...5..7*.*..*.**.**..*.**.*.*.**.********5..
+MGYP000576690805/31-76                       -------VLKVYWS---E-D---D--AWYTG-EVVGYE-A-A---T-ETH-T--I-HY-QD--G-DV-E-Q-LA-LHEEKF-----
+#=GR MGYP000576690805/31-76               PP .......589****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.***996.....
+MGYP000600125440/1-44                        ------------WP---L-D---E--SFYLG-TVEGFI-P-N---T-GEH-S--I-RY-DD--G-EV-E-D-LL-LAMQRVKWL--
+#=GR MGYP000600125440/1-44                PP ............**...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********5..
+MGYP000001015404/70-117                      --------IRVFWP---D-D---K--EWYEAKVVQAEDYK-K---S-GKK-TTKI-CY-SE--D-GV-E-EEID-IRNE-------
+#=GR MGYP000001015404/70-117              PP ........789***...*.*...*..***87355444423.5...6.776.6346.79.88..8.88.7.6144.5555.......
+MGYP000001015404/288-325                     ---LVNQKIKIYWP---L-D---K--VWYVA-DVLSFD-E-E---T-KKV-K--V-LY-VE--D----------------------
+#=GR MGYP000001015404/288-325             PP ...78899******...*.*...*..*****.******.*.*...*.***.*..*.*9.76..5......................
+MGYP000039353671/114-162                     -----GRRLKVWWP---K-D---S--AWYAG-TITAFN-G-R---T--KH-T--I-TY-DD--G-ET-E-V-LN-LSKETTRF---
+#=GR MGYP000039353671/114-162             PP .....68*******...*.*...*..*****.*****9.8.8...7..9*.*..*.**.**..*.**.*.*.*9.99998775...
+MGYP001078201103/74-115                      ----TDKKVRVFWP---V-D---Q--QWYIA-TVLKFD-S-S---T-GQH-L--L-RY-PD--G-DT-E-W-V-------------
+#=GR MGYP001078201103/74-115              PP ....5799******...*.*...*..*****.******.*.*...*.***.*..*.**.99..8.77.7.5.5.............
+MGYP000244707423/87-133                      ---VVGKRVTVFWP---L-D---K--AWYEG-EVHKFD-K-E---K-NQY-H--V-KY-DD--G-ED-E-I-LK-LDR--------
+#=GR MGYP000244707423/87-133              PP ...678********...*.*...*..*****.******.*.*...*.***.*..*.**.*9..8.66.5.5.54.433........
+MGYP001140642799/538-584                     ------ARVRIFWP---A-E---G--RYYAG-VVDAWD-A-R---T-RKH-V--V-KY-DD--G-DV-E-R-VD-LARETW-----
+#=GR MGYP001140642799/538-584             PP ......6999****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.*9.998864.....
+MGYP001065268694/540-586                     ------ARVRIFWP---A-E---G--RYYAG-VVDAWD-A-R---T-RKH-V--V-KY-DD--G-DV-E-R-VD-LARETW-----
+#=GR MGYP001065268694/540-586             PP ......6999****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.*9.998864.....
+MGYP000848364477/638-684                     ------ARVRIFWP---A-E---G--RYYAG-VVDAWD-A-R---T-RKH-V--V-KY-DD--G-DV-E-R-VD-LARETW-----
+#=GR MGYP000848364477/638-684             PP ......6999****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.*9.998864.....
+MGYP000229260760/160-211                     ---LIGRKLRVYWP---L-D---D--SWYSG-CVKAYE-D-P---P--FH-R--I-LY-DD--G-EE-E-A-IC-LQKEKIEWL--
+#=GR MGYP000229260760/160-211             PP ...7899*******...*.*...*..*****.*****9.8.7...5..7*.*..*.**.**..*.**.*.*.**.********5..
+MGYP000358877240/45-99                       --SVVGRRVAIWWP---T-E---E--LFFFG-RIEGYN-V-G---N-GEH-Q--V-RY-DD--G-QK-E-E-CM-LFMQRVKWLD-
+#=GR MGYP000358877240/45-99               PP ..56789*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********87.
+MGYP000088100184/91-139                      -----GARISVFWP---A-D---K--EWYSG-VIVDFK-A-E---Q-GLH-S--I-RY-DD--G-EI-D-W-ID-LAIEEIK----
+#=GR MGYP000088100184/91-139              PP .....6799*****...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.9.99.9999876....
+MGYP000981526023/714-767                     ---VIGRRIAVWWA---T-E---Q--LFYLG-NVEAYN-V-A---N-GDH-S--I-RY-DD--G-QL-E-D-VA-LCMQRVKWLD-
+#=GR MGYP000981526023/714-767             PP ...6889*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.**.*.*.**.********88.
+MGYP001076733440/105-137                     ---LVGRSLRVFWP---D-D---E--AWYLG-TVTAYD-S-S---T-GRH-Q--V-------------------------------
+#=GR MGYP001076733440/105-137             PP ...67899******...*.*...*..*****.******.*.*...*.***.8..7...............................
+MGYP000087199663/39-93                       -PDLVGKRVRVYWP---D-D---K--KWYSG-QAKAFD-S-V---T-LEH-L--V-RY-DD-GE-ER-Q-E-CL-TGLEPLQW---
+#=GR MGYP000087199663/39-93               PP .56899********...*.*...*..*****.******.*.*...*.***.*..*.**.99.55.66.7.8.88.88899999...
+MGYP000447928081/234-278                     --KLRGSKIEVYWP---D-D---D--AWYLG-KVIKYS-A-Q---R-REH-T--V-RY-DN--DDST-E-T-L-------------
+#=GR MGYP000447928081/234-278             PP ..677889******...*.*...*..*****.******.*.*...*.***.*..*.**.96..5155.5.5.5.............
+MGYP000934970866/2852-2906                   GAALVGRRIELFFP---L-D---E--EWYVA-MVTGYS-H-A---T-GQH-E--V-RYLDD--G-AV-E-R-LD-LAKEEWR----
+#=GR MGYP000934970866/2852-2906           PP 899***********...*.*...*..*****.******.*.*...*.***.*..*.99688..8.9*.*.*.**.**99866....
+MGYP000550671371/412-463                     ---LIGRKLRVYWP---L-D---D--SWYSG-CVKAYE-D-P-----PFH-C--I-LY-DD--G-EE-E-A-IC-LQKEKIEWL--
+#=GR MGYP000550671371/412-463             PP ...7899*******...*.*...*..*****.*****9.8.6.....57*.*..*.**.**..*.**.*.*.**.********5..
+MGYP000630172983/2-48                        ------RRVKVWWP---L-D---K--AWYAG-EVRRFD-A-E---T-SRH-V--V-YY-FE--D-NE-E-ESLD-LSQEQ------
+#=GR MGYP000630172983/2-48                PP ......799*****...*.*...*..*****.******.*.*...*.***.*..*.98.66..6.55.5.4166.77776......
+MGYP001149870362/94-138                      ---LVGCRISLFWP---A-D---C--AWYWG-RVSRYC-S-EPVEE-GKHHL--V-IY-DD--G--F-E-E---------------
+#=GR MGYP001149870362/94-138              PP ...567799*****...*.*...*..*****.*****9.8.52236.88626..7.88.87..5..3.4.4...............
+MGYP000666070162/202-239                     ---LIGRRLRVYWP---N-D---R--QWFLC-TVVAYK-P-E---T-DRH-Q--L-VY-DD--G----------------------
+#=GR MGYP000666070162/202-239             PP ...899********...*.*...*..*****.******.*.*...*.***.*..*.**.*9..5......................
+MGYP000370675883/39-87                       --------QEIFWS---G-D---E--QWFAG-VVESYN-E-V---S-KKH-R--I-VY-DDGDN-KA-H-D-LL-STKESYRF---
+#=GR MGYP000370675883/39-87               PP ........59****...*.*...*..*****.******.*.*...*.***.*..*.**.*8223.45.6.6.66.66666665...
+MGYP000102366416/79-120                      ----TDKKVRVFWP---V-D---Q--QWYIA-TVLKFD-T-S---T-GQH-L--L-RY-PD--G-DT-E-W-V-------------
+#=GR MGYP000102366416/79-120              PP ....5799******...*.*...*..*****.******.*.*...*.***.*..*.**.99..8.77.7.5.5.............
+MGYP000280076724/19-70                       -AAIVGSRVKVFWP---E-T---R--EWYVG-RLIKYR-R-S---K-GRH-K--I-VY-DD--Q-DF-E-W-MN-IPEEAA-----
+#=GR MGYP000280076724/19-70               PP .567899*******...*.*...*..*****.******.*.*...*.***.*..*.**.**..*.*9.9.9.88.887765.....
+#=GC PP_cons                                 677788999*****...*.*...*..*****.******.*.*...*.***.*..*.**.*9..9.99.9.9.99.99999999676
+#=GC RF                                      xxxxxxxxxxxxxx...x.x...x..xxxxx.xxxxxx.x.x...x.xxx.x..x.xx.xx..x.xx.x.x.xx.xxxxxxxxxxx
+//
