@@ -14,7 +14,8 @@ use python package `split-fasta`
 
 To Rename all FASTAs based on the sequence.
 
-```for f in *.fasta
+```
+   for f in *.fasta
     do
     f1=$(head -n1 "$f" | sed 's/^.//')
     mv -n "$f" "$f1.fasta"
