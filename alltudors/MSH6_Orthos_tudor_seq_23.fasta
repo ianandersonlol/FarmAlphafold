@@ -1,0 +1,10 @@
+>XP_013722675.1:147-205
+DEVVGKQVRVYWPLDKKWYEGSVTSYDKGEGKHMVEYEDGEEESLDLGKERIEWVVGE
+
+for f in *.fasta
+    do
+    echo $f
+    f1=$(head -n1 "$f" | sed 's/^.//')
+    mv -n "$f" "$f1.fasta"
+    echo $f1
+    done
