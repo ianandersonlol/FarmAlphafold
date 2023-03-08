@@ -6,15 +6,16 @@ Running farm on Alphafold
 
 
 To split fastas
-use python package `fastsasplit`
+use python package `split-fasta`
 
-`pip instal fastasplit`
+`pip install split-fasta`
 
-`fastasplit nameoffasta`
+`fastasplit <nameoffasta>`
 
 To Rename all FASTAs based on the sequence.
 
-```for f in *.fasta
+```
+   for f in *.fasta
     do
     f1=$(head -n1 "$f" | sed 's/^.//')
     mv -n "$f" "$f1.fasta"
