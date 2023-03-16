@@ -1,0 +1,19 @@
+<ROSETTASCRIPTS>
+   <SCOREFXNS>
+       <ScoreFunction name="r15" weights="ref2015"/>
+      <ScoreFunction name="r15-cart" weights="ref2015">
+        <Reweight scoretype="cart_bonded" weight="0.5"/>
+        <Reweight scoretype="pro_close" weight="0.0"/>
+      </ScoreFunction>
+   </SCOREFXNS>
+
+   <MOVERS>
+      <FastRelax name="relax" scorefxn="r15" repeats="10" cartesian="0"/>
+       <FastRelax name="relaxcart" scorefxn="r15-cart" repeats="10" cartesian="1"/>
+   </MOVERS>
+
+   <PROTOCOLS>
+       <Add mover="relax"/>
+      <Add mover="relaxcart"/>
+   </PROTOCOLS>
+</ROSETTASCRIPTS>

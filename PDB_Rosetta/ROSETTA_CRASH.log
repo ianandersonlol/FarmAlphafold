@@ -1,0 +1,120 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2021.16+release.8ee4f02ac57
+[COMMIT_DATE]: 2021-04-20T11:45:16.822269
+[APPLICATION]: /Users/iananderson/Downloads/rosetta_bin_mac_2021.16.61629_bundle/main/source/bin/rosetta_scripts.static.macosclangrelease
+[MODE]: Release
+[EXTRAS]: default
+[OS]: Apple Mac OS X
+[COMPILER]: Clang version "9.0.0 (clang-900.0.39.2)"
+[STDLIB]: libc++ version 4000
+[START_OPTIONS]
+ -in:ignore_unrecognized_res -in:path:database=/Users/iananderson/Downloads/rosetta_bin_mac_2021.16.61629_bundle/main/database/ -in:file:s=.//Users/iananderson/Desktop/Manihot_esculenta.pdb -in:file:native=.//Users/iananderson/Desktop/Manihot_esculenta.pdb -out:nstruct=500 -out:prefix=Fast-Relaxed- -out:file:scorefile=./Fast-Relax-/Users/iananderson/Desktop/Manihot_esculenta.pdb.sc -out:file:silent=./Fast-Relax-/Users/iananderson/Desktop/Manihot_esculenta.pdb.silent -out:file:silent_struct_type=binary -parser:protocol=./B_FastRelax.xml -optimization:default_max_cycles=200 -relax:constrain_relax_to_start_coords
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+0   rosetta_scripts.static.macosclangre 0x0000000104a0a91f backtrace_string(int) + 79
+1   rosetta_scripts.static.macosclangre 0x0000000104a0a85c utility::excn::Exception::Exception(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 204
+2   rosetta_scripts.static.macosclangre 0x0000000104aa393c utility::UtilityExitException::UtilityExitException(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 108
+3   rosetta_scripts.static.macosclangre 0x0000000104aa3877 utility::exit(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int) + 55
+4   rosetta_scripts.static.macosclangre 0x0000000102f28a2e core::import_pose::pose_from_file(core::pose::Pose&, core::chemical::ResidueTypeSet const&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, core::import_pose::ImportPoseOptions const&, bool, core::import_pose::FileType) + 2942
+5   rosetta_scripts.static.macosclangre 0x0000000102f2758f core::import_pose::pose_from_file(core::pose::Pose&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, core::import_pose::ImportPoseOptions const&, bool, core::import_pose::FileType) + 319
+6   rosetta_scripts.static.macosclangre 0x0000000102f26294 core::import_pose::pose_from_file(core::pose::Pose&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, bool, core::import_pose::FileType) + 68
+7   rosetta_scripts.static.macosclangre 0x0000000102a40adb protocols::simple_filters::NativeEvaluatorCreator::add_evaluators(protocols::evaluation::MetaPoseEvaluator&) const + 427
+8   rosetta_scripts.static.macosclangre 0x0000000102efb2dd protocols::evaluation::EvaluatorFactory::add_all_evaluators(protocols::evaluation::MetaPoseEvaluator&) + 45
+9   rosetta_scripts.static.macosclangre 0x0000000102ed2e5d protocols::jd2::JobOutputter::JobOutputter() + 221
+10  rosetta_scripts.static.macosclangre 0x0000000102ebd362 protocols::jd2::FileJobOutputter::FileJobOutputter() + 18
+11  rosetta_scripts.static.macosclangre 0x0000000102eeea06 protocols::jd2::SilentFileJobOutputter::SilentFileJobOutputter() + 22
+12  rosetta_scripts.static.macosclangre 0x0000000102ef2e6f protocols::jd2::SilentFileJobOutputterCreator::create_JobOutputter() const + 63
+13  rosetta_scripts.static.macosclangre 0x0000000102ed506b protocols::jd2::JobOutputterFactory::get_JobOutputter_from_string(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 75
+14  rosetta_scripts.static.macosclangre 0x0000000102ed53e1 protocols::jd2::JobOutputterFactory::get_new_JobOutputter(std::__1::shared_ptr<protocols::jd2::JobOutputter>) + 209
+15  rosetta_scripts.static.macosclangre 0x0000000102ed52dc protocols::jd2::JobOutputterFactory::get_new_JobOutputter() + 28
+16  rosetta_scripts.static.macosclangre 0x0000000102ed0107 protocols::jd2::JobDistributorFactory::create_job_outputter() + 103
+17  rosetta_scripts.static.macosclangre 0x0000000102ec6089 protocols::jd2::JobDistributor::init_jd() + 281
+18  rosetta_scripts.static.macosclangre 0x0000000102ec5eb9 protocols::jd2::JobDistributor::JobDistributor() + 121
+19  rosetta_scripts.static.macosclangre 0x0000000102ebfa19 protocols::jd2::FileSystemJobDistributor::FileSystemJobDistributor() + 25
+20  rosetta_scripts.static.macosclangre 0x0000000102ecfe7d protocols::jd2::JobDistributorFactory::create_job_distributor() + 461
+21  rosetta_scripts.static.macosclangre 0x0000000102ec5d6d protocols::jd2::JobDistributor::get_instance() + 125
+22  rosetta_scripts.static.macosclangre 0x0000000100cac32d main + 1421
+23  dyld                                0x000000020859a52e start + 462
+24  dyld                                0x0000000208595000 dyld + 0
+
+[END_BACKTRACE]
+
+[FILE]: src/core/import_pose/import_pose.cc
+[LINE]: 362
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Cannot open file ".//Users/iananderson/Desktop/Manihot_esculenta.pdb"
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2021.16+release.8ee4f02ac57
+[COMMIT_DATE]: 2021-04-20T11:45:16.822269
+[APPLICATION]: /Users/iananderson/Downloads/rosetta_bin_mac_2021.16.61629_bundle/main/source/bin/rosetta_scripts.static.macosclangrelease
+[MODE]: Release
+[EXTRAS]: default
+[OS]: Apple Mac OS X
+[COMPILER]: Clang version "9.0.0 (clang-900.0.39.2)"
+[STDLIB]: libc++ version 4000
+[START_OPTIONS]
+ -in:ignore_unrecognized_res -in:path:database=/Users/iananderson/Downloads/rosetta_bin_mac_2021.16.61629_bundle/main/database/ -in:file:s=./Users/iananderson/Desktop/Manihot_esculenta.pdb -in:file:native=./Users/iananderson/Desktop/Manihot_esculenta.pdb -out:nstruct=500 -out:prefix=Fast-Relaxed- -out:file:scorefile=./Fast-Relax-Users/iananderson/Desktop/Manihot_esculenta.pdb.sc -out:file:silent=./Fast-Relax-Users/iananderson/Desktop/Manihot_esculenta.pdb.silent -out:file:silent_struct_type=binary -parser:protocol=./B_FastRelax.xml -optimization:default_max_cycles=200 -relax:constrain_relax_to_start_coords
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+0   rosetta_scripts.static.macosclangre 0x0000000106bff91f backtrace_string(int) + 79
+1   rosetta_scripts.static.macosclangre 0x0000000106bff85c utility::excn::Exception::Exception(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 204
+2   rosetta_scripts.static.macosclangre 0x0000000106c9893c utility::UtilityExitException::UtilityExitException(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 108
+3   rosetta_scripts.static.macosclangre 0x0000000106c98877 utility::exit(char const*, int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int) + 55
+4   rosetta_scripts.static.macosclangre 0x000000010511da2e core::import_pose::pose_from_file(core::pose::Pose&, core::chemical::ResidueTypeSet const&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, core::import_pose::ImportPoseOptions const&, bool, core::import_pose::FileType) + 2942
+5   rosetta_scripts.static.macosclangre 0x000000010511c58f core::import_pose::pose_from_file(core::pose::Pose&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, core::import_pose::ImportPoseOptions const&, bool, core::import_pose::FileType) + 319
+6   rosetta_scripts.static.macosclangre 0x000000010511b294 core::import_pose::pose_from_file(core::pose::Pose&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, bool, core::import_pose::FileType) + 68
+7   rosetta_scripts.static.macosclangre 0x0000000104c35adb protocols::simple_filters::NativeEvaluatorCreator::add_evaluators(protocols::evaluation::MetaPoseEvaluator&) const + 427
+8   rosetta_scripts.static.macosclangre 0x00000001050f02dd protocols::evaluation::EvaluatorFactory::add_all_evaluators(protocols::evaluation::MetaPoseEvaluator&) + 45
+9   rosetta_scripts.static.macosclangre 0x00000001050c7e5d protocols::jd2::JobOutputter::JobOutputter() + 221
+10  rosetta_scripts.static.macosclangre 0x00000001050b2362 protocols::jd2::FileJobOutputter::FileJobOutputter() + 18
+11  rosetta_scripts.static.macosclangre 0x00000001050e3a06 protocols::jd2::SilentFileJobOutputter::SilentFileJobOutputter() + 22
+12  rosetta_scripts.static.macosclangre 0x00000001050e7e6f protocols::jd2::SilentFileJobOutputterCreator::create_JobOutputter() const + 63
+13  rosetta_scripts.static.macosclangre 0x00000001050ca06b protocols::jd2::JobOutputterFactory::get_JobOutputter_from_string(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 75
+14  rosetta_scripts.static.macosclangre 0x00000001050ca3e1 protocols::jd2::JobOutputterFactory::get_new_JobOutputter(std::__1::shared_ptr<protocols::jd2::JobOutputter>) + 209
+15  rosetta_scripts.static.macosclangre 0x00000001050ca2dc protocols::jd2::JobOutputterFactory::get_new_JobOutputter() + 28
+16  rosetta_scripts.static.macosclangre 0x00000001050c5107 protocols::jd2::JobDistributorFactory::create_job_outputter() + 103
+17  rosetta_scripts.static.macosclangre 0x00000001050bb089 protocols::jd2::JobDistributor::init_jd() + 281
+18  rosetta_scripts.static.macosclangre 0x00000001050baeb9 protocols::jd2::JobDistributor::JobDistributor() + 121
+19  rosetta_scripts.static.macosclangre 0x00000001050b4a19 protocols::jd2::FileSystemJobDistributor::FileSystemJobDistributor() + 25
+20  rosetta_scripts.static.macosclangre 0x00000001050c4e7d protocols::jd2::JobDistributorFactory::create_job_distributor() + 461
+21  rosetta_scripts.static.macosclangre 0x00000001050bad6d protocols::jd2::JobDistributor::get_instance() + 125
+22  rosetta_scripts.static.macosclangre 0x0000000102ea132d main + 1421
+23  dyld                                0x000000020a76452e start + 462
+24  dyld                                0x000000020a75f000 dyld + 0
+
+[END_BACKTRACE]
+
+[FILE]: src/core/import_pose/import_pose.cc
+[LINE]: 362
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Cannot open file "./Users/iananderson/Desktop/Manihot_esculenta.pdb"
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
