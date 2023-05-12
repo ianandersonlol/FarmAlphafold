@@ -34,5 +34,5 @@ By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram i
 
 [create_esm_bash.py](create_esm_bash.md) This script, unlike the first one (createesm.py), names the output PDB files according to the first line in the corresponding FASTA file (excluding the '>' character), rather than the name of the input FASTA file.
 
-
+[esm_sbatch.sh](esm_sbatch.md)This script executes the esm_create_bash.py Python script using SLURM's sbatch command, passing input and output directories as arguments, while setting various SLURM options for job configuration.
 
