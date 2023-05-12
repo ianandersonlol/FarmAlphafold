@@ -27,6 +27,7 @@ On either the farm or your system, use the `create_bash.py` python script to gen
 By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram is a good ratio for this, but you need to do at least 2 core 16gb) and on bmh. Once generated you can change this. 
 
 ### Script Usage 
+
 #### Alphafold
 [running_files/create_bash.py](docs/createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
 
@@ -41,3 +42,6 @@ By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram i
 
 [ESM/esm_sbatch.sh](docs/esm_sbatch.md)This script executes the esm_create_bash.py Python script using SLURM's sbatch command, passing input and output directories as arguments, while setting various SLURM options for job configuration.
 
+#### Pre-fold tools
+
+[pre_run_wranagling/random_mutations.py](docs/random_mutations.md) This script automatically generates a library of point mutations for a single protein sequence. 
