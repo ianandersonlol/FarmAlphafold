@@ -38,14 +38,23 @@ The following SLURM options are set in this script:
 #SBATCH --mail-user=[email]
 ```
 `-o /home/[directory]/slurm-log/ESM_folding.txt`: Specifies the path where the standard output log file will be written.
+
 `-e /home/[directory]/slurm-log/ESM_folding_errors.txt`: Specifies the path where the error log file will be written.
+
 `-J ESMFOLD`: Sets the job name to "ESMFOLD".
+
 `-t 48:00:00`: Sets the time limit for the job to 48 hours.
+
 `-c 16`: Requests 16 CPU cores for the job.
+
 `--mem 128G`: Requests 128GB of memory for the job.
+
 `--gres=gpu:1`: Requests 1 GPU for the job.
+
 `--partition=gpu-a100-h`: Specifies the GPU partition to run the job on.
+
 `--mail-type=ALL`: Sends email notifications for job events.
+
 `--mail-user=[youremail]`: Specifies the email address to receive notifications.
 
 ## Command Line Arguments
