@@ -6,12 +6,10 @@ This script is designed to run a Python script called `esm_create_bash.py` using
 
 To use this script, follow the steps below:
 
-1. Ensure that you have SLURM installed and configured on your system.
-2. Make sure that you have the necessary permissions to run SLURM jobs.
-3. Prepare the input files required by the `esm_create_bash.py` script and place them in a directory of your choice.
-4. Choose a directory where you want the output files to be saved.
-5. Open a terminal or command prompt and navigate to the directory where this script is saved.
-6. Execute the script using the `sbatch` command, providing the input and output directories as command line arguments.
+1. Prepare the input files required by the `esm_create_bash.py` script and place them in a directory of your choice.
+2. Choose a directory where you want the output files to be saved.
+3. Open a terminal or command prompt and navigate to the directory where this script is saved.
+4. Execute the script using the `sbatch` command, providing the input and output directories as command line arguments.
 
 Example usage:
 
