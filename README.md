@@ -31,5 +31,7 @@ By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram i
 [create_bash.py](createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
 #### ESM 
 [runesm.py](runesm.md) This script submits protein sequences from FASTA files in a specified directory to the ESM Atlas API for structure prediction and saves the returned protein structures in a separate output directory.
+[create_esm_bash.py](create_esm_bash.md) This script, unlike the first one (createesm.py), names the output PDB files according to the first line in the corresponding FASTA file (excluding the '>' character), rather than the name of the input FASTA file.
+
 
 
