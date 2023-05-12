@@ -26,6 +26,7 @@ On either the farm or your system, use the `create_bash.py` python script to gen
 
 By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram is a good ratio for this, but you need to do at least 2 core 16gb) and on bmh. Once generated you can change this. 
 
-### EXAMPLE 
-`python3 create_bash.py '/home/icanders/alphafold_output/' '/home/icanders/MSH6_tudors/' icanderson@ucdavis.edu icanders`
+### Script Usage 
+[create_bash.py](createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
+
 
