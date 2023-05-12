@@ -1,23 +1,6 @@
 # FarmAlphafold
 (Note this only works for people in the gmonroe group. Changes can be made to work on your group, just ask me.)
 
-To split fastas
-use python package `split-fasta`
-
-`pip install split-fasta`
-
-`fastasplit <nameoffasta>`
-
-To Rename all FASTAs based on the sequence.
-
-```
-   for f in *.fasta
-    do
-    f1=$(head -n1 "$f" | sed 's/^.//')
-    mv -n "$f" "$f1.fasta"
-    done
-```
-
 ### Script Usage 
 
 #### Alphafold
@@ -37,6 +20,8 @@ To Rename all FASTAs based on the sequence.
 #### Pre-fold tools
 
 [pre_run_wranagling/random_mutations.py](docs/random_mutations.md) This script automatically generates a library of point mutations for a single protein sequence. 
+
+[fastasplit.sh](docs/fastasplit.md) This script automatically splits up fastas with multiple proteins and renames the new files to have hte protein name. Note if the proteins all have the same name then it won't split htem proprly and will overlap. 
 
 #### Post-fold tools
 [post_fold_wrangling/pdb_rename.py](docs/pdb_rename.md) This script renames all the PDB files with the base name of their respective directories and moves them to an output folder.
