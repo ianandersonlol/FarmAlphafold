@@ -27,6 +27,9 @@ On either the farm or your system, use the `create_bash.py` python script to gen
 By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram is a good ratio for this, but you need to do at least 2 core 16gb) and on bmh. Once generated you can change this. 
 
 ### Script Usage 
+#### Alphafold
 [create_bash.py](createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
+#### ESM 
+[runesm.py](runesm.md) This script submits protein sequences from FASTA files in a specified directory to the ESM Atlas API for structure prediction and saves the returned protein structures in a separate output directory.
 
 
