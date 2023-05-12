@@ -28,11 +28,16 @@ By default, it will reserve 32 cores and 256gb of ram. (I think 1cores:8gb ram i
 
 ### Script Usage 
 #### Alphafold
-[create_bash.py](createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
+[create_bash.py](docs/createbash.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account.
+
+[srun_copy_paste.py](docs/srun_copy_paste.md) This script creates a text file with the command to startup an Srun and the lines you need to copy and paste to start folding everything in a directory. Nice if you want to watch it..
+
+[create_bash_individual.py](docs/create_bash_individual.md) This script automates the generation of alphafold slurm jobs for the Monroe lab farm account for an individual fasta, instead of a directory of fastas like create_bash.
+
 #### ESM 
-[runesm.py](runesm.md) This script submits protein sequences from FASTA files in a specified directory to the ESM Atlas API for structure prediction and saves the returned protein structures in a separate output directory.
+[runesm.py](docs/runesm.md) This script submits protein sequences from FASTA files in a specified directory to the ESM Atlas API for structure prediction and saves the returned protein structures in a separate output directory.
 
-[create_esm_bash.py](create_esm_bash.md) This script, unlike the first one (createesm.py), names the output PDB files according to the first line in the corresponding FASTA file (excluding the '>' character), rather than the name of the input FASTA file.
+[create_esm_bash.py](docs/create_esm_bash.md) This script, unlike the first one (createesm.py), names the output PDB files according to the first line in the corresponding FASTA file (excluding the '>' character), rather than the name of the input FASTA file.
 
-[esm_sbatch.sh](esm_sbatch.md)This script executes the esm_create_bash.py Python script using SLURM's sbatch command, passing input and output directories as arguments, while setting various SLURM options for job configuration.
+[esm_sbatch.sh](docs/esm_sbatch.md)This script executes the esm_create_bash.py Python script using SLURM's sbatch command, passing input and output directories as arguments, while setting various SLURM options for job configuration.
 
