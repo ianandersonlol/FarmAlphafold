@@ -1,4 +1,4 @@
-# ESMFOLD Script Documentation
+# esm_sbatch.sh Documentation
 
 This script is designed to run a Python script called `esm_create_bash.py` using the SLURM workload manager. It sets various SLURM options, such as job name, output and error log file paths, time limit, number of CPU cores, memory allocation, GPU usage, and email notification settings. The script takes two command line arguments, an input directory and an output directory, and passes them as arguments to the `esm_create_bash.py` Python script.
 
