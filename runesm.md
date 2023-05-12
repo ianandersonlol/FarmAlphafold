@@ -1,4 +1,4 @@
-# Script Documentation
+# runesm.py Documentation
 
 This Python script automates the process of sending protein sequence data to the ESM Atlas API to fold the sequence, and saving the returned protein structure to a file. 
 
