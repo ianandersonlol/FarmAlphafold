@@ -20,12 +20,12 @@ You can install the required libraries using pip:
 
 Run the script using the following command:
 
-`python <script_name.py> <output_dir> <input_dir> <email> <farm_id>`
+`python create_bash.py <output_dir> <input_dir> <email> <farm_id>`
 
 
 Where:
 
-- `<script_name.py>` is the name of this script.
+- `create_bash.py` is the name of this script.
 - `<output_dir>` is the directory where output files will be stored. This must start and end with a `/`.
 - `<input_dir>` is the directory from which input files will be read. This must start and end with a `/`.
 - `<email>` is the email address to which logs will be sent.
