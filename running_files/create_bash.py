@@ -93,9 +93,9 @@ def write_initialization():
     print('#SBATCH --mail-user='+sys.argv[3],file = o)
     print('set -e',file = o)
     print('set -u',file = o)
-    print('module load spack/singularity/3.8.3',file = o)
-    print('singularity instance start --nv -B /home/icanders/alphafoldDownload /home/icanders/alphafold_singularity/alphafold.sif bash',file = o)
-    print('singularity exec instance://bash ~/'+file_name+'_'+input_dir_name+'.sh',file = o)
+    print('module load apptainer/1.0.2',file = o)
+    print('apptainer instance start --nv -B /home/icanders/alphafoldDownload /home/icanders/alphafold_singularity/alphafold.sif bash',file = o)
+    print('apptainer exec instance://bash ~/'+file_name+'_'+input_dir_name+'.sh',file = o)
     print('',file=o)
     o.close()
 
